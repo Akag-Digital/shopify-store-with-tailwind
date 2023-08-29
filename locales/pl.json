@@ -1,0 +1,668 @@
+{
+  "404": {
+    "title": "404 Nie znaleziono strony",
+    "subtext": "Strona, której szukasz, nie istnieje.",
+    "link": "Powrót do domu"
+  },
+  "home": {
+    "hero": {
+      "title": "To rzeczywiście działa!",
+      "subtitle": "Ciesz się w 100% suchymi, wolnymi od zapachu pachami przez co najmniej 3 dni!",
+      "button": "Kup teraz"
+    },
+    "banner-product": {
+      "title": "Silna mgła",
+      "discover": "Odkryj nasze ",
+      "discover-bold": "Silna mgła",
+      "image": "1656402261_anadir_un_titulo_60.png-1200w.webp",
+      "button": "Zamów teraz"
+    },
+    "product-list": {
+    },
+    "banner-left": {
+      "title": "On jest świeży.",
+      "subtitle": "No Sweat No Smell - Spray",
+      "description": "Zasługujesz na to, by codziennie być świeżą. Spryskaj się raz, idź spać, a następnego dnia wstań i błyszcz. ",
+      "button": "Zamów teraz"
+    },
+    "banner-right": {
+      "title": "Spróbuj Roller.",
+      "subtitle": "No Time To Sweat - Roller",
+      "description": "Powiedz \"dobranoc\" spoconym pachom! Roll przed snem, a obudzisz się z uczuciem chłodu i odświeżenia. Ciesz się stylem życia wolnym od potu i zapachu przez następne 3-7 dni.",
+      "button": "Zamów teraz"
+    },
+    "howitworks": {
+      "title": "Chcesz wiedzieć, jak to działa?",
+      "description": "Nasza sekretna formuła miesza małą sól i alkohol razem wewnątrz małego wałka. Zastosuj przed snem i hej presto, twoje spocone życie zmieni się na lepsze!",
+      "button": "Przeczytaj jak"
+    },
+    "community-polar": {
+      "join-community": "Dołącz do społeczności i otrzymaj 5 € zniżki na każde zamówienie!",
+      "title": "Społeczność firmy Polar. ",
+      "description": "Dołącz do naszej społeczności i otrzymaj 5 euro zniżki na całe życie. Dostarczymy Twoje zamówienie prosto do Twojej skrzynki na listy. ",
+      "button": "Dołącz do społeczności"
+    },
+    "newsletter": {
+      "title": "register to receive news",
+      "subtitle": "We will let you know about discounts and news",
+      "success": "thank you for registering",
+      "error": "Message error",
+      "placeholder": "E-mail address",
+      "submit": "subscription"
+    },
+    "trust": {
+      "title": "Świeże pachy poszły przed tobą!",
+      "review": "Review leason"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Twój koszyk",
+      "note": "Dodaj notatkę do zamówienia",
+      "removed_item_html": "Usunięto <span class=\"cart__removed-product-details\">({{ quantity }}) {{ link }}<\/span> z koszyka.",
+      "remove": "Usuń",
+      "subtotal": "Suma cząstkowa",
+      "savings": "Oszczędzasz",
+      "taxes_and_shipping_at_checkout": "Podatki i wysyłka obliczane są przy kasie.",
+      "taxes_and_shipping_policy_at_checkout_html": "Podatki i <a href=\"{{ link }}\">sprzedaż<\/a> obliczane w kasie.",
+      "taxes_included_but_shipping_at_checkout": "Podatek wliczony i wysyłka obliczona w kasie",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
+      "update": "Aktualizacja",
+      "checkout": "Sprawdź",
+      "empty": "Twój koszyk jest obecnie pusty.",
+      "cookies_required": "Włącz pliki cookie, aby korzystać z koszyka",
+      "continue_shopping": "Kontynuuj zakupy",
+      "cart_error": "Wystąpił błąd podczas aktualizacji koszyka. Proszę spróbować ponownie."
+    },
+    "label": {
+      "discounted_total": "Zdyskontowana suma",
+      "product": "Produkt",
+      "price": "Cena",
+      "price_column": "Szczegóły dotyczące rabatów znajdują się w kolumnie Cena.",
+      "product_details": "Szczegóły produktu",
+      "quantity": "Ilość",
+      "qty": "Ilość",
+      "regular_total": "Regularna suma",
+      "remove": "Usuń {{ produkt }}",
+      "total": "Razem",
+      "update": "Aktualizacja"
+    },
+    "popup": {
+      "added_to_cart": "Właśnie dodano do koszyka",
+      "cart_count": {
+        "one": "{{ count }} pozycja",
+        "other": "{{ count }} pozycje"
+      },
+      "product_details": "Szczegóły produktu",
+      "quantity": "Ilość",
+      "quantity_label": "Ilość: {{ quantity_count }}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Nazwa",
+      "email": "Email",
+      "phone": "Numer telefonu",
+      "message": "Wiadomość",
+      "submit": "Wyślij",
+      "post_success": "Dziękujemy za kontakt z nami. Odezwiemy się do Ciebie tak szybko, jak to możliwe.",
+      "error_heading": "Prosimy o dostosowanie następujących elementów:"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Moje konto",
+      "details": "Szczegóły dotyczące konta",
+      "view_addresses": "Wyświetl adresy",
+      "return": "Powrót do szczegółów konta",
+      "manage_subscriptions": "Zarządzaj subskrypcjami"
+    },
+    "activate_account": {
+      "title": "Aktywuj konto",
+      "subtext": "Utwórz swoje hasło, aby aktywować swoje konto.",
+      "password": "Hasło",
+      "password_confirm": "Potwierdź hasło",
+      "submit": "Aktywuj konto",
+      "cancel": "Odrzucenie zaproszenia"
+    },
+    "addresses": {
+      "title": "Twoje adresy",
+      "default": "Domyślnie",
+      "add_new": "Dodaj nowy adres",
+      "edit_address": "Edytuj adres",
+      "first_name": "Imię",
+      "last_name": "Nazwisko",
+      "company": "Firma",
+      "address1": "Adres",
+      "address2": "Mieszkanie, apartament itp.",
+      "city": "Miasto",
+      "country": "Kraj\/region",
+      "province": "Prowincja",
+      "zip": "Kod pocztowy\/kod pocztowy",
+      "phone": "Telefon",
+      "set_default": "Ustaw jako adres domyślny",
+      "add": "Dodaj adres",
+      "update": "Adres aktualizacji",
+      "cancel": "Anuluj",
+      "edit": "Edytuj",
+      "delete": "Usuń",
+      "delete_confirm": "Czy na pewno chcesz usunąć ten adres?"
+    },
+    "login": {
+      "title": "Zaloguj się",
+      "account": "Twoje konto",
+      "create_account": "Załóż konto",
+      "email": "Adres E-mail",
+      "password": "Hasło",
+      "forgot_password": "Nie pamiętasz hasła?",
+      "sign_in": "Sign In",
+      "log_in": "Zaloguj się",
+      "guest_title": "Kontynuuj jako gość",
+      "guest_continue": "Kontynuuj"
+    },
+    "orders": {
+      "title": "Historia zamówień",
+      "order_number": "Zamówienie",
+      "order_number_link": "Numer zamówienia {{ numer }}",
+      "date": "Data",
+      "payment_status": "Status płatności",
+      "fulfillment_status": "Stan realizacji",
+      "total": "Razem",
+      "none": "Nie złożyłeś jeszcze żadnego zamówienia."
+    },
+    "order": {
+      "title": "Zamówienie {{ nazwa }}",
+      "date_html": "Umieszczone w dniu {{ data }}",
+      "cancelled_html": "Zamówienie anulowane w dniu {{ data }}",
+      "cancelled_reason": "Powód: {{ powód }}",
+      "billing_address": "Adres rozliczeniowy",
+      "payment_status": "Status płatności",
+      "shipping_address": "Adres do wysyłki",
+      "fulfillment_status": "Stan realizacji",
+      "discount": "Rabat",
+      "shipping": "Wysyłka",
+      "tax": "Podatek",
+      "product": "Produkt",
+      "sku": "SKU",
+      "price": "Cena",
+      "quantity": "Ilość",
+      "total": "Razem",
+      "fulfilled_at_html": "Spełnione {{ data }}",
+      "subtotal": "Suma cząstkowa",
+      "track_shipment": "Śledzenie przesyłki"
+    },
+    "recover_password": {
+      "title": "Zresetuj swoje hasło",
+      "email": "Email",
+      "submit": "Zgłoś",
+      "cancel": "Anuluj",
+      "subtext": "Wyślemy Ci wiadomość E-mail, aby zresetować Twoje hasło.",
+      "success": "Wysłaliśmy Ci wiadomość E-mail z linkiem do aktualizacji hasła."
+    },
+    "reset_password": {
+      "title": "Resetowanie hasła do konta",
+      "subtext": "Wprowadź nowe hasło dla {{ email }}",
+      "password": "Hasło",
+      "password_confirm": "Potwierdź hasło",
+      "submit": "Resetuj hasło"
+    },
+    "register": {
+      "title": "Utwórz konto",
+      "first_name": "Imię",
+      "last_name": "Nazwisko",
+      "email": "Email",
+      "password": "Hasło",
+      "submit": "Utwórz"
+    }
+  },
+  "about": {
+    "title": "Witam! Jesteśmy Brian, Max, Martjin i Dennis. Dzięki, że wpadliście,",
+    "content": "#P Jak wszystkie dobre innowacje potrzebowaliśmy rozwiązać problem bliski domowi.  Mianowicie, jeden z nas bardzo się pocił. #\/P #Próbował każdego środka, jaki można sobie wyobrazić, ale pozostawał sfrustrowany, ponieważ żaden z nich nie działał. Przy najmniejszym wysiłku pojawiały się duże plamy potu.&nbsp; #\/P #P Próbowano koszulek z wbudowanymi wkładkami do majtek pod pachami. Dezodoranty były rozpylane bardziej w nadziei niż w oczekiwaniu, często w celu zamaskowania zapachu, a nie zapobieżenia poceniu się.#\/P #Ostateczną słomką był gorący letni dzień. Wiedzieliśmy, że musimy działać.#\/P #P Tak więc wspólnie założyliśmy The Polar Company. Naszą misją jest zapewnienie nam, i Tobie, chłodu w każdej sytuacji! #\/P #PMartijn &amp; Dennis#\/P",
+    "join-community": {
+      "title": "Dołącz do społeczności Polar Company!",
+      "subtitle": "Zostań częścią najświeższej społeczności! I zawsze otrzymuj €5,- zniżki! ",
+      "link": "Dołącz do społeczności"
+    }
+  },
+  "privacy": {
+    "title": "Oświadczenie dotyczące prywatności i plików cookie The Polar Company",
+    "subtitle": "15 kwietnia 2021 r.",
+    "content": ""
+  },
+  "jobs": {
+    "title": "Czy przyjdziesz i pomożesz nam? ",
+    "content": "#P A więc jesteś zainteresowany przyjściem do pracy w naszym zespole! Świetnie. Chętnie dowiemy się więcej o tym, jak możesz pomóc w rozwoju naszej małej firmy.#BR#\/P #P#BR#\/P #P Wyślij do nas E-mail na adres #A #Uhallo@thepolarcompany.com#\/U#\/A i przedstaw się!#\/P",
+    "baseboard": "Obecnie nie ma dostępnych wolnych miejsc.    "
+  },
+  "subscription": {
+    "title_1": "Dlaczego warto dołączyć do społeczności?",
+    "content_1": "Dołącz do naszej społeczności i otrzymaj 5 euro zniżki na całe życie. Dostarczymy Twoje zamówienie prosto do Twojej skrzynki na listy. ",
+    "title_2": "Dożywotnia zniżka 5 euro",
+    "content_2": "Kiedy będziesz potrzebować ponownego zamówienia, dostarczymy Ci je. Twój rabat 5 euro zostanie automatycznie zastosowany. ",
+    "title_3": "Darmowa dostawa",
+    "content_3": "Nasze opakowania są wysyłane pocztą i zostały zaprojektowane tak, aby bez wysiłku wsunąć je do skrzynki na listy. ",
+    "title_4": "Odświeżająco prosta obsługa klienta",
+    "content_4": "Możesz wybrać gdzie, kiedy i ile potrzebujesz. Nie ma żadnego drobnego druku. Ani bzdur. Tylko my, w twoim narożniku, zapewniamy ci spokój, gdy nas potrzebujesz. Damy Ci nawet znać, kiedy Twoje zamówienie będzie w drodze.  ",
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "subtitle": "Znajdź odpowiedź na swoje pytanie poniżej!",
+      "options": {
+        "option_1": {
+          "title": "Dostawa",
+          "answers": {
+            "1": {
+              "title": "Zamówiłem Extra Strong, ale otrzymałem Strong. Jak to możliwe?",
+              "answer": "Od niedawna butelki mają nowy wygląd. Na nowych butelkach widnieje obecnie tylko napis \"Strong\". Jednak Strong nadal zawiera potężną formułę jak poprzednio!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Abonament",
+          "answers": {
+            "1": {
+              "title": "Chcę częściej otrzymywać nową butelkę, czy mogę to zmienić?",
+              "answer": "| Czy chcesz zmienić częstotliwość swojej subskrypcji? |Jest to możliwe, możesz to łatwo dostosować na swoim koncie. Utknąłeś? |Wyślij nam wiadomość przez WhatsApp lub napisz na adres|hallo@thepolarcompany.com"
+            },
+            "2": {
+              "title": "Czy mogę wybrać pomiędzy Rollerem a Sprayem?",
+              "answer": "| Czy chcą Państwo przełączać się pomiędzy Rollerem a Sprayem? |Jest to możliwe, możesz wybrać spośród następujących opcji:| - Roller (Original lub Strong). - Spray (Oryginalny lub Mocny).||Możesz to dostosować na swoim koncie!"
+            },
+            "3": {
+              "title": "Przeprowadzam się, czy mogę zmienić adres?",
+              "answer": "Możesz zmienić swój adres na swoim koncie!"
+            }
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Pomoc",
+    "content": "Zapraszamy do kontaktu z nami w każdej chwili, ale zanim to zrobisz, sprawdź nasze najczęściej zadawane pytania, aby zobaczyć, czy na Twoje zapytanie nie została już udzielona odpowiedź.",
+    "open-time": "Pon - Pt; 9:00 - 18:00",
+    "email": "Napisz do nas:"
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "subtitle": "Znajdź odpowiedź na swoje pytanie poniżej!",
+    "options": {
+      "option_1": {
+        "title": "Dostawa",
+        "answers": {
+          "1": {
+            "title": "Zamówiłem Extra Strong, ale otrzymałem Strong. Jak to możliwe?",
+            "answer": "Od niedawna butelki mają nowy wygląd. Na nowych butelkach widnieje obecnie tylko napis \"Strong\". Jednak Strong nadal zawiera potężną formułę jak poprzednio!"
+          },
+          "2": {
+            "title": "Chcę zmienić swój adres; jak to zrobić?",
+            "answer": "Jeśli Twoje zamówienie nie zostało wysłane, to możesz zmienić swój adres wysyłając nam wiadomość przez WhatsApp lub pocztą na adres hallo@thepolarcompany.com. Następnie upewnimy się, że Twój adres został zaktualizowany."
+          },
+          "3": {
+            "title": "Jaki jest czas realizacji zamówienia?",
+            "answer": "Średnio zamówienia są dostarczane w ciągu 2 do 3 dni roboczych w Holandii. Czasami może to potrwać nieco dłużej.#BR #BR Jeśli Twoje zamówienie trafia do Belgii, Francji, Niemiec lub Hiszpanii, zajmie to od 3 do 5 dni roboczych."
+          },
+          "4": {
+            "title": "Czy muszę być w domu, aby złożyć zamówienie?",
+            "answer": "Nie! Twoje zamówienie zmieści się przez skrzynkę na listy. Dzięki temu będziesz mógł w pełni cieszyć się swoim dniem."
+          },
+          "5": {
+            "title": "Jak długo potrwa otrzymanie mojego zamówienia?",
+            "answer": "Jeśli zamówiłeś przed 16:00, otrzymasz zamówienie w ciągu 3 dni! Czy w PostNL jest bardzo dużo pracy? W takim razie Twoja paczka może potrwać nieco dłużej. #BR #BR Na szczęście nie musisz zostawać w domu, wszystkie nasze produkty mieszczą się w skrzynce na listy."
+          }
+        }
+      },
+      "option_2": {
+        "title": "Zastosowanie",
+        "answers": {
+          "1": {
+            "title": "Jakie są składniki?",
+            "answer": "#B Strong: #\/B #BR alkohol, heksahydrat chlorku glinu, benzoesan denaturatu, olejek z owoców citrus aurantium bergamia, MEK #BR #B Original: #\/B #BR alkohol, aqua, chlorohydrat aluminium, glikol propylenowy, benzoesan denaturatu, olejek z owoców citrus aurantium bergamia, MEK"
+          },
+          "2": {
+            "title": " Nie otrzymałem zamówienia po 3 dniach (roboczych), co teraz?",
+            "answer": "Jakie to denerwujące! Jeśli u przewoźnika jest zajęty, dotarcie Twojej paczki może potrwać nieco dłużej. #BR #BR Wyślij do nas wiadomość przez WhatsApp lub pocztą na adres hallo@thepolarcompany.com Proszę zawrzeć swoje imię i nazwisko oraz numer zamówienia. #BR #BR W ten sposób możemy wyszukać Twoje zamówienie w naszym systemie."
+          },
+          "3": {
+            "title": " Chcę częściej otrzymywać nową butelkę, czy mogę to zmienić?",
+            "answer": "Czy chcesz zmienić częstotliwość swojej subskrypcji? #BR #BR Jest to możliwe, możesz to łatwo dostosować samodzielnie na swoim koncie. #BR #BR Utknąłeś w martwym punkcie? Wyślij nam wiadomość przez WhatsApp lub maila na hallo@thepolarcompany.com."
+          },
+          "4": {
+            "title": " Czy mogę wybrać pomiędzy Rollerem a Sprayem?",
+            "answer": "Czy chcesz przełączać się między Rollerem a Sprayem? #BR #BR Jest to możliwe, możesz wybrać spośród następujących opcji: #BR - Roller (Original lub Strong). - Spray (Original lub Strong). #BR #BR Możesz to dostosować na swoim koncie!"
+          },
+          "5": {
+            "title": "Przeprowadzam się, czy mogę zmienić adres?",
+            "answer": "Możesz zmienić swój adres na swoim koncie!"
+          },
+          "6": {
+            "title": "Czy oprócz tego produktu mogę używać dezodorantu lub perfum?",
+            "answer": "Tak!!! Używanie dezodorantu lub perfum w ciągu dnia nie wpływa na działanie tego produktu."
+          },
+          "7": {
+            "title": "Dlaczego produkty zawierają alkohol?",
+            "answer": "Nasz produkt oparty jest na alkoholu, a nie na wodzie, ponieważ rozpuszczalna sól musi być aktywowana w skórze, a nie na jej powierzchni."
+          },
+          "8": {
+            "title": "Jak to działa?",
+            "answer": "Nasz produkt jest skuteczny dzięki rozpuszczalnej soli rozpuszczonej w alkoholu. #BR #BR Roztwór wchłania się w skórę w nocy i zapobiega przedostawaniu się potu na powierzchnię skóry. #BR #BR Sól naturalnie znika po kilku dniach, podobnie jak naturalne zastępowanie martwych komórek skóry. #BR #BR Dlatego wystarczy użyć jej tylko raz na kilka dni."
+          }
+        }
+      },
+      "option_3": {
+        "title": "Abonament",
+        "answers": {
+          "1": {
+            "title": "Co zrobić, jeśli moja płatność jest nieudana?",
+            "answer": " Nie martw się, możesz spróbować zapłacić ponownie. Nie wyślemy Ci produktu, dopóki płatność nie zostanie pomyślnie zrealizowana. #BR #BR Czy Twoja płatność nadal jest nieudana? Wyślij nam wiadomość!"
+          },
+          "2": {
+            "title": "A co z gwarancją?",
+            "answer": "Gwarancja prawna dotyczy wszystkich przedmiotów, które od nas kupujesz. Gwarancja prawna oznacza, że produkt jest lub musi robić to, czego konsument może racjonalnie od niego oczekiwać. #BR #BR Masz problem z gwarancją? Wyślij nam wiadomość E-mail! hello@thepolarcompany.com"
+          },
+          "3": {
+            "title": "Czy wszystkie podane ceny zawierają podatek VAT?",
+            "answer": " Wszystkie ceny na naszej stronie zawierają podatek VAT."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Inne pytania",
+        "answers": {
+          "1": {
+            "title": "Co należy zrobić w przypadku reklamacji?",
+            "answer": "W przypadku reklamacji można wysłać E-mail na adres hallo@thepolarcompany.com. Czy wolisz zadzwonić? Skontaktuj się z nami pod numerem +31 85 808 8243"
+          },
+          "2": {
+            "title": "Zdarza się, że podczas stosowania produktu pojawia się u mnie wysypka, co mogę zrobić?",
+            "answer": ""
+          },
+          "3": {
+            "title": "Czy można bezpiecznie stosować ten produkt w czasie ciąży?",
+            "answer": "Tak. Nasz produkt działa tylko na powierzchni skóry, nie ma absolutnie żadnej absorpcji do krwiobiegu, więc nie można zaszkodzić dziecku w czasie ciąży, nawet jeśli dziecko jest karmione piersią"
+          },
+          "4": {
+            "title": "Czy ten produkt jest bezpieczny dla wszystkich typów skóry?",
+            "answer": "Nasz produkt jest bezpieczny, nawet dla wrażliwych typów skóry.  #BR #BR Dla skóry wrażliwej: #BR Rozpylić raz na każdy obszar i oszczędnie nakładać za pomocą waty (przydatne są płatki do demakijażu). #BR #BR W ten sposób można łatwo potraktować obszary twarzy i inne wrażliwe obszary skóry, takie jak pachwiny i pod piersiami. Do wchłonięcia nadmiaru produktu po aplikacji można użyć talku."
+          },
+          "5": {
+            "title": "Czy zapobieganie poceniu się jest niebezpieczne?",
+            "answer": "Kontrolowanie pocenia się w \"gorących punktach\" nie jest niebezpieczne, ponieważ skóra chłodzi się poprzez inne miejsca na ciele. #BR #BR Pot, który nie może się wydostać, jest po prostu przekazywany przez krwiobieg do innych kanałów potowych lub wydalany przez nerki."
+          },
+          "6": {
+            "title": "Czy można bezpiecznie stosować ten produkt na całym ciele?",
+            "answer": "Tak! #BR #BR Dla skóry wrażliwej: Rozpylić raz na każdy obszar i nakładać oszczędnie za pomocą waty (przydatne są płatki do demakijażu). W ten sposób można łatwo potraktować obszary twarzy i inne wrażliwe obszary skóry, takie jak pachwiny i pod piersiami. Do wchłonięcia nadmiaru produktu po aplikacji można użyć talku."
+          }
+        }
+      },
+      "option_5": {
+        "title": "Jak to działa",
+        "answers": {
+          "1": {
+            "title": "Czy ten produkt może poplamić moje ubrania?",
+            "answer": "Jeśli używasz produktu zgodnie z zaleceniami, nigdy nie poplami on Twoich ubrań. Aby mieć pewność, umyj leczoną skórę rano."
+          }
+        }
+      },
+      "option_6": {
+        "title": "Bezpieczeństwo",
+        "answers": {
+          "1": {
+            "title": "Dlaczego muszę stosować ten produkt przed snem?",
+            "answer": "Nasz produkt jest skuteczny dzięki rozpuszczalnej soli rozpuszczonej w alkoholu. Roztwór wchłania się w skórę w nocy i zapobiega przedostawaniu się potu na powierzchnię skóry. Sól naturalnie znika po kilku dniach, podobnie jak naturalne zastępowanie martwych komórek skóry. Dlatego wystarczy, że użyjesz Polara raz na kilka dni."
+          },
+          "2": {
+            "title": "Czy oprócz tego produktu mogę używać balsamu lub kremów nawilżających?",
+            "answer": " Tak, jeśli zastosujesz produkt tak, jak przepisaliśmy, możesz używać dowolnego innego produktu bez skutków ubocznych.#BR #BR Jeśli masz jakieś pytania na ten temat, możesz wysłać nam wiadomość na +31858088243."
+          },
+          "3": {
+            "title": "Myślę, że produkt nie działa dla mnie",
+            "answer": " Nie bądź smutny. Nasze doświadczenie mówi nam, że nasz produkt naprawdę działa dla prawie każdego.#BR #BR Wyślij nam wiadomość, aby wspólnie dowiedzieć się, co działa dla Ciebie: +31 858088243. #BR #BR Czy naprawdę nie działa dla Ciebie? Zwrócimy Ci pieniądze :)"
+          },
+          "4": {
+            "title": " Spryskiwanie dwa razy w tygodniu to dla mnie za mało. Czy mogę używać go częściej?",
+            "answer": " Każdy jest inny i niektórzy ludzie pocą się bardziej niż inni. Używanie naszego produktu dwa razy w tygodniu jest punktem odniesienia, który sprawdza się u większości użytkowników. Dowiedz się, co jest dla Ciebie przydatne. Jeśli potrzebujesz pomocy, wyślij nam wiadomość: +31 858088243"
+          },
+          "5": {
+            "title": "Jak długo mogę używać butelki po otwarciu?",
+            "answer": " Nasze produkty mogą być używane do 6 miesięcy po otwarciu."
+          },
+          "6": {
+            "title": "Jak często należy stosować ten produkt?",
+            "answer": "To zależy od każdej osoby. Zalecamy stosowanie dwa razy w tygodniu jako punkt wyjścia. #BR #BR Na przykład użyj produktu w czwartek i niedzielę wieczorem, aby upewnić się, że jesteś wolny od potu w ciągu tygodnia i w weekendy. Jeśli to nie wystarczy, możesz również używać go częściej w tygodniu lub wypróbować nasz wariant Strong!"
+          }
+        }
+      },
+      "option_7": {
+        "title": "Części ciała",
+        "answers": {
+          "1": {
+            "title": "Jak najlepiej stosować ten produkt pod pachami?",
+            "answer": "  Rozpyl pod pachą raz lub dwa razy. Jeśli czujesz się bardziej komfortowo nakładając produkt za pomocą bawełnianego płatka do demakijażu, to również jest to możliwe. #BR #BR Przed nałożeniem produktu ważne jest, aby dokładnie osuszyć i oczyścić skórę. Niektórzy używają suszarki do włosów, aby wysuszyć skórę przed użyciem, ponieważ produkt może być drażniący, gdy ma kontakt z wilgocią (pot)."
+          },
+          "2": {
+            "title": "Czy mogę używać tego produktu na skórę głowy?",
+            "answer": " Możesz rozpylić produkt bezpośrednio na skórę głowy. Podziel włosy w zależności od potrzeb, a następnie potraktuj opuszkami palców. Zapobiegaj spływaniu płynu do oczu."
+          },
+          "3": {
+            "title": "Czy mogę używać tego produktu na twarz?",
+            "answer": " Tak!!! Produkt może być stosowany na każdą część skóry. Należy pamiętać, aby nie spryskiwać oczu.  #BR #BR Dla skóry wrażliwej: Spryskaj tylko raz każdy obszar i nakładaj oszczędnie za pomocą wacików (przydatne są płatki do demakijażu)."
+          },
+          "4": {
+            "title": "Czy ten produkt zapobiegnie poceniu się na plecach?",
+            "answer": "Nasz produkt utrzymuje dolną część pleców w suchości, ale niektóre osoby stwierdzą, że ich plecy nadal \"przeciekają\". W takim przypadku najlepiej jest nadal stosować produkt dwa razy w tygodniu i używać podpasek ze skrzydełkami. Nie są one widoczne i chronią bieliznę."
+          },
+          "5": {
+            "title": "Czy ten produkt pomaga w walce z wilgocią na dłoniach i stopach?",
+            "answer": "Tak!!! Nasz produkt został stworzony, aby zapobiec poceniu się na każdej części skóry. Unikanie syntetycznego obuwia wykonanego z nieoddychających materiałów również pomoże Twoim stopom mniej się pocić."
+          },
+          "6": {
+            "title": "Czy mogę stosować ten produkt na okolice łonowe?",
+            "answer": "  Tak, ale musisz zachować szczególną ostrożność, ponieważ skóra w tym miejscu jest cieńsza i przez to bardziej wrażliwa. #BR #BR Upewnij się, że Twoja skóra jest naprawdę sucha (talk lub suszarka do włosów mogą pomóc) i nakładaj bardzo oszczędnie produkt przez wacik zgodnie z instrukcją."
+          }
+        }
+      }
+    }
+  },
+  "howitworks": {
+    "title": "Tak to działa!",
+    "image": "1656332377_anadir_un_titulo_53.png-1900w.webp",
+    "topics": {
+      "top1": {
+        "title": "Sól i alkohol",
+        "content": " Używamy specjalnej, tajnej formuły, która miesza sól i alkohol razem. Jest ona stosowana zarówno w naszych produktach w sprayu, jak i w rolkach. Używamy soli, ponieważ działa ona jako kluczowy składnik, który tymczasowo zamyka gruczoły potowe, jednocześnie zapobiegając rozprzestrzenianiu się bakterii, aby zachować higienę skóry.  "
+      },
+      "top2": {
+        "title": "Spray i sen",
+        "content": " Spryskaj się przed snem i pozwól Polarowi zrobić swoją magię podczas snu. Przed zastosowaniem Polar ważne jest, aby dokładnie osuszyć i oczyścić skórę. Spryskaj się 1 lub 2 razy pod pachami, lub nawinąć cienką warstwę wałkiem, pozwól jej wyschnąć, a następnie wskocz do łóżka. Formuła, której używamy zatrzyma Twój pot wewnątrz skóry, dzięki czemu obudzisz się chłodny, świeży i pewny siebie, by cieszyć się dniem. To naprawdę takie proste:) ",
+        "image": ""
+      }
+    },
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "subtitle": "Znajdź odpowiedź na swoje pytanie poniżej!",
+      "options": {
+        "option_1": {
+          "title": "Dostawa",
+          "answers": {
+            "1": {
+              "title": "Zamówiłem Extra Strong, ale otrzymałem Strong. Jak to możliwe?",
+              "answer": "Od niedawna butelki mają nowy wygląd. Na nowych butelkach widnieje obecnie tylko napis \"Strong\". Jednak Strong nadal zawiera potężną formułę jak poprzednio!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Inne pytania",
+          "answers": {
+            "1": {
+              "title": "Dlaczego produkty zawierają alkohol?",
+              "answer": "Nasz produkt oparty jest na alkoholu, a nie na wodzie, ponieważ rozpuszczalna sól musi być aktywowana w skórze, a nie na jej powierzchni."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Jak to działa",
+          "answers": {
+            "1": {
+              "title": "Jak to działa?",
+              "answer": "Nasz produkt jest skuteczny dzięki rozpuszczalnej soli rozpuszczonej w alkoholu. #BR #BR Roztwór wchłania się w skórę w nocy i zapobiega przedostawaniu się potu na powierzchnię skóry. #BR #BR Sól naturalnie znika po kilku dniach, podobnie jak naturalne zastępowanie martwych komórek skóry. #BR #BR Dlatego wystarczy użyć jej tylko raz na kilka dni."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Zastosowanie",
+          "answers": {
+            "1": {
+              "title": "Dlaczego muszę stosować ten produkt przed snem?",
+              "answer": "Nasz produkt jest skuteczny dzięki rozpuszczalnej soli rozpuszczonej w alkoholu. #BR #BR Roztwór wchłania się w skórę w nocy i zapobiega przedostawaniu się potu na powierzchnię skóry. #BR #BR Sól naturalnie znika po kilku dniach, podobnie jak naturalne zastępowanie martwych komórek skóry. #BR #BR Dlatego wystarczy użyć jej tylko raz na kilka dni."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product": {
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "subtitle": "Znajdź odpowiedź na swoje pytanie poniżej!",
+      "options": {
+        "option_1": {
+          "title": "Zastosowanie",
+          "answers": {
+            "1": {
+              "title": "Jakie są składniki?",
+              "answer": "#B Strong Mist: #\/B #BR Alcohol Denat, Aluminum Chloride, Water, Perfume."
+            },
+            "2": {
+              "title": "Dlaczego muszę stosować ten produkt przed snem?",
+              "answer": "  Nasz produkt jest skuteczny dzięki rozpuszczalnej soli rozpuszczonej w alkoholu. Roztwór wchłania się w skórę przez noc i zapobiega przedostawaniu się potu na powierzchnię skóry. sól znika naturalnie po kilku dniach, jako naturalne zastąpienie martwych komórek skóry. Dlatego wystarczy, że użyjesz Polaru raz na kilka dni."
+            }
+          }
+        },
+        "option_2": {
+          "title": "Inne pytania",
+          "answers": {
+            "1": {
+              "title": "Na jak długo wystarcza jedna butelka?",
+              "answer": " To zależy od Twojej osobistej sytuacji i tego, jak bardzo się pocisz. Nasi użytkownicy wskazują na następujące: #BR #BR Starter Kit: 2 do 3 tygodni na jedną próbkę. Spray\/Roller: 2 do 3 miesięcy"
+            },
+            "2": {
+              "title": " Jaki jest czas realizacji zamówienia?",
+              "answer": " Średnio zamówienia są dostarczane w ciągu 2 do 3 dni przydatnych w Holandii. Czasami może to również zająć trochę więcej. #BR #BR Jeśli Twoje zamówienie idzie do Belgii, Francji, Niemiec lub Hiszpanii, trwa to od 3 do 5 dni roboczych."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Dostawa",
+          "answers": {
+            "1": {
+              "title": "Czy muszę być w domu, aby złożyć zamówienie?",
+              "answer": "Nie! Twoje zamówienie zmieści się w skrzynce pocztowej. Dzięki temu możesz w pełni wykorzystać swój dzień."
+            },
+            "2": {
+              "title": "Dlaczego produkty zawierają alkohol?",
+              "answer": "Nasz produkt oparty jest na alkoholu, a nie na wodzie, ponieważ sól rozpuszczalna musi być aktywowana na skórze, a nie na powierzchni."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Jak to działa",
+          "answers": {
+            "1": {
+              "title": "Jak to działa?",
+              "answer": "Nasz produkt jest skuteczny dzięki rozpuszczalnej soli rozpuszczonej w alkoholu. #BR #BR Roztwór wchłania się w skórę w nocy i zapobiega przedostawaniu się potu na powierzchnię skóry. #BR #BR Sól naturalnie znika po kilku dniach, podobnie jak naturalne zastępowanie martwych komórek skóry. #BR #BR Dlatego wystarczy użyć jej tylko raz na kilka dni."
+            }
+          }
+        }
+      }
+    }
+  },
+  "descover": {
+    "title": " Odkryj nasz #B Strong Mist Spray#\/B"
+  },
+  "menu": {
+    "shop": "Sklep",
+    "about": "O nas",
+    "how_it_works": "Jak to działa",
+    "subscription": "Subskrypcje",
+    "help_faq": "Pomoc i FAQ",
+    "log_out": "Wyloguj się",
+    "log_in": "Zaloguj się",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "vacancies": "Wakaty",
+    "terms": "Regulamin",
+    "privacy": "Polityka prywatności"
+  },
+  "modal_1": {
+    "title": "Widzimy, że kupujesz z innego kraju. Czy chciałbyś, abyśmy zmienili kraj i walutę?",
+    "yes": "Tak",
+    "no": "Nie"
+  },
+  "modal_subscrition": {
+    "title": "Zapisałeś się? Świetnie!",
+    "info_1": " #B Elastyczna częstotliwość:#\/B #BR Nie jesteś pewien jak często potrzebujesz TP? Nie ma problemu! Zawsze możesz to dostosować w swoim portalu.",
+    "info_2": "#B 3 day reminder:#\/B #BR Przed każdą wysyłką wyślemy ci E-mail. Jeśli nie jesteś gotowy, możesz opóźnić swoją dostawę. Nie martw się, rachunek wystawimy dopiero po wysłaniu zamówienia.",
+    "info_3": " #B Anulowanie i modyfikacja w dowolnym momencie:#\/B #BR Możesz łatwo anulować, dokonać zmian, dodać produkty i zarządzać harmonogramem dostaw za pośrednictwem swojego konta online.",
+    "button": "Aye aye, kapitanie!",
+    "footer": "#Jednorazowy kod rabatowy#\/B dostępny tylko dla #B nowych abonentów.#\/B Powtarzające się zamówienia zostaną automatycznie obciążone regularną ceną. Oferta nie może być stosowana razem z innymi kodami rabatowymi."
+  },
+  "modal_variant": {
+    "title": "Proszę wybrać wariant przed dodaniem do koszyka.",
+    "close": "Zamknij"
+  },
+  "product_related": {
+    "title": "Inne produkty, które mogą Ci się spodobać",
+    "button": "Idź do sklepu."
+  },
+  "product_info": {
+    "amount": "Kwota",
+    "more_select": "80% escolhido",
+    "delivery": " Przewidywana dostawa: Tue, March 14",
+    "added_to_cart": "Dodaj do koszyka"
+  },
+  "collection_customer": {
+    "see_all": "Zobacz wszystkie produkty"
+  },
+  "collection_product": {
+    "polar": "Sweat-free or Money-back Guarantee",
+    "title": "The solution against sweat!",
+    "subtitle": "100% sweat &amp; odor free | Up to 7 days dry",
+    "subtitle_1": "Find out the best solution to tackle your sweat issues!"
+  },
+  "show_more": "Show more",
+  "footer": {
+    "title": "Jesteśmy tu, aby Ci pomóc!",
+    "help_faq": "Pomoc i FAQ",
+    "returns": "Zwraca",
+    "feedback": "Informacja zwrotna",
+    "vacancies": "Wakaty",
+    "blog": "Blog",
+    "terms": "Regulamin",
+    "privacy": "Polityka prywatności",
+    "open-time": "Pon - Pt; 9:00 - 18:00",
+    "email": "Napisz do nas:",
+    "corpory": "© 2023 The Polar Company. Wszelkie prawa zastrzeżone "
+  },
+  "search": {
+    "not_found": "Nie znaleziono wyników dla:",
+    "results": "Wyniki dla:",
+    "home": "Strona główna"
+  },
+  "gift_card": {
+    "title": "Oto twoja karta podarunkowa!",
+    "title_1": "Oto twój ",
+    "title_2": " karta podarunkowa dla",
+    "disabled": "Niepełnosprawni",
+    "expired_on": "Wygasło w dniu ",
+    "use_card": "Użyj tego kodu przy kasie, aby zrealizować swoją kartę podarunkową.",
+    "start": "Rozpocznij zakupy",
+    "print": "Drukuj"
+  },
+  "product_template": {
+    "select_size": "Wybierz rozmiar:",
+    "sold_off": "Sprzedane",
+    "added_to_cart": "Dodaj do koszyka",
+    "composition": "Skład",
+    "description": "Opis"
+  }
+}

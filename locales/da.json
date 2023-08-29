@@ -1,0 +1,666 @@
+{
+  "404": {
+    "title": "404 SIDE IKKE FUNDT",
+    "subtext": "Den side, du leder efter, findes ikke.",
+    "link": "Tilbage til hjemmet"
+  },
+  "home": {
+    "hero": {
+      "title": "Det fungerer faktisk!",
+      "subtitle": "Nyd 100% tør, lugtfrie armhuler i mindst 3 dage!",
+      "button": "Køb nu"
+    },
+    "banner-product": {
+      "title": "Strong Mist",
+      "discover": "Oplev vores",
+      "discover-bold": "Strong Mist",
+      "image": "1655304894_mist-3839x1686px-en.png-1200w.webp",
+      "button": "Bestil nu"
+    },
+    "banner-left": {
+      "title": "Han er frisk.",
+      "subtitle": "Ingen sved ingen lugt - Spray",
+      "description": "Du fortjener at være frisk hver dag. Sprøjt en gang, gå i seng, stiger derefter og skinnende den næste dag",
+      "button": "Bestil nu"
+    },
+    "banner-right": {
+      "title": "Prøv den Roller.",
+      "subtitle": "Ingen tid til at svede - Roller",
+      "description": "Sig god nat til svedne armhuler! Rul før sengetid, og du vil vågne op og føle dig cool og forfrisket. Nyd en sved og lugtfri livsstil i de næste 3-7 dage.",
+      "button": "Bestil nu"
+    },
+    "howitworks": {
+      "title": "Vil du vide, hvordan dette fungerer?",
+      "description": "Vores hemmelige formel blander lidt salt og alkohol sammen inde i en lille rulle. Påfør inden sengetid og hej presto, dit svedige liv vil ændre sig til det bedre!",
+      "button": "Læs hvordan"
+    },
+    "community-polar": {
+      "join-community": "Deltag i samfundet og modtag € 5 rabat på enhver ordre!",
+      "title": "Polar Company -samfundet.",
+      "description": "Deltag i vores samfund og modtag en € 5 rabat for livet. Vi leverer derefter din ordre direkte til din brevkasse.",
+      "button": "Deltag i samfundet"
+    },
+    "newsletter": {
+      "title": "register to receive news",
+      "subtitle": "We will let you know about discounts and news",
+      "success": "thank you for registering",
+      "error": "Message error",
+      "placeholder": "E-mail address",
+      "submit": "subscription"
+    },
+    "trust": {
+      "title": "Friske armhuler gik foran dig!",
+      "review": "Review leason"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Din indkøbsvogn",
+      "note": "Tilføj en note til din ordre",
+      "removed_item_html": "Fjernede <span class=\"cart__removed-produkt-detaljer\"> ({{quantity}}) {{link} <\/span> fra din indkøbskurv.",
+      "remove": "Fjerne",
+      "subtotal": "Subtotal",
+      "savings": "Du sparer",
+      "taxes_and_shipping_at_checkout": "Skatter og forsendelse beregnet ved kassen",
+      "taxes_and_shipping_policy_at_checkout_html": "Skatter og <a href=\";",
+      "taxes_included_but_shipping_at_checkout": "Skat inkluderet og forsendelse beregnet ved kassen",
+      "taxes_included_and_shipping_policy_html": "Skat inkluderet. meget",
+      "update": "Opdatering",
+      "checkout": "Tjek ud",
+      "empty": "Din indkøbsvogn er i øjeblikket tom.",
+      "cookies_required": "Aktivér cookies til at bruge indkøbskurven",
+      "continue_shopping": "Fortsætte med at handle",
+      "cart_error": "Der var en fejl, mens du opdaterede din indkøbskurv. Prøv igen."
+    },
+    "label": {
+      "discounted_total": "Diskonteret i alt",
+      "product": "Produkt",
+      "price": "Pris",
+      "price_column": "Se prissøjlen for rabatoplysninger.",
+      "product_details": "Produktoplysninger",
+      "quantity": "Antal",
+      "qty": "Antal",
+      "regular_total": "Regelmæssig total",
+      "remove": "Fjern {{product}}",
+      "total": "Total",
+      "update": "opdatering"
+    },
+    "popup": {
+      "added_to_cart": "Bare føjet til din indkøbsvogn",
+      "cart_count": {
+        "one": "{{count}} vare",
+        "other": "{{count}} varer"
+      },
+      "product_details": "Produktoplysninger",
+      "quantity": "Antal",
+      "quantity_label": "Mængde: {{quantity_count}}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Navn",
+      "email": "E -mail",
+      "phone": "Telefonnummer",
+      "message": "Besked",
+      "submit": "Sende",
+      "post_success": "Tak for at kontakte os. Vi vender tilbage til dig så hurtigt som muligt.",
+      "error_heading": "Juster følgende:"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Min konto",
+      "details": "konto detaljer",
+      "view_addresses": "Se adresser",
+      "return": "Vend tilbage til kontooplysninger",
+      "manage_subscriptions": "Administrer abonnementer"
+    },
+    "activate_account": {
+      "title": "Aktivér konto",
+      "subtext": "Opret din adgangskode for at aktivere din konto.",
+      "password": "Adgangskode",
+      "password_confirm": "Bekræft kodeord",
+      "submit": "Aktivér konto",
+      "cancel": "Afvise invitation"
+    },
+    "addresses": {
+      "title": "Dine adresser",
+      "default": "Standard",
+      "add_new": "Tilføj en ny adresse",
+      "edit_address": "Rediger adresse",
+      "first_name": "Fornavn",
+      "last_name": "Efternavn",
+      "company": "Selskab",
+      "address1": "Adresse",
+      "address2": "Lejlighed, suite osv.",
+      "city": "By",
+      "country": "Land\/region",
+      "province": "Provins",
+      "zip": "Post\/postnummer",
+      "phone": "telefon",
+      "set_default": "Indstil som standardadresse",
+      "add": "Tilføj adresse",
+      "update": "Opdateringsadresse",
+      "cancel": "Afbestille",
+      "edit": "Redigere",
+      "delete": "Slet",
+      "delete_confirm": "Er du sikker på, at du ønsker at slette denne adresse?"
+    },
+    "login": {
+      "title": "Log på",
+      "account": "Din konto",
+      "create_account": "Opret en konto",
+      "email": "Email adresse",
+      "password": "adgangskode",
+      "forgot_password": "Glemt din adgangskode?",
+      "sign_in": "Log ind",
+      "log_in": "Log ind på",
+      "guest_title": "Fortsæt som gæst",
+      "guest_continue": "Blive ved"
+    },
+    "orders": {
+      "title": "ordre historik",
+      "order_number": "Bestille",
+      "order_number_link": "Ordrenummer {{number}}",
+      "date": "Dato",
+      "payment_status": "Betalingsstatus",
+      "fulfillment_status": "Opfyldelsesstatus",
+      "total": "Total",
+      "none": "Du har ikke afgivet nogen ordrer endnu."
+    },
+    "order": {
+      "title": "Bestil {{name}}",
+      "date_html": "Placeret på {{date}}",
+      "cancelled_html": "Ordre annulleret på {{date}}",
+      "cancelled_reason": "Årsag: {{reason}}",
+      "billing_address": "Betalingsadresse",
+      "payment_status": "Betalingsstatus",
+      "shipping_address": "Forsendelsesadresse",
+      "fulfillment_status": "Opfyldelsesstatus",
+      "discount": "Rabat",
+      "shipping": "Forsendelse",
+      "tax": "Skat",
+      "product": "Produkt",
+      "sku": "SKU",
+      "price": "pris",
+      "quantity": "antal",
+      "total": "Total",
+      "fulfilled_at_html": "Opfyldt {{date}}",
+      "subtotal": "subtotal",
+      "track_shipment": "Sporforsendelse"
+    },
+    "recover_password": {
+      "title": "Nulstil din adgangskode",
+      "email": "E-mail",
+      "submit": "Indsend",
+      "cancel": "afbestille",
+      "subtext": "Vi sender dig en E-mail for at nulstille din adgangskode.",
+      "success": "Vi har sendt dig en E-mail med et link for at opdatere din adgangskode."
+    },
+    "reset_password": {
+      "title": "Nulstil kontoadgangskode",
+      "subtext": "Indtast en ny adgangskode til {{email}}",
+      "password": "Adgangskode",
+      "password_confirm": "bekræft kodeord",
+      "submit": "Nulstille kodeord"
+    },
+    "register": {
+      "title": "Opret konto",
+      "first_name": "fornavn",
+      "last_name": "efternavn",
+      "email": "E -mail",
+      "password": "adgangskode",
+      "submit": "skab"
+    }
+  },
+  "about": {
+    "title": "Hej! Vi er Brian, Max, Martjin og Dennis. Tak fordi du kom forbi,",
+    "content": "#P Som alle gode innovationer havde vi brug for at løse et problem tæt på hjemmet. En af os plejede nemlig at svede meget. #\/P  #P Han havde prøvet alle de midler, du kan forestille dig, men forblev frustreret, da ingen af ​​dem virkede. Den mindste anstrengelse ville resultere i store svedpletter.#\/P   #P T-shirts med indbygget trusseindlæg til armhulerne blev prøvet. Deodoranter blev sprøjtet mere i håb end i forventning, ofte for at maskere lugten i stedet for at forhindre sved.#\/P  #P Dråben var en varm sommerdag. Vi vidste, at vi var nødt til at handle. #\/P  #P Så vi grundlagde The Polar Company sammen. Vores mission er at holde os, og dig, cool i enhver situation! #\/P #P Martijn og Dennis#\/P",
+    "join-community": {
+      "title": "Deltag i Polar Company -samfundet!",
+      "subtitle": "Bliv en del af det friskeste samfund! Og får altid € 5,- rabat!",
+      "link": "Deltag i samfundet"
+    }
+  },
+  "privacy": {
+    "title": "Privatliv &amp; Cookie -erklæring det polære selskab",
+    "subtitle": "15. april 2021",
+    "content": "Privatliv &amp; Cookie -erklæring det polære selskab"
+  },
+  "jobs": {
+    "title": "Vil du komme og hjælpe os?",
+    "content": "#P Så er du interesseret i at komme på arbejde med vores team! Store. Vi vil meget gerne høre mere om, hvordan du kan hjælpe vores lille firma med at vokse.#BR #\/P #BR #P Send os en E-mail til #A #U hallo@thepolarcompany.com #\/U #\/A og introducer dig selv!#\/P",
+    "baseboard": "Der er i øjeblikket ingen ledige stillinger til rådighed."
+  },
+  "subscription": {
+    "title_1": "Hvorfor deltage i samfundet?",
+    "content_1": "Deltag i vores samfund og modtag en € 5 rabat for livet. Vi leverer derefter din ordre direkte til din brevkasse.",
+    "title_2": "Lifetime € 5 rabat",
+    "content_2": "Når du har brug for at bestille, leverer vi. Din rabat på € 5 anvendes automatisk.",
+    "title_3": "Gratis fragt",
+    "content_3": "Vores emballage sendes via mail og er designet til ubesværet at glide ind i din brevkasse.",
+    "title_4": "Forfriskende enkel kundeservice",
+    "content_4": "Du kan vælge, hvor, hvornår og hvor meget du har brug for. Der er ingen fin udskrivning. Eller bullshit. Bare os, i dit hjørne, holder dig kølig, når du har brug for os. Vi vil endda fortælle dig, hvornår din ordre er på vej.",
+    "faq": {
+      "title": "Ofte stillede spørgsmål",
+      "subtitle": "Find svaret på dit spørgsmål nedenfor!",
+      "options": {
+        "option_1": {
+          "title": "Levering",
+          "answers": {
+            "1": {
+              "title": "Jeg bestilte den ekstra stærke, men modtog den stærke. Hvordan er det muligt?",
+              "answer": "For nylig har flaskerne et nyt look. De nye flasker har i øjeblikket kun 'stærk' på dem. Imidlertid indeholder den stærke stadig den magtfulde formel som før!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Abonnement",
+          "answers": {
+            "1": {
+              "title": "Jeg vil modtage en ny flaske oftere, kan jeg ændre dette?",
+              "answer": "| Vil du ændre hyppigheden af dit abonnement? || Det er muligt, du kan nemt justere dette selv på din konto. Sætter du dig fast? || Send os en besked via whatsapp eller mail til|hallo@thepolarcompany.com"
+            },
+            "2": {
+              "title": "Kan jeg vælge mellem den Roller eller Spray?",
+              "answer": "| Vil du skifte mellem den Roller eller Spray? || Det er muligt, du kan vælge mellem følgende indstillinger: || - Roller (Original or Strong). - Spray (Original or Strong). || Du kan justere dette på din konto!"
+            },
+            "3": {
+              "title": "Jeg bevæger mig, kan jeg ændre min adresse?",
+              "answer": "Du kan ændre din adresse på din konto!"
+            }
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Hjælp",
+    "content": "Du er velkommen til at kontakte os når som helst, men inden du gør det, skal du tjekke vores ofte stillede spørgsmål for at se, om din forespørgsel allerede er blevet besvaret.",
+    "open-time": "Man - fre; 9:00 - 18:00",
+    "email": "E -mail os:"
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål",
+    "subtitle": "Find svaret på dit spørgsmål nedenfor!",
+    "options": {
+      "option_1": {
+        "title": "Levering",
+        "answers": {
+          "1": {
+            "title": "Jeg bestilte den Extra Strong, men modtog den stærke. Hvordan er det muligt?",
+            "answer": "For nylig har flaskerne et nyt look. De nye flasker har i øjeblikket kun 'Strong' på dem. Imidlertid indeholder den Strong stadig den magtfulde formel som før!"
+          },
+          "2": {
+            "title": "Jeg vil ændre min adresse; Hvordan gør jeg det?",
+            "answer": "Hvis din ordre ikke er sendt, kan du ændre din adresse ved at sende os en besked via Whatsapp eller Mail til hallo@thepolarcompany.com. Vi vil derefter sikre, at din adresse opdateres."
+          },
+          "3": {
+            "title": "Hvad er leveringstiden for en ordre?",
+            "answer": "I gennemsnit leveres ordrer inden for 2 til 3 arbejdsdage i Holland. Nogle gange kan dette også tage lidt længere tid. #BR #BR Hvis din ordre går til Belgien, Frankrig, Tyskland eller Spanien, vil dette tage 3 til 5 arbejdsdage."
+          },
+          "4": {
+            "title": "Skal jeg være hjemme for min ordre?",
+            "answer": "Ingen! Din ordre passer gennem brevkassen. På denne måde kan du nyde din dag fuldt ud."
+          },
+          "5": {
+            "title": "Hvor lang tid tager det at modtage min ordre?",
+            "answer": "Hvis du bestilte inden 16:00, modtager du ordren inden for 3 dage! Er det meget travlt på Postnl? Så kan din pakke tage lidt længere tid. #BR #BR Heldigvis behøver du ikke at blive hjemme, vores produkter passer alle gennem brevkassen."
+          }
+        }
+      },
+      "option_2": {
+        "title": "Brug",
+        "answers": {
+          "1": {
+            "title": "Hvad er ingredienserne?",
+            "answer": "#B Strong: #\/B #BR Alcohol, Aluminium Chloride Hexahydrat, Denatonium Benzoate, Citrus Aurantium Bergamia Fruit Oil, Mek #BR #B , Citrus Aurantium Bergamia Fruit Oil, Mek"
+          },
+          "2": {
+            "title": "Jeg har ikke modtaget min ordre efter 3 (forretningsmæssige) dage, hvad nu?",
+            "answer": "Hvor irriterende! Hvis det er travlt hos transportøren, kan din pakke muligvis tage lidt længere tid at ankomme. #BR #BROW Send en besked til os via whatsapp eller mail til hallo@thepolarcompany.com Medtag dit navn og ordrenummer. #BR #BR på denne måde kan vi søge efter din ordre i vores system."
+          },
+          "3": {
+            "title": "Jeg vil modtage en ny flaske oftere, kan jeg ændre dette?",
+            "answer": "Vil du ændre hyppigheden af dit abonnement? #BR #BR Det er muligt, du kan nemt justere dette selv på din konto. #BR #BR sidder du fast? Send os en besked via whatsapp eller mail til hallo@thepolarcompany.com"
+          },
+          "4": {
+            "title": "Kan jeg vælge mellem rullen eller sprayen?",
+            "answer": "Vil du skifte mellem rullen eller sprayen? #BR #BR Det er muligt, du kan vælge mellem følgende indstillinger: #BR - Roller (original eller stærk). - Spray (original eller stærk). #BR #BR Du kan justere dette på din konto!"
+          },
+          "5": {
+            "title": "Jeg bevæger mig, kan jeg ændre min adresse?",
+            "answer": "Du kan ændre din adresse på din konto!"
+          },
+          "6": {
+            "title": "Kan jeg bruge deodorant eller parfume ud over dette produkt?",
+            "answer": "Ja! Brug af deodorant eller parfume i løbet af dagen påvirker ikke den effekt dette produkt."
+          },
+          "7": {
+            "title": "Hvorfor indeholder produkterne alkohol?",
+            "answer": "Vores produkt er baseret på alkohol og ikke vand, fordi det opløselige salt skal aktiveres i huden og ikke på overfladen."
+          },
+          "8": {
+            "title": "Hvordan virker det?",
+            "answer": "Vores produkt er effektivt på grund af det opløselige salt, der er opløst i alkohol. #BR #BR Opløsningen absorberes i huden om natten og forhindrer sved i at nå hudoverfladen. #BR #BR SALTEN forsvinder naturligt efter et par dage, ligesom den naturlige udskiftning af døde hudceller. #BR #BR Det er derfor, du kun behøver at bruge det en gang i løbet af et par dage."
+          }
+        }
+      },
+      "option_3": {
+        "title": "abonnement",
+        "answers": {
+          "1": {
+            "title": "Hvad hvis min betaling ikke lykkes?",
+            "answer": "Bare rolig, du kan prøve at betale igen. Vi sender dig ikke et produkt, før betalingen er vellykket. #BR #BR Er din betaling stadig ikke succesrig? Send os en besked!"
+          },
+          "2": {
+            "title": "Hvad med garanti?",
+            "answer": "Den juridiske garanti gælder for alle varer, du køber fra os. Juridisk garanti betyder, at et produkt er eller skal gøre, hvad forbrugeren med rimelighed kan forvente af det. #BR #BR Har du et garantisproblem? Send os en E-mail! hej@thepolarcompany.com"
+          },
+          "3": {
+            "title": "Er alle nævnte priser inklusive moms?",
+            "answer": "Alle priser på vores websted inkluderer moms."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Andre spørgsmål",
+        "answers": {
+          "1": {
+            "title": "Hvad skal jeg gøre i tilfælde af klager?",
+            "answer": "I tilfælde af klager kan du sende en E-mail til hallo@thepolarcompany.com. Vil du hellere ringe? Kontakt os på +31 85 808 8243"
+          },
+          "2": {
+            "title": "Jeg får lejlighedsvis udslæt, når jeg bruger produktet, hvad kan jeg gøre?",
+            "answer": ""
+          },
+          "3": {
+            "title": "Er det sikkert at bruge dette produkt under graviditeten?",
+            "answer": "Ja. Vores produkt fungerer kun på overfladen af huden, der er absolut ingen absorption i blodbanen, så babyen kan ikke blive skadet under graviditeten, selv når babyen ammes"
+          },
+          "4": {
+            "title": "Er dette produkt sikkert for alle hudtyper?",
+            "answer": "Vores produkt er sikkert, selv for følsomme hudtyper. #BR #B for følsom hud: #BR Spray en gang på hvert område og påfør sparsomt med bomuldsuld (make-up remover puder er nyttige). #BR #BR På denne måde kan områder af ansigtet og andre følsomme hudområder såsom lysken og under brysterne let behandles. Du kan bruge talkum til at absorbere ethvert overskydende produkt efter påføring."
+          },
+          "5": {
+            "title": "Er det farligt at forhindre sved?",
+            "answer": "Det er ikke farligt at kontrollere sved i 'hot spots', fordi din hud afkøles sig selv gennem andre steder på din krop. #BR #BR Den sved, der ikke kan undslippe, føres simpelthen gennem blodbanen til andre svedkanaler eller udskilles gennem nyrerne."
+          },
+          "6": {
+            "title": "Er det sikkert at bruge dette produkt over hele kroppen?",
+            "answer": "Ja! #BR #BR for følsom hud: Spray en gang på hvert område og påfør sparsomt med bomuldsuld (make-up remover puder er nyttige). På denne måde kan områder af ansigtet og andre følsomme hudområder såsom lysken og under brysterne let behandles. Du kan bruge talkum til at absorbere ethvert overskydende produkt efter påføring."
+          }
+        }
+      },
+      "option_5": {
+        "title": "Hvordan det virker",
+        "answers": {
+          "1": {
+            "title": "Kan dette produkt plette mit tøj?",
+            "answer": "Hvis du bruger produktet som anført, vil det aldrig plette dit tøj. For at være sikker, skal du vaske den behandlede hud om morgenen."
+          }
+        }
+      },
+      "option_6": {
+        "title": "Sikkerhed",
+        "answers": {
+          "1": {
+            "title": "Hvorfor skal jeg anvende dette produkt inden sengetid?",
+            "answer": "Vores produkt er effektivt på grund af det opløselige salt, der er opløst i alkohol. Løsningen absorberes i huden om natten og forhindrer sved i at nå hudoverfladen. Saltet forsvinder naturligvis efter et par dage, ligesom den naturlige udskiftning af døde hudceller. Derfor behøver du kun at bruge polær en gang i løbet af få dage."
+          },
+          "2": {
+            "title": "Kan jeg bruge lotion eller fugtighedscreme ud over dette produkt?",
+            "answer": "Ja, hvis du anvender produktet, som vi ordinerer, kan du bruge ethvert andet produkt, du ønsker uden bivirkninger. #BR #BR Hvis du har spørgsmål om dette, kan du sende os en besked på +31858088243."
+          },
+          "3": {
+            "title": "Jeg tror, at produktet ikke fungerer for mig",
+            "answer": "Vær ikke trist. Vores erfaring fortæller os, at vores produkt virkelig fungerer for næsten alle. #BR #BR Send os en besked for at finde ud af sammen, hvad der fungerer for dig: +31 858088243. #BR #BR FOR AT VIKKER IKKE FOR DIG? Vi refunderer dine penge :)"
+          },
+          "4": {
+            "title": "Sprøjtning to gange om ugen er ikke nok for mig. Kan jeg bruge det oftere?",
+            "answer": "Alle er forskellige, og nogle mennesker sveder mere end andre. Brug af vores produkt to gange om ugen er et referencepunkt, der fungerer for de fleste brugere. Find ud af, hvad der er nyttigt for dig. Hvis du har brug for hjælp, skal du sende os en besked: +31 858088243"
+          },
+          "5": {
+            "title": "Hvor længe kan jeg bruge flasken efter åbning?",
+            "answer": "Vores produkter kan bruges op til 6 måneder efter åbningen."
+          },
+          "6": {
+            "title": "Hvor ofte bruger jeg dette produkt?",
+            "answer": "Dette afhænger af hver person. Vi anbefaler at bruge to gange om ugen som udgangspunkt. #BR #BR Brug for eksempel produktet på torsdag og søndag aften for at sikre dig, at du er svedfri i løbet af ugen og i weekenderne. Hvis dette ikke er nok, kan du også bruge det oftere i løbet af ugen eller prøve vores stærke variant!"
+          }
+        }
+      },
+      "option_7": {
+        "title": "Kropsdele",
+        "answers": {
+          "1": {
+            "title": "Hvad er den bedste måde at anvende dette produkt under mine armhuler på?",
+            "answer": "Sprøjt under din arm en eller to gange. Hvis du føler dig mere komfortabel med at anvende produktet med en bomulds make-up remover pad, er dette også muligt. #BR #BR Før det påføres produktet, er det vigtigt at tørre og rengøre din hud grundigt. Nogle mennesker bruger en hårtørrer til at tørre huden inden brug, fordi produktet kan være irriterende, når det kommer i kontakt med fugt (sved)."
+          },
+          "2": {
+            "title": "Kan jeg bruge dette produkt i min hovedbund?",
+            "answer": "Du kan sprøjte produktet direkte på din hovedbund. Del håret efter behov, og behandl derefter med fingerspidser. Forhindre væsken i at løbe i dine øjne."
+          },
+          "3": {
+            "title": "Kan jeg bruge dette produkt på mit ansigt?",
+            "answer": "Ja! Produktet kan bruges på enhver del af din hud. Husk ikke at sprøjte i dine øjne. #BR #BR for følsom hud: Spray kun en gang på hvert område og påfør sparsomt med bomuldsuld (make-up remover pads er nyttige)."
+          },
+          "4": {
+            "title": "Vil dette produkt forhindre sved på ryggen?",
+            "answer": "Vores produkt holder korsryggen tørt, men nogle mennesker vil opdage, at deres ryg stadig 'lækker'. I dette tilfælde er det bedst at fortsætte med at bruge produktet to gange om ugen og bruge et bevinget sanitært serviet. De er ikke synlige og beskytter undertøjene."
+          },
+          "5": {
+            "title": "Hjælper dette produkt mod vådhed på hænder og fødder?",
+            "answer": "Ja! Vores produkt er lavet til at forhindre sved på enhver del af din hud. At undgå syntetisk fodtøj lavet af ikke-åndelige materialer vil også hjælpe dine fødder med at svede mindre."
+          },
+          "6": {
+            "title": "Kan jeg bruge dette produkt i skamområdet?",
+            "answer": "Ja, men du skal være ekstra forsigtig, fordi huden er tyndere og derfor mere følsom på dette område. #BR #BR #EM Sørg for, at din hud er virkelig tør (talkum eller en hårtørrer kan hjælpe) og anvende meget produktet sparsomt via bomuldsuld som anført.#\/EM"
+          }
+        }
+      }
+    }
+  },
+  "howitworks": {
+    "title": "Sådan fungerer det!",
+    "image": "1619785329_blob.png-1900w.webp",
+    "topics": {
+      "top1": {
+        "title": "Salt og alkohol",
+        "content": "Vi bruger en speciel, hemmelig formel, der blander salt og alkohol sammen. Dette bruges i både vores spray- og rulleprodukter. Vi bruger salt, da det fungerer som en nøgleingrediens til midlertidigt at lukke svedkirtlerne, mens vi forhindrer bakterier i at sprede sig for at holde din hudhygiejnisk."
+      },
+      "top2": {
+        "title": "Spray og søvn",
+        "content": "Spray før sengetid, og lad Polar gøre sin magi, mens du sover. Før man påfører polær, er det vigtigt at tørre og rengøre din hud grundigt. Spray 1 eller 2 gange under din armhule, eller rul et tyndt lag med rullen, lad det tørre, og hopp derefter i sengen. Den formel, vi bruger, holder din sved inde i huden, så du vågner op kølig, frisk og sikker på at nyde din dag. Det er virkelig så enkelt :)",
+        "image": ""
+      }
+    },
+    "faq": {
+      "title": "Ofte stillede spørgsmål",
+      "subtitle": "Find svaret på dit spørgsmål nedenfor!",
+      "options": {
+        "option_1": {
+          "title": "levering",
+          "answers": {
+            "1": {
+              "title": "Jeg bestilte den ekstra stærke, men modtog den stærke. Hvordan er det muligt?",
+              "answer": "For nylig har flaskerne et nyt look. De nye flasker har i øjeblikket kun 'stærk' på dem. Imidlertid indeholder den stærke stadig den magtfulde formel som før!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Andre spørgsmål",
+          "answers": {
+            "1": {
+              "title": "Hvorfor indeholder produkterne alkohol?",
+              "answer": "Vores produkt er baseret på alkohol og ikke vand, fordi det opløselige salt skal aktiveres i huden og ikke på overfladen."
+            }
+          }
+        },
+        "option_3": {
+          "title": "hvordan det virker",
+          "answers": {
+            "1": {
+              "title": "Hvordan virker det?",
+              "answer": "Vores produkt er effektivt på grund af det opløselige salt, der er opløst i alkohol. #BR #BR Opløsningen absorberes i huden om natten og forhindrer sved i at nå hudoverfladen. #BR #BR SALTEN forsvinder naturligt efter et par dage, ligesom den naturlige udskiftning af døde hudceller. #BR #BR Det er derfor, du kun behøver at bruge det en gang i løbet af et par dage."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Brug",
+          "answers": {
+            "1": {
+              "title": "Hvorfor skal jeg anvende dette produkt inden sengetid?",
+              "answer": "Vores produkt er effektivt på grund af det opløselige salt, der er opløst i alkohol. #BR #BR Opløsningen absorberes i huden om natten og forhindrer sved i at nå hudoverfladen. #BR #BR SALTEN forsvinder naturligt efter et par dage, ligesom den naturlige udskiftning af døde hudceller. #BR #BR Det er derfor, du kun behøver at bruge det en gang i løbet af et par dage."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product": {
+    "faq": {
+      "title": "Ofte stillede spørgsmål",
+      "subtitle": "Find svaret på dit spørgsmål nedenfor!",
+      "options": {
+        "option_1": {
+          "title": "Brug",
+          "answers": {
+            "1": {
+              "title": "Hvad er ingredienserne?",
+              "answer": "#B Strong Mist: #\/B #BR Sprit, aluminiumklorid, vand, parfume"
+            },
+            "2": {
+              "title": "Hvorfor skal jeg anvende dette produkt inden sengetid?",
+              "answer": "Vores produkt er effektivt på grund af det opløselige salt, der er opløst i alkohol. Opløsningen absorberes i huden natten over og forhindrer, at sved når hudens overflade. Saltet forsvinder naturligt efter et par dage som en naturlig udskiftning af døde hudceller. Derfor behøver du kun at bruge den polære en gang hvert par dage."
+            }
+          }
+        },
+        "option_2": {
+          "title": "Andre spørgsmål",
+          "answers": {
+            "1": {
+              "title": "Hvor længe varer en flaske?",
+              "answer": "Det afhænger af din personlige situation, og hvor meget du sveder. Vores brugere angiver følgende: #BR #BR Starter Kit: 2 til 3 uger pr. Prøve. Spray rulle: 2 til 3 måneder"
+            },
+            "2": {
+              "title": "Hvad er leveringstiden for en ordre?",
+              "answer": "I gennemsnit leveres ordrer inden for 2 til 3 dage nyttige i Holland. Nogle gange kan det også tage et stykke tid mere. #BR #BR Hvis din ordre går til Belgien, Frankrig, Tyskland eller Spanien, tager det 3 til 5 arbejdsdage."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Levering",
+          "answers": {
+            "1": {
+              "title": "Skal jeg være hjemme for min ordre?",
+              "answer": "Ingen! Din ordre passer ind i postkassen. På denne måde kan du få mest muligt ud af din dag."
+            },
+            "2": {
+              "title": "Hvorfor indeholder produkterne alkohol?",
+              "answer": "Vores produkt er baseret på alkohol og ikke vand, fordi saltopløseligt skal aktiveres på huden og ikke på overfladen."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Hvordan det virker",
+          "answers": {
+            "1": {
+              "title": "Hvordan virker det?",
+              "answer": "Vores produkt er effektivt på grund af det opløselige salt, der er opløst i alkohol. #BR #BR Opløsningen absorberes i huden om natten og forhindrer sved i at nå hudoverfladen. #BR #BR SALTEN forsvinder naturligt efter et par dage, ligesom den naturlige udskiftning af døde hudceller. #BR #BR Det er derfor, du kun behøver at bruge det en gang i løbet af et par dage."
+            }
+          }
+        }
+      }
+    }
+  },
+  "descover": {
+    "title": "Oplev vores #B Strong Mist Spray #\/B"
+  },
+  "menu": {
+    "shop": "Butik",
+    "about": "Om os",
+    "how_it_works": "Hvordan det virker",
+    "subscription": "Abonnementer",
+    "help_faq": "Hjælp & ofte stillede spørgsmål",
+    "log_out": "Log ud",
+    "log_in": "Log ind på",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "vacancies": "Ledige stillinger",
+    "terms": "Vilkår og Betingelser",
+    "privacy": "Fortrolighedspolitik"
+  },
+  "modal_1": {
+    "title": "Vemos que você está comprando de outre país. Deseja que alteraremos seu país e moeda?",
+    "yes": "Ja",
+    "no": "Ingen"
+  },
+  "modal_subscrition": {
+    "title": "Abonnement? Store!",
+    "info_1": "#B Fleksibel frekvens: #\/B #BR Ikke sikker på, hvor ofte du har brug for? No Problemo! Du kan altid justere det i din portal.",
+    "info_2": "#B 3 -dages påmindelse: #\/B #BR Vi E-mailer dig inden hver forsendelse. Hvis du ikke er klar, kan du forsinke din levering. Bare rolig, vi fakturerer dig kun, når din ordre sendes.",
+    "info_3": "#B Annuller og ændrer når som helst: #\/B #BR du kan nemt annullere, foretage ændringer, tilføje produkter og administrere din leveringsplan via din online konto.",
+    "button": "Aye aye, kaptajn!",
+    "footer": "#B én gang rabatkode#\/B tilgængelig kun for #B nye abonnenter.#\/B tilbagevendende ordrer debiteres automatisk til almindelig pris. Tilbud kan ikke bruges sammen med andre rabatkoder."
+  },
+  "modal_variant": {
+    "title": "Vælg en variant, før du tilføjer til indkøbskurv.",
+    "close": "Tæt"
+  },
+  "product_related": {
+    "title": "Andre produkter, du måske kan lide",
+    "button": "Gå til butikken."
+  },
+  "product_info": {
+    "amount": "Beløb",
+    "more_select": "80% valgte",
+    "delivery": "Forventet levering: Tir, 14. marts",
+    "added_to_cart": "Tro på"
+  },
+  "collection_customer": {
+    "see_all": "Se alle produkter"
+  },
+  "collection_product": {
+    "polar": "Svedfri eller pengene tilbage garanti",
+    "title": "Løsningen mod sved!",
+    "subtitle": "100% sved- og lugtfri | Op til 7 dages tørhed",
+    "subtitle_1": "Find den bedste løsning til at tackle dine svedproblemer!"
+  },
+  "show_more": "Show more",
+  "footer": {
+    "title": "Vi er her for at hjælpe dig!",
+    "help_faq": "Hjælp & ofte stillede spørgsmål",
+    "returns": "Vender tilbage",
+    "feedback": "Feedback",
+    "vacancies": "Ledige stillinger",
+    "blog": "Blog",
+    "terms": "Vilkår og Betingelser",
+    "privacy": "Fortrolighedspolitik",
+    "open-time": "Man - fre; 9:00 - 18:00",
+    "email": "E -mail os:",
+    "corpory": "© 2023 Polar Company. Alle rettigheder forbeholdes"
+  },
+  "search": {
+    "not_found": "Ingen resultater fundet for:",
+    "results": "Resultater for:",
+    "home": "Hjem"
+  },
+  "gift_card": {
+    "title": "Her er dit gavekort!",
+    "title_1": "Her er din",
+    "title_2": "gavekort til",
+    "disabled": "handicappet",
+    "expired_on": "Udløbet på",
+    "use_card": "Brug denne kode ved kassen for at indløse dit gavekort.",
+    "start": "Begynd shopping",
+    "print": "Print"
+  },
+  "product_template": {
+    "select_size": "Vælg en størrelse:",
+    "sold_off": "Solgt",
+    "added_to_cart": "Tilføj til kurv",
+    "composition": "Sammensætning",
+    "description": "Beskrivelse"
+  }
+}

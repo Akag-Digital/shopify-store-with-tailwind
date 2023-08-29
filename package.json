@@ -1,0 +1,11 @@
+{
+  "name": "stitch-ease-shopify",
+  "scripts": {
+    "start": "theme watch",
+    "css": "npx tailwindcss -i ./assets/global.css -o ./assets/tailwind.css --watch "
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {}
+}

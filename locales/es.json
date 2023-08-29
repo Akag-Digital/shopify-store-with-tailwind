@@ -1,0 +1,668 @@
+{
+  "404": {
+    "title": "404 Pagina no encontrada",
+    "subtext": "La página que está buscando no existe.",
+    "link": "de vuelta a casa"
+  },
+  "home": {
+    "hero": {
+      "title": "¡La solución contra el sudor!",
+      "subtitle": "Disfruta de unas axilas 100% secas y sin olores durante al menos 3 días.",
+      "button": "Comprar ahora"
+    },
+    "banner-product": {
+      "title": "Strong Mist",
+      "discover": "descubrir nuestro",
+      "discover-bold": "Strong Mist",
+      "image": "1656403278_anadir_un_titulo_63.png-1200w.webp",
+      "button": "Ordenar ahora"
+    },
+    "product-list": {
+    },
+    "banner-left": {
+      "title": "Él está fresco.",
+      "subtitle": "Sin sudor sin olor - spray",
+      "description": "Te mereces estar fresco todos los días. Rocíe una vez, ve a la cama, luego levántate y brilla al día siguiente",
+      "button": "ordenar ahora"
+    },
+    "banner-right": {
+      "title": "Prueba el rodillo.",
+      "subtitle": "No hay tiempo para sudar - Roller",
+      "description": "¡Diga buenas noches a las axilas sudorosas! Enrolle antes de acostarse, y se despertará sintiéndose fresco y renovado. Disfrute de un estilo de vida sin sudar y olor durante los próximos 3-7 días.",
+      "button": "ordenar ahora"
+    },
+    "howitworks": {
+      "title": "¿Quieres saber cómo funciona esto?",
+      "description": "Nuestra fórmula secreta mezcla poco sal y alcohol dentro de un pequeño rodillo. Solicite antes de acostarse y Hola Presto, ¡su vida sudorosa cambiará para mejor!",
+      "button": "Leer como"
+    },
+    "community-polar": {
+      "join-community": "¡Únase a la comunidad y reciba un descuento de € 5 en cada pedido!",
+      "title": "La comunidad de la empresa polar.",
+      "description": "Únase a nuestra comunidad y reciba un descuento de 5 € por la vida. Luego entregaremos su pedido directamente a su buzón.",
+      "button": "Unete a la communidad"
+    },
+    "newsletter": {
+      "title": "register to receive news",
+      "subtitle": "We will let you know about discounts and news",
+      "success": "thank you for registering",
+      "error": "Message error",
+      "placeholder": "E-mail address",
+      "submit": "subscription"
+    },
+    "trust": {
+      "title": "¡Las axilas frescas fueron antes que tú!",
+      "review": "Review leason"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Tu carrito",
+      "note": "Agregue una nota a su pedido",
+      "removed_item_html": "Eliminado <span class = \"car__removed-product-details\"> ({{cantidad}}) {{link}} <\/span> desde su carrito.",
+      "remove": "Eliminar",
+      "subtotal": "Total parcial",
+      "savings": "estás salvando",
+      "taxes_and_shipping_at_checkout": "Impuestos y envíos calculados al finalizar",
+      "taxes_and_shipping_policy_at_checkout_html": "Impuestos y <a href=\"{ enlace} }\"> envío <\/a> calculado al finalizar la compra",
+      "taxes_included_but_shipping_at_checkout": "Impuestos incluidos y envíos calculados al finalizar",
+      "taxes_included_and_shipping_policy_html": "Impuesto incluido. <a href=\"{\/enlace} }\"> envío <\/a> calculado al pago.",
+      "update": "Actualizar",
+      "checkout": "verificar",
+      "empty": "Su carrito está vacío.",
+      "cookies_required": "Permitir que las cookies usen el carrito de compras",
+      "continue_shopping": "seguir comprando",
+      "cart_error": "Hubo un error al actualizar su carrito. Inténtalo de nuevo."
+    },
+    "label": {
+      "discounted_total": "Total con descuento",
+      "product": "producto",
+      "price": "Precio",
+      "price_column": "Consulte la columna de precios para obtener detalles de descuento.",
+      "product_details": "Detalles de producto",
+      "quantity": "Cantidad",
+      "qty": "Cantidad",
+      "regular_total": "Total regular",
+      "remove": "Eliminar {{producto}}",
+      "total": "total",
+      "update": "actualizar"
+    },
+    "popup": {
+      "added_to_cart": "Acabo de agregar a tu carrito",
+      "cart_count": {
+        "one": "{{count}} elemento",
+        "other": "{{Count}} elementos"
+      },
+      "product_details": "Detalles de producto",
+      "quantity": "Cantidad",
+      "quantity_label": "Cantidad: {{cantidad_count}}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Nombre",
+      "email": "correo electrónico",
+      "phone": "Número de teléfono",
+      "message": "mensaje",
+      "submit": "enviar",
+      "post_success": "Gracias por contactarnos. Nos pondremos en contacto con usted lo antes posible.",
+      "error_heading": "Ajuste lo siguiente:"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "mi cuenta",
+      "details": "detalles de la cuenta",
+      "view_addresses": "Ver direcciones",
+      "return": "Regresar a los detalles de la cuenta",
+      "manage_subscriptions": "Administrar Suscripciones"
+    },
+    "activate_account": {
+      "title": "activar la cuenta",
+      "subtext": "Cree su contraseña para activar su cuenta.",
+      "password": "contraseña",
+      "password_confirm": "confirmar Contraseña",
+      "submit": "activar la cuenta",
+      "cancel": "Invitación de declive"
+    },
+    "addresses": {
+      "title": "Tus direcciones",
+      "default": "por defecto",
+      "add_new": "Añadir una nueva dirección",
+      "edit_address": "Editar dirección",
+      "first_name": "nombre de pila",
+      "last_name": "apellido",
+      "company": "compañía",
+      "address1": "DIRECCIÓN",
+      "address2": "error translatedJSON",
+      "city": "ciudad",
+      "country": "país\/región",
+      "province": "provincia",
+      "zip": "código postal\/postal",
+      "phone": "teléfono",
+      "set_default": "Establecer como dirección predeterminada",
+      "add": "Añadir dirección",
+      "update": "Dirección de actualización",
+      "cancel": "Cancelar",
+      "edit": "editar",
+      "delete": "error translatedJSON",
+      "delete_confirm": "¿Estás seguro de que desea eliminar esta dirección?"
+    },
+    "login": {
+      "title": "iniciar sesión en",
+      "account": "su cuenta",
+      "create_account": "crea una cuenta",
+      "email": "dirección de correo electrónico",
+      "password": "Contraseña",
+      "forgot_password": "¿Olvidaste tu contraseña?",
+      "sign_in": "iniciar sesión",
+      "log_in": "iniciar sesión en",
+      "guest_title": "Continuar como invitado",
+      "guest_continue": "continuar"
+    },
+    "orders": {
+      "title": "Historial de pedidos",
+      "order_number": "orden",
+      "order_number_link": "Número de pedido {{número}}",
+      "date": "Fecha",
+      "payment_status": "estado de pago",
+      "fulfillment_status": "Estado de cumplimiento",
+      "total": "total",
+      "none": "Todavía no has realizado ningún pedido."
+    },
+    "order": {
+      "title": "Orden {{nombre}}",
+      "date_html": "Colocado en {{date}}",
+      "cancelled_html": "Pedido cancelado en {{fecha}}",
+      "cancelled_reason": "Razón: {{razon}}",
+      "billing_address": "Dirección de Envio",
+      "payment_status": "estado de pago",
+      "shipping_address": "Dirección de envío",
+      "fulfillment_status": "Estado de cumplimiento",
+      "discount": "descuento",
+      "shipping": "envío",
+      "tax": "impuesto",
+      "product": "producto",
+      "sku": "cráneo",
+      "price": "precio",
+      "quantity": "Cantidad",
+      "total": "total",
+      "fulfilled_at_html": "Cumplido {{date}}",
+      "subtotal": "total parcial",
+      "track_shipment": "rastrear envio"
+    },
+    "recover_password": {
+      "title": "Restablecer su contraseña",
+      "email": "correo electrónico",
+      "submit": "entregar",
+      "cancel": "Cancelar",
+      "subtext": "Le enviaremos un correo electrónico para restablecer su contraseña.",
+      "success": "Le hemos enviado un correo electrónico con un enlace para actualizar su contraseña."
+    },
+    "reset_password": {
+      "title": "Restablecer contraseña de la cuenta",
+      "subtext": "Ingrese una nueva contraseña para {{correo electrónico}}",
+      "password": "contraseña",
+      "password_confirm": "confirmar Contraseña",
+      "submit": "Restablecer la contraseña"
+    },
+    "register": {
+      "title": "crear una cuenta",
+      "first_name": "nombre de pila",
+      "last_name": "apellido",
+      "email": "Correo electrónico",
+      "password": "contraseña",
+      "submit": "Crear"
+    }
+  },
+  "about": {
+    "title": "¡Hola! Somos Brian, Max, Martjin y Dennis. Gracias por pasar,",
+    "content": "#P Me gusta todas las buenas innovaciones que necesitábamos para resolver un problema cerca de casa. A saber, uno de nosotros solía sudar mucho. #\/P #P Hubiera probado todos los remedios que puedas imaginar aún se mantuvieron frustrados ya que ninguno de ellos funcionó. El más mínimo esfuerzo daría como resultado grandes parches de sudor. & Nbsp; Se probaron camisetas #\/P #P con pantyas incorporadas para axilas. Los desodorantes se rociaron más con esperanza que con la expectativa, a menudo enmascarar el olor en lugar de prevenir sudores. Sabíamos que teníamos que actuar. #\/P #P Entonces, fundamos la compañía polar juntos. ¡Nuestra misión es mantenernos a nosotros, y a ti, genial en cada situación! #\/P #Pmartijn &amp; Dennis#\/P",
+    "join-community": {
+      "title": "¡Únete a la comunidad de la empresa polar!",
+      "subtitle": "¡Convierta en parte de la comunidad más fresca! Y siempre obtenga 5 €,- ¡Descuento!",
+      "link": "Unete a la communidad"
+    }
+  },
+  "privacy": {
+    "title": "Privacidad &amp; Declaración de cookie The Polar Company",
+    "subtitle": "15 de abril de 2021",
+    "content": ""
+  },
+  "jobs": {
+    "title": "¿Vendrás y nos ayudarás?",
+    "content": "#P Entonces, ¡está interesado en venir a trabajar con nuestro equipo! Excelente. Nos encantaría saber más sobre cómo puede ayudar a que nuestra pequeña empresa crezca.#BR#\/P#P#BR#\/P #P Por favor envíenos un correo electrónico a #A #Uhallo@thepolarcompany.com#\/U# \/A y preséntate!#\/P",
+    "baseboard": "Actualmente no hay vacantes disponibles."
+  },
+  "subscription": {
+    "title_1": "¿Por qué unirse a la comunidad?",
+    "content_1": "Únase a nuestra comunidad y reciba un descuento de 5 € por la vida. Luego entregaremos su pedido directamente a su buzón.",
+    "title_2": "Lifetime € 5 descuento",
+    "content_2": "Cuando necesite reordenar, entregaremos. Su descuento de € 5 se aplicará automáticamente.",
+    "title_3": "Entrega gratis",
+    "content_3": "Nuestro empaque se envía por correo y ha sido diseñado para deslizarse sin esfuerzo en su buzón.",
+    "title_4": "Servicio al cliente refrescantemente simple",
+    "content_4": "Puede elegir dónde, cuándo y cuánto necesita. No hay letra pequeña. O mierda. Solo nosotros, en su esquina, manteniéndolo fresco cuando nos necesite. Incluso le avisaremos cuando su pedido esté en camino.",
+    "faq": {
+      "title": "preguntas frecuentes",
+      "subtitle": "¡Encuentra la respuesta a tu pregunta a continuación!",
+      "options": {
+        "option_1": {
+          "title": "Entrega",
+          "answers": {
+            "1": {
+              "title": "Pedí el extra fuerte pero recibí el fuerte. ¿Cómo es esto posible?",
+              "answer": "Recientemente, las botellas tienen un nuevo aspecto. Las nuevas botellas actualmente solo tienen 'fuerte' en ellas. ¡Sin embargo, el fuerte todavía contiene la poderosa fórmula como antes!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Suscripción",
+          "answers": {
+            "1": {
+              "title": "Quiero recibir una botella nueva con más frecuencia, ¿puedo cambiar esto?",
+              "answer": "| ¿Quieres cambiar la frecuencia de tu suscripción? || Eso es posible, puede ajustarlo fácilmente en su cuenta. ¿Estás atrapado? || Envíenos un mensaje a través de WhatsApp o correo a por correo a GoLo@ThePolarCompany.com"
+            },
+            "2": {
+              "title": "¿Puedo elegir entre el rodillo o el spray?",
+              "answer": "| ¿Quieres cambiar entre el rodillo o el spray? || Eso es posible, puede elegir entre las siguientes opciones: || - Roller (original o fuerte). - spray (original o fuerte). || ¡Puedes ajustar esto en tu cuenta!"
+            },
+            "3": {
+              "title": "Me estoy moviendo, ¿puedo cambiar mi dirección?",
+              "answer": "¡Puede cambiar su dirección en su cuenta!"
+            }
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Ayuda",
+    "content": "No dude en contactarnos en cualquier momento, pero antes de hacerlo, consulte nuestras preguntas frecuentes para ver si su consulta ya ha sido respondida.",
+    "open-time": "Mon - Fri; 9:00 - 18:00",
+    "email": "Envíanos un correo electrónico:"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "¡Encuentra la respuesta a tu pregunta a continuación!",
+    "options": {
+      "option_1": {
+        "title": "entrega",
+        "answers": {
+          "1": {
+            "title": "Pedí el extra fuerte pero recibí el fuerte. ¿Cómo es esto posible?",
+            "answer": "Recientemente, las botellas tienen un nuevo aspecto. Las nuevas botellas actualmente solo tienen 'fuerte' en ellas. ¡Sin embargo, el fuerte todavía contiene la poderosa fórmula como antes!"
+          },
+          "2": {
+            "title": "Quiero cambiar mi dirección; ¿Cómo hago esto?",
+            "answer": "Si su pedido no ha sido enviado, puede cambiar su dirección enviándonos un mensaje a través de WhatsApp o envíe un correo a hallo@thepolarcompany.com. Luego nos aseguraremos de que su dirección esté actualizada."
+          },
+          "3": {
+            "title": "¿Cuál es el tiempo de entrega para un pedido?",
+            "answer": "En promedio, los pedidos se entregan dentro de 2 a 3 días hábiles en los Países Bajos. A veces esto también puede tomar un poco más de tiempo. #BR #BR Si su pedido va a Bélgica, Francia, Alemania o España, esto llevará de 3 a 5 días hábiles."
+          },
+          "4": {
+            "title": "¿Tengo que estar en casa para mi pedido?",
+            "answer": "¡No! Su pedido se ajustará a través del buzón. De esta manera, puede disfrutar de su día al máximo."
+          },
+          "5": {
+            "title": "¿Cuánto tiempo llevará recibir mi pedido?",
+            "answer": "Si ordenó antes de las 4:00 p.m., ¡recibirá el pedido dentro de los 3 días! ¿Está muy ocupado en Postnl? Entonces su paquete puede tomar un poco más. #BR #BR Afortunadamente, no tiene que quedarse en casa, todos nuestros productos se ajustan a través del buzón."
+          }
+        }
+      },
+      "option_2": {
+        "title": "Uso",
+        "answers": {
+          "1": {
+            "title": "¿Cuales son los ingredientes?",
+            "answer": "#B Strong: #\/b #BR alcohol, hexahidrato de cloruro de aluminio, benzoato de denatonio, cítricos aurantium bergamia fruta de aceite, mek #BR #B #B original: #\/b alcohol, aqua, clorohidrato de aluminio, propilene glycol, denatonium benzoate benzoate , Citrus aurantium bergamia fruta de aceite, mek"
+          },
+          "2": {
+            "title": "No he recibido mi pedido después de 3 días (negocios), ¿qué ahora?",
+            "answer": "¡Que molesto! Si está ocupado en el transportista, su paquete puede tardar un poco más en llegar. #BR #BR Envíenos un mensaje a través de WhatsApp o envíe un correo a hallo@thepolarcompany.com. Incluya su nombre y número de pedido. #BR #BR de esta manera podemos buscar su pedido en nuestro sistema."
+          },
+          "3": {
+            "title": "Quiero recibir una botella nueva con más frecuencia, ¿puedo cambiar esto?",
+            "answer": "¿Quieres cambiar la frecuencia de tu suscripción? #BR #BR eso es posible, puede ajustarlo fácilmente usted mismo en su cuenta. #BR #BR ¿Estás atascado? Envíenos un mensaje a través de whatsapp o envíe un correo a hallo@thepolarcompany.com"
+          },
+          "4": {
+            "title": "¿Puedo elegir entre el rodillo o el spray?",
+            "answer": "¿Quieres cambiar entre el rodillo o el spray? #BR #BR que es posible, puede elegir entre las siguientes opciones: #BR - Roller (original o fuerte). - Spray (original o fuerte). #BR #BR ¡Puede ajustar esto en su cuenta!"
+          },
+          "5": {
+            "title": "Me estoy moviendo, ¿puedo cambiar mi dirección?",
+            "answer": "¡Puede cambiar su dirección en su cuenta!"
+          },
+          "6": {
+            "title": "¿Puedo usar desodorante o perfume además de este producto?",
+            "answer": "¡Sí! El uso de desodorante o perfume durante el día no afecta el efecto de este producto."
+          },
+          "7": {
+            "title": "¿Por qué los productos contienen alcohol?",
+            "answer": "Nuestro producto se basa en el alcohol y no en el agua porque la sal soluble debe activarse en la piel y no en la superficie."
+          },
+          "8": {
+            "title": "¿Como funciona?",
+            "answer": "Nuestro producto es efectivo debido a la sal soluble disuelta en alcohol. #BR #BR La solución se absorbe en la piel por la noche y evita que el sudor llegue a la superficie de la piel. #BR #BR La sal desaparece naturalmente después de unos días, como el reemplazo natural de las células muertas de la piel. #BR #BR Es por eso que solo necesitas usarlo una vez en unos pocos días."
+          }
+        }
+      },
+      "option_3": {
+        "title": "suscripción",
+        "answers": {
+          "1": {
+            "title": "¿Qué pasa si mi pago no tiene éxito?",
+            "answer": "No se preocupe, puede intentar pagar de nuevo. No le enviaremos un producto hasta que el pago sea exitoso. #BR #BR ¿Su pago aún no tiene éxito? ¡Mandanos un mensaje!"
+          },
+          "2": {
+            "title": "¿Qué tal la garantía?",
+            "answer": "La garantía legal se aplica a todos los artículos que nos compra. La garantía legal significa que un producto es o debe hacer lo que el consumidor puede esperar razonablemente de él. #BR #BR ¿Tiene un problema de garantía? ¡Envianos un email! hello@thepolarcompany.com"
+          },
+          "3": {
+            "title": "¿Todos los precios mencionados incluyen el IVA?",
+            "answer": "Todos los precios en nuestro sitio web incluyen IVA."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Otras preguntas",
+        "answers": {
+          "1": {
+            "title": "¿Qué debo hacer en caso de quejas?",
+            "answer": "En caso de quejas, puede enviar un correo electrónico a hallo@thepolarcompany.com. ¿Prefieres llamar? Contáctenos en +31 85 808 8243"
+          },
+          "2": {
+            "title": "De vez en cuando obtengo una erupción al usar el producto, ¿qué puedo hacer?",
+            "answer": ""
+          },
+          "3": {
+            "title": "¿Es seguro usar este producto durante el embarazo?",
+            "answer": "Sí. Nuestro producto solo funciona en la superficie de la piel, no hay absolutamente ninguna absorción en el torrente sanguíneo, por lo que el bebé no puede ser dañado durante el embarazo, incluso cuando el bebé está amamantado."
+          },
+          "4": {
+            "title": "¿Es este producto seguro para todo tipo de piel?",
+            "answer": "Nuestro producto es seguro, incluso para los tipos de piel sensibles. #BR #BR para la piel sensible: spray #BR una vez en cada área y aplique con moderación con algodón de algodón (las almohadillas de maquillaje son útiles). #BR #BR De esta manera, las áreas de la cara y otras áreas sensibles de la piel, como la ingle, y debajo de los senos, pueden tratarse fácilmente. Puede usar TALC para absorber cualquier exceso de producto después de la aplicación."
+          },
+          "5": {
+            "title": "¿Es peligroso evitar sudar?",
+            "answer": "Controlar la transpiración en los 'puntos calientes' no es peligroso porque su piel se enfría a través de otros lugares de su cuerpo. #BR #BR La transpiración que no puede escapar simplemente se pasa a través del torrente sanguíneo a otros canales de sudor o se excreta a través de los riñones."
+          },
+          "6": {
+            "title": "¿Es seguro usar este producto en todo el cuerpo?",
+            "answer": "¡Sí! #BR #BR para la piel sensible: rocíe una vez en cada área y aplique con moderación con algodón de algodón (las almohadillas de maquillaje son útiles). De esta manera, las áreas de la cara y otras áreas sensibles de la piel, como la ingle y debajo de los senos, se pueden tratar fácilmente. Puede usar TALC para absorber cualquier exceso de producto después de la aplicación."
+          }
+        }
+      },
+      "option_5": {
+        "title": "Cómo funciona",
+        "answers": {
+          "1": {
+            "title": "¿Puede este producto manchar mi ropa?",
+            "answer": "Si usa el producto según lo indicado, nunca manchará su ropa. Sin duda, lave la piel tratada por la mañana."
+          }
+        }
+      },
+      "option_6": {
+        "title": "seguridad",
+        "answers": {
+          "1": {
+            "title": "¿Por qué necesito aplicar este producto antes de acostarse?",
+            "answer": "Nuestro producto es efectivo debido a la sal soluble disuelta en alcohol. La solución se absorbe en la piel por la noche y evita que el sudor llegue a la superficie de la piel. La sal desaparece naturalmente después de unos días, como el reemplazo natural de las células de la piel muerta. Es por eso que solo necesitas usar Polar una vez en unos pocos días."
+          },
+          "2": {
+            "title": "¿Puedo usar loción o humectantes además de este producto?",
+            "answer": "Sí, si aplica el producto como lo prescribimos, puede usar cualquier otro producto que desee sin efectos secundarios. #BR #BR Si tiene alguna pregunta sobre esto, puede enviarnos un mensaje al +31858088243."
+          },
+          "3": {
+            "title": "Creo que el producto no funciona para mí",
+            "answer": "No estés triste. Nuestra experiencia nos dice que nuestro producto realmente funciona para casi todos. #BR #BR Envíenos un mensaje para descubrir juntos lo que funciona para usted: +31 858088243. #BR #BR ¿Realmente no funciona para usted? Reembolsaremos su dinero :)"
+          },
+          "4": {
+            "title": "Rociar dos veces por semana no es suficiente para mí. ¿Puedo usarlo con más frecuencia?",
+            "answer": "Todos son diferentes y algunas personas sudan más que otras. Usar nuestro producto dos veces por semana es un punto de referencia que funciona para la mayoría de los usuarios. Descubra lo que es útil para usted. Si necesita ayuda, envíenos un mensaje: +31 858088243"
+          },
+          "5": {
+            "title": "¿Cuánto tiempo puedo usar la botella después de abrir?",
+            "answer": "Nuestros productos se pueden usar hasta 6 meses después de la apertura."
+          },
+          "6": {
+            "title": "¿Con qué frecuencia uso este producto?",
+            "answer": "Esto depende de cada persona. Recomendamos usar dos veces por semana como punto de partida. #BR #BR Por ejemplo, use el producto los jueves y domingo por la noche para asegurarse de que esté libre de sudor durante la semana y los fines de semana. Si esto no es suficiente, ¡también puede usarlo con más frecuencia durante la semana o probar nuestra fuerte variante!"
+          }
+        }
+      },
+      "option_7": {
+        "title": "Partes del cuerpo",
+        "answers": {
+          "1": {
+            "title": "¿Cuál es la mejor manera de aplicar este producto debajo de mis axilas?",
+            "answer": "Rocíe debajo de su brazo una o dos veces. Si se siente más cómodo aplicando el producto con una almohadilla de maquillaje de algodón, entonces esto también es posible. #BR #BR Antes de aplicar el producto, es importante secar y limpiar completamente su piel. Algunas personas usan un secador de pelo para secar la piel antes de usarlo porque el producto puede ser irritante cuando entra en contacto con la humedad (sudor)."
+          },
+          "2": {
+            "title": "¿Puedo usar este producto en mi cuero cabelludo?",
+            "answer": "Puede rociar el producto directamente en el cuero cabelludo. Divida el cabello según sea necesario y luego trate con las yemas de los dedos. Evite que el líquido corra en sus ojos."
+          },
+          "3": {
+            "title": "¿Puedo usar este producto en mi cara?",
+            "answer": "¡Sí! El producto se puede usar en cualquier parte de su piel. Tenga en cuenta no rociar en sus ojos. #BR #BR para la piel sensible: rocíe solo una vez en cada área y aplique con moderación con algodón de algodón (las almohadillas de maquillaje son útiles)."
+          },
+          "4": {
+            "title": "¿Este producto evitará sudar en mi espalda?",
+            "answer": "Nuestro producto mantiene la espalda baja seca, pero algunas personas encontrarán que su espalda todavía está 'goteando'. En este caso, es mejor seguir usando el producto dos veces por semana y usar una compatibilidad sanitaria alada. No son visibles y protegen la ropa interior."
+          },
+          "5": {
+            "title": "¿Este producto ayuda contra la humedad en manos y pies?",
+            "answer": "¡Sí! Nuestro producto está hecho para evitar sudar en cualquier parte de su piel. Evitar el calzado sintético hecho de materiales no producibles también ayudará a sus pies a sudar menos."
+          },
+          "6": {
+            "title": "¿Puedo usar este producto en el área púbica?",
+            "answer": "Sí, pero debes tener mucho cuidado porque la piel es más delgada y, por lo tanto, más sensible en esta área. #BR #BR Asegúrese de que su piel esté realmente seca (el talco o un secador de pelo puede ayudar) y aplicar con mucho el producto a través de algodón según las indicaciones."
+          }
+        }
+      }
+    }
+  },
+  "howitworks": {
+    "title": "¡Así es como funciona!",
+    "image": "1656332742_anadir_un_titulo_54.png-1900w.webp",
+    "topics": {
+      "top1": {
+        "title": "Sal y alcohol",
+        "content": "Utilizamos una fórmula especial y secreta que mezcla sal y alcohol. Esto se usa tanto en nuestros productos de aerosol como de rodillos. Utilizamos la sal, ya que actúa como un ingrediente clave para apagar temporalmente las glándulas sudoríticas, mientras evitamos que las bacterias se propagen para mantener su piel higiénica."
+      },
+      "top2": {
+        "title": "Rociar y dormir",
+        "content": "Rocíe antes de acostarse y deje que Polar haga su magia mientras duermes. Antes de aplicar polar, es importante secar y limpiar completamente su piel. Rocíe 1 o 2 veces debajo de la axila, o enrolle una capa delgada con el rodillo, déjelo secar, luego salta a la cama. La fórmula que usamos mantendrá su sudor dentro de la piel, por lo que se despierta fresco, fresco y seguro para disfrutar de su día. Es realmente tan simple :)",
+        "image": ""
+      }
+    },
+    "faq": {
+      "title": "preguntas frecuentes",
+      "subtitle": "¡Encuentra la respuesta a tu pregunta a continuación!",
+      "options": {
+        "option_1": {
+          "title": "entrega",
+          "answers": {
+            "1": {
+              "title": "Pedí el extra fuerte pero recibí el fuerte. ¿Cómo es esto posible?",
+              "answer": "Recientemente, las botellas tienen un nuevo aspecto. Las nuevas botellas actualmente solo tienen 'fuerte' en ellas. ¡Sin embargo, el fuerte todavía contiene la poderosa fórmula como antes!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "otras preguntas",
+          "answers": {
+            "1": {
+              "title": "¿Por qué los productos contienen alcohol?",
+              "answer": "Nuestro producto se basa en el alcohol y no en el agua porque la sal soluble debe activarse en la piel y no en la superficie."
+            }
+          }
+        },
+        "option_3": {
+          "title": "cómo funciona",
+          "answers": {
+            "1": {
+              "title": "¿Como funciona?",
+              "answer": "Nuestro producto es efectivo debido a la sal soluble disuelta en alcohol. #BR #BR La solución se absorbe en la piel por la noche y evita que el sudor llegue a la superficie de la piel. #BR #BR La sal desaparece naturalmente después de unos días, como el reemplazo natural de las células muertas de la piel. #BR #BR Es por eso que solo necesitas usarlo una vez en unos pocos días."
+            }
+          }
+        },
+        "option_4": {
+          "title": "uso",
+          "answers": {
+            "1": {
+              "title": "¿Por qué necesito aplicar este producto antes de acostarse?",
+              "answer": "Nuestro producto es efectivo debido a la sal soluble disuelta en alcohol. #BR #BR La solución se absorbe en la piel por la noche y evita que el sudor llegue a la superficie de la piel. #BR #BR La sal desaparece naturalmente después de unos días, como el reemplazo natural de las células muertas de la piel. #BR #BR Es por eso que solo necesitas usarlo una vez en unos pocos días."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product": {
+    "faq": {
+      "title": "preguntas frecuentes",
+      "subtitle": "¡Encuentra la respuesta a tu pregunta a continuación!",
+      "options": {
+        "option_1": {
+          "title": "Uso",
+          "answers": {
+            "1": {
+              "title": "¿Cuales son los ingredientes?",
+              "answer": "#B Strong Mist: #\/b #BR alcohol denat., Cloruro de aluminio, agua, perfume"
+            },
+            "2": {
+              "title": "¿Por qué necesito aplicar este producto antes de acostarse?",
+              "answer": "Nuestro producto es efectivo debido a la sal soluble disuelta en alcohol. La solución se absorbe en la piel durante la noche y evita permitir que el sudor alcance la superficie de la piel. La sal desaparece naturalmente después de unos días, como un reemplazo natural de las células muertas de la piel. Es por eso que solo necesita usar el Polar una vez cada pocos días."
+            }
+          }
+        },
+        "option_2": {
+          "title": "otras preguntas",
+          "answers": {
+            "1": {
+              "title": "¿Cuánto dura una botella?",
+              "answer": "Depende de su situación personal y de cuánto suda. Los usuarios de OUS indican lo siguiente: #BR #BR Kit de inicio: 2 a 3 semanas por muestra. Spray\/Roller: 2 a 3 meses"
+            },
+            "2": {
+              "title": "¿Cuál es el tiempo de entrega para un pedido?",
+              "answer": "En promedio, los pedidos se entregan dentro de 2 a 3 días útiles en los Países Bajos. A veces también puede llevar un tiempo más. #BR #BR Si su pedido va a Bélgica, Francia, Alemania o España, lleva de 3 a 5 días hábiles."
+            }
+          }
+        },
+        "option_3": {
+          "title": "entrega",
+          "answers": {
+            "1": {
+              "title": "¿Tengo que estar en casa para mi pedido?",
+              "answer": "¡No! Su pedido cabe en el buzón. De esta manera puedes aprovechar al máximo tu día."
+            },
+            "2": {
+              "title": "¿Por qué los productos contienen alcohol?",
+              "answer": "Nuestro producto se basa en el alcohol y no en el agua porque la soluble en sal debe activarse en la piel y no en la superficie."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Cómo funciona",
+          "answers": {
+            "1": {
+              "title": "¿Como funciona?",
+              "answer": "Nuestro producto es efectivo debido a la sal soluble disuelta en alcohol. #BR #BR La solución se absorbe en la piel por la noche y evita que el sudor llegue a la superficie de la piel. #BR #BR La sal desaparece naturalmente después de unos días, como el reemplazo natural de las células muertas de la piel. #BR #BR Es por eso que solo necesitas usarlo una vez en unos pocos días."
+            }
+          }
+        }
+      }
+    }
+  },
+  "descover": {
+    "title": "Descubre nuestro spray de niebla #B fuerte #\/B"
+  },
+  "menu": {
+    "shop": "Comercio",
+    "about": "Sobre nosotros",
+    "how_it_works": "cómo funciona",
+    "subscription": "Suscripciones",
+    "help_faq": "AYUDS & FAQ",
+    "log_out": "Cerrar sesión",
+    "log_in": "iniciar sesión en",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "vacancies": "Vacantes",
+    "terms": "Términos y condiciones",
+    "privacy": "política de privacidad"
+  },
+  "modal_1": {
+    "title": "Vemos que Você Está Comprando de Outro País. DESEJA QUE ALTAREMOS SEU PAÍ E MOEDA?",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "modal_subscrition": {
+    "title": "Suscribiendo? ¡Excelente!",
+    "info_1": "#B frecuencia flexible: #\/b #BR ¿No está seguro de qué frecuencia necesita? ¡No hay problema! Siempre puede ajustarlo en su portal.",
+    "info_2": "#B Recordatorio de 3 días: #\/b #BR le enviaremos un correo electrónico antes de cada envío. Si no está listo, puede retrasar su entrega. No se preocupe, solo le facturaremos cuando su pedido se envíe.",
+    "info_3": "#B Cancelar y modificar en cualquier momento: #\/b #BR Puede cancelar fácilmente, hacer cambios, agregar productos y administrar su horario de entrega a través de su cuenta en línea.",
+    "button": "¡Sí, sí, capitán!",
+    "footer": "#B Código de descuento único#\/B disponible para #B Nuevos suscriptores solamente. Los pedidos recurrentes#\/b se debitarán automáticamente al precio regular. La oferta no se puede utilizar junto con ningún otro código de descuento."
+  },
+  "modal_variant": {
+    "title": "Seleccione una variante antes de agregar al carrito.",
+    "close": "cerca"
+  },
+  "product_related": {
+    "title": "Otros productos que le pueden gustar",
+    "button": "Ve a la tienda."
+  },
+  "product_info": {
+    "amount": "Cantidad",
+    "more_select": "80% escolhido",
+    "delivery": "Entrega esperada: martes, 14 de marzo",
+    "added_to_cart": "Añadir a la cesta"
+  },
+  "collection_customer": {
+    "see_all": "Ver todos los productos"
+  },
+  "collection_product": {
+    "polar": "Sweat-free or Money-back Guarantee",
+    "title": "The solution against sweat!",
+    "subtitle": "100% sweat &amp; odor free | Up to 7 days dry",
+    "subtitle_1": "Find out the best solution to tackle your sweat issues!"
+  },
+  "footer": {
+    "title": "¡Estamos aquí para ayudarte!",
+    "help_faq": "AYUDS & FAQ",
+    "returns": "Devoluciones",
+    "feedback": "Comentario",
+    "vacancies": "vacantes",
+    "blog": "Blog",
+    "terms": "Términos y condiciones",
+    "privacy": "política de privacidad",
+    "open-time": "Mon - Fri; 9:00 - 18:00",
+    "email": "Envíanos un correo electrónico:",
+    "corpory": "© 2023 The Polar Company. Reservados todos los derechos"
+  },
+  "show_more": "Show more",
+  "search": {
+    "not_found": "No se encontraron resultados para:",
+    "results": "Resultados para:",
+    "home": "hogar"
+  },
+  "gift_card": {
+    "title": "¡Aquí está tu tarjeta de regalo!",
+    "title_1": "Aquí está tu",
+    "title_2": "Tarjeta de regalo para",
+    "disabled": "desactivado",
+    "expired_on": "Expirado el",
+    "use_card": "Use este código al finalizar la compra para canjear su tarjeta de regalo.",
+    "start": "Empieza a comprar",
+    "print": "Imprimir"
+  },
+  "product_template": {
+    "select_size": "Elija un tamaño:",
+    "sold_off": "Vendido",
+    "added_to_cart": "añadir a la cesta",
+    "composition": "composición",
+    "description": "Descripción"
+  }
+}

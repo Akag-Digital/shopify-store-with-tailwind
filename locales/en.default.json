@@ -1,0 +1,667 @@
+{
+  "home": {
+    "hero": {
+      "title": "The solution against sweat!",
+      "subtitle": "Get to know our long-lasting sweat protection solutions and stay 100% sweat & odor free for up to 7 days!",
+      "button": "Buy now"
+    },
+    "banner-product": {
+      "title": "Strong Mist",
+      "discover": "Discover our ",
+      "discover-bold": "Strong Mist",
+      "image": "1655304894_mist-3839x1686px-en.png-1200w.webp",
+      "button": "Order now"
+    },
+    "banner-left": {
+      "title": "He is fresh.",
+      "subtitle": "No Sweat No Smell - Spray",
+      "description": "You deserve to be fresh everyday. Spray once, go to bed, then rise and shine the next day ",
+      "button": "Order now"
+    },
+    "banner-right": {
+      "title": "Try the Roller.",
+      "subtitle": "No Time To Sweat - Roller",
+      "description": "Say good night to sweaty armpits! Roll before bedtime, and you will wake up feeling cool and refreshed. Enjoy a sweat and odour free lifestyle for the next 3-7 days.",
+      "button": "Order now"
+    },
+    "howitworks": {
+      "title": "You want to know how this works?",
+      "description": "Our secret formula mixes little salt and alcohol together inside a small roller. Apply before bedtime and hey presto, your sweaty life will change for the better!",
+      "button": "Read how"
+    },
+    "community-polar": {
+      "join-community": "Join the Community and receive 15% discount on every order!",
+      "title": "The Polar Company Community. ",
+      "description": "Join our community and receive a 15% discount for life. We will then deliver your order straight to your letterbox. ",
+      "button": "Join the Community"
+    },
+    "newsletter": {
+      "title": "Register to receive news",
+      "subtitle": "We will let you know about discounts and news",
+      "success": "thank you for registering",
+      "error": "Message error",
+      "placeholder": "E-mail address",
+      "submit": "subscription"
+    },
+    "trust": {
+      "title": "Fresh armpits went before you!",
+      "review": "More reviews"
+    }
+  },
+  "404": {
+    "title": "404 Page not found",
+    "subtext": "The page you are looking for does not exist.",
+    "link": "Back to home"
+  },
+  "cart": {
+    "general": {
+      "title": "Your cart",
+      "note": "Add a note to your order",
+      "removed_item_html": "Removed <span class=\"cart__removed-product-details\">({{ quantity }}) {{ link }}<\/span> from your cart.",
+      "remove": "Remove",
+      "subtotal": "Subtotal",
+      "savings": "You're saving",
+      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
+      "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
+      "update": "Update",
+      "checkout": "Check out",
+      "empty": "Your cart is currently empty.",
+      "cookies_required": "Enable cookies to use the shopping cart",
+      "continue_shopping": "Continue shopping",
+      "cart_error": "There was an error while updating your cart. Please try again."
+    },
+    "label": {
+      "discounted_total": "Discounted total",
+      "product": "Product",
+      "price": "Price",
+      "price_column": "See Price column for discount details.",
+      "product_details": "Product details",
+      "quantity": "Quantity",
+      "qty": "Qty",
+      "regular_total": "Regular total",
+      "remove": "Remove {{ product }}",
+      "total": "Total",
+      "update": "Update"
+    },
+    "popup": {
+      "added_to_cart": "Just added to your cart",
+      "cart_count": {
+        "one": "{{ count }} item",
+        "other": "{{ count }} items"
+      },
+      "product_details": "Product details",
+      "quantity": "Qty",
+      "quantity_label": "Quantity: {{ quantity_count }}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send",
+      "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
+      "error_heading": "Please adjust the following:"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "My Account",
+      "details": "Account Details",
+      "view_addresses": "View Addresses",
+      "return": "Return to Account Details",
+      "manage_subscriptions": "Manage Subscriptions"
+    },
+    "activate_account": {
+      "title": "Activate Account",
+      "subtext": "Create your password to activate your account.",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Activate Account",
+      "cancel": "Decline Invitation"
+    },
+    "addresses": {
+      "title": "Your Addresses",
+      "default": "Default",
+      "add_new": "Add a New Address",
+      "edit_address": "Edit address",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "company": "Company",
+      "address1": "Address",
+      "address2": "Apartment, suite, etc.",
+      "city": "City",
+      "country": "Country\/Region",
+      "province": "Province",
+      "zip": "Postal\/Zip Code",
+      "phone": "Phone",
+      "set_default": "Set as default address",
+      "add": "Add Address",
+      "update": "Update Address",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "delete_confirm": "Are you sure you wish to delete this address?"
+    },
+    "login": {
+      "title": "Log in",
+      "account": "Your account",
+      "create_account": "Create an account",
+      "email": "Email address",
+      "password": "Password",
+      "forgot_password": "Forgot your password?",
+      "sign_in": "Sign In",
+      "log_in": "Log in",
+      "guest_title": "Continue as a guest",
+      "guest_continue": "Continue"
+    },
+    "orders": {
+      "title": "Order History",
+      "order_number": "Order",
+      "order_number_link": "Order number {{ number }}",
+      "date": "Date",
+      "payment_status": "Payment Status",
+      "fulfillment_status": "Fulfillment Status",
+      "total": "Total",
+      "none": "You haven't placed any orders yet."
+    },
+    "order": {
+      "title": "Order {{ name }}",
+      "date_html": "Placed on {{ date }}",
+      "cancelled_html": "Order Cancelled on {{ date }}",
+      "cancelled_reason": "Reason: {{ reason }}",
+      "billing_address": "Billing Address",
+      "payment_status": "Payment Status",
+      "shipping_address": "Shipping Address",
+      "fulfillment_status": "Fulfillment Status",
+      "discount": "Discount",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "product": "Product",
+      "sku": "SKU",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "fulfilled_at_html": "Fulfilled {{ date }}",
+      "subtotal": "Subtotal",
+      "track_shipment": "Track shipment"
+    },
+    "recover_password": {
+      "title": "Reset your password",
+      "email": "Email",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "subtext": "We will send you an email to reset your password.",
+      "success": "We've sent you an email with a link to update your password."
+    },
+    "reset_password": {
+      "title": "Reset account password",
+      "subtext": "Enter a new password for {{ email }}",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Reset Password"
+    },
+    "register": {
+      "title": "Create Account",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create"
+    }
+  },
+  "about": {
+    "title": "Hello! We are Brian, Max, Martjin and Dennis. Thanks for stopping by,",
+    "content": "#P Like all good innovations we needed to solve a problem close to home.  Namely, one of us used to sweat a lot. #\/P #P He had tried every remedy you can imagine yet remained frustrated as none of them worked. The slightest exertion would result in large sweat  patches.&nbsp; #\/P #P T-shirts with built-in panty liners for underarms were tried. Deodorants were sprayed more in hope than in expectation, often to mask the odour rather than prevent sweats.#\/P #PThe final straw was a hot summer’s day. We knew we had to act.#\/P #P So, we founded The Polar Company together. Our mission is to keep us, and you, cool in every situation! #\/P #PMartijn &amp; Dennis#\/P",
+    "join-community": {
+      "title": "Join The Polar Company Community!",
+      "subtitle": "Become part of the freshest community! And always get 15% discount! ",
+      "link": "Join the community"
+    }
+  },
+  "privacy": {
+    "title": "Privacy &amp; Cookie Statement The Polar Company",
+    "subtitle": "15 April 2021",
+    "content": ""
+  },
+  "jobs": {
+    "title": "Will you come and help us? ",
+    "content": "#P So, you are interested in coming to work with our team! Great. We would love to hear more about how you can help our small company grow.#BR#\/P #P#BR#\/P   #P Please send us an E-mail to #A #Uhallo@thepolarcompany.com#\/U#\/A and introduce yourself!#\/P",
+    "baseboard": "There are currently no vacancies available.    "
+  },
+  "subscription": {
+    "title_1": "Why join the community?",
+    "content_1": "Join our community and receive a €5 discount for life. We will then deliver your order straight to your letterbox. ",
+    "title_2": "Lifetime €5 discount",
+    "content_2": "When you need to re-order, we will deliver. Your €5 discount will be automatically applied. ",
+    "title_3": "Free Delivery",
+    "content_3": "Our packaging is sent via mail and has been designed to effortlessly slide into your letterbox. ",
+    "title_4": "Refreshingly simple customer service",
+    "content_4": "You can choose where, when and how much you need. There is no fine print. Or bullshit. Just us, in your corner, keeping you cool when you need us. We will even let you know when your order is on its way.  ",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find the answer to your question below!",
+      "options": {
+        "option_1": {
+          "title": "Delivery",
+          "answers": {
+            "1": {
+              "title": "I ordered the Extra Strong but received the Strong. How is this possible?",
+              "answer": "Recently, the bottles have a new look. The new bottles currently only have 'Strong' on them. However the Strong still contains the powerful formula as before!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Subscription",
+          "answers": {
+            "1": {
+              "title": "I want to receive a new bottle more often, can I change this?",
+              "answer": "|Do you want to change the frequency of your subscription? || That is possible, you can easily adjust this yourself in your account. Are you stuck?||Send us a message via WhatsApp or mail to|hallo@thepolarcompany.com"
+            },
+            "2": {
+              "title": "Can I choose between the Roller or the Spray?",
+              "answer": "|Do you want to switch between the Roller or the Spray? ||That is possible, you can choose from the following options:||  - Roller (Original or Strong). - Spray (Original or Strong).|| You can adjust this in your account!"
+            },
+            "3": {
+              "title": "I am moving, can I change my address?",
+              "answer": "You can change your address in your account!"
+            }
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Help",
+    "content": "Feel free to contact us at any time, but before you do please check our frequently asked questions to see if your enquiry has already been answered.",
+    "open-time": "Mon - Fri; 9:00 - 18:00",
+    "email": "Email us:"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find the answer to your question below!",
+    "options": {
+      "option_1": {
+        "title": "Delivery",
+        "answers": {
+          "1": {
+            "title": "I ordered the Extra Strong but received the Strong. How is this possible?",
+            "answer": "Recently, the bottles have a new look. The new bottles currently only have 'Strong' on them. However the Strong still contains the powerful formula as before!"
+          },
+          "2": {
+            "title": "I want to change my address; how do I do this?",
+            "answer": "If your order has not been shipped, then you can change your address by sending us a message via WhatsApp or mail to hallo@thepolarcompany.com. We will then ensure your address is updated."
+          },
+          "3": {
+            "title": "What is the delivery time for an order?",
+            "answer": "On average, orders are delivered within 2 to 3 business days in the Netherlands. Sometimes this can also take a little longer.#BR #BR If your order goes to Belgium, France,Germany or Spain this will take 3 to 5 business days."
+          },
+          "4": {
+            "title": "Do I have to be home for my order?",
+            "answer": "No! Your order will fit through the letterbox. This way you can enjoy  your day to the fullest."
+          },
+          "5": {
+            "title": "How long will it take to receive my order?",
+            "answer": "If you ordered before 4:00 PM, you will receive the order within 3 days! Is it very busy at PostNL? Then your package can take a little longer. #BR #BR  Fortunately, you don't have to stay at home, our products all fit  through the letterbox."
+          }
+        }
+      },
+      "option_2": {
+        "title": "Usage",
+        "answers": {
+          "1": {
+            "title": "What are the ingredients?",
+            "answer": "#B Strong: #\/B #BR alcohol, aluminium chloride hexahydrate, denatonium benzoate, citrus aurantium bergamia fruit oil, MEK #BR #BR #B Original: #\/B #BR alcohol, aqua, aluminium chlorohydrate, propylene glycol, denatonium benzoate, citrus aurantium bergamia fruit oil, MEK"
+          },
+          "2": {
+            "title": " I have not received my order after 3 (business) days, what now?",
+            "answer": "How annoying! If it is busy at the carrier, your package may take a little longer to arrive. #BR #BR Send a message to us via WhatsApp or mail to hallo@thepolarcompany.com Please include your name and order number. #BR #BR This way we can search for your order in our system."
+          },
+          "3": {
+            "title": " I want to receive a new bottle more often, can I change this?",
+            "answer": "Do you want to change the frequency of your subscription? #BR #BR That is possible, you can easily adjust this yourself in your account. #BR #BR  Are you stuck? Send us a message via WhatsApp or mail to hallo@thepolarcompany.com"
+          },
+          "4": {
+            "title": " Can I choose between the Roller or the Spray?",
+            "answer": "Do you want to switch between the Roller or the Spray? #BR #BR That is possible, you can choose from the following options: #BR - Roller (Original or Strong). - Spray (Original or Strong). #BR #BR You can adjust this in your account!"
+          },
+          "5": {
+            "title": "I am moving, can I change my address?",
+            "answer": "You can change your address in your account!"
+          },
+          "6": {
+            "title": "Can I use deodorant or perfume in addition to this product?",
+            "answer": "Yes! Using deodorant or perfume during the day does not affect the effect this product."
+          },
+          "7": {
+            "title": "Why does the products contain alcohol?",
+            "answer": "Our product is based on alcohol and not water because the soluble salt must be activated in the skin and not on the surface."
+          },
+          "8": {
+            "title": "How does it work?",
+            "answer": "Our product is effective because of the soluble salt dissolved in alcohol. #BR #BR The solution is absorbed into the skin at night and prevents sweat from reaching the skin surface. #BR #BR The salt naturally disappears after a few days, like the natural replacement of dead skin cells. #BR #BR That's why you only need to use it once in a few days."
+          }
+        }
+      },
+      "option_3": {
+        "title": "Subscription",
+        "answers": {
+          "1": {
+            "title": "What if my payment is unsuccessful?",
+            "answer": " Don't worry, you can try to pay again. We will not send you a product until the payment is successful. #BR #BR Is your payment still unsuccessful? Send us a message!"
+          },
+          "2": {
+            "title": "How about warranty?",
+            "answer": "The legal warranty applies to all items that you buy from us. Legal warranty means that a product is or must do what the consumer can reasonably expect from it. #BR #BR  Do you have a warranty issue? Send us an email! hello@thepolarcompany.com"
+          },
+          "3": {
+            "title": "Are all mentioned prices inclusive of VAT?",
+            "answer": " All prices on our website include VAT."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Other questions",
+        "answers": {
+          "1": {
+            "title": "What should I do in case of complaints?",
+            "answer": "In case of complaints, you can send an E-mail to hallo@thepolarcompany.com. Would you rather call? Contact us on +31 85 808 8243"
+          },
+          "2": {
+            "title": "I occasionally get a rash when using the product, what can I do?",
+            "answer": " Our product is specially formulated with protective silicones and the purest ingredients to prevent skin irritation  #BR  #BR Irritation\/rash does occur sometimes and can be caused by four  factors. We will list them below: #BR  #BR 1. Moist skin #BR 2. Too much product in one place#BR  3. Sensitive skin#BR 4. Allergic reaction. #BR  #BR To avoid irritation, follow these steps: #BR 1. 😴 Before going to sleep 2. 🚱  thinly 4. 💈 Do not shave 24 hours in advance 5. 🙆 Let it dry for a while 6. 🚿 Wash your skin briefly in the morning #BR #BR  Apply a thin layer, such as 1 spray or a minimal roll, on dry skin. Leave the skin to dry for a while and then go to bed. Make sure you have not shaved at least 24 hours in advance and wash your skin in the morning. #BR #BR The product can cause irritation when in contact with moisture, so make sure the skin is thoroughly dry. Do not apply to wounds. If this does not help, please contact us!"
+          },
+          "3": {
+            "title": "Is it safe to use this product during pregnancy?",
+            "answer": "Yes. Our product works only on the surface of the skin, there is absolutely no absorption into the bloodstream, so the baby cannot be  harmed during pregnancy, even when the baby is breastfed"
+          },
+          "4": {
+            "title": "Is this product safe for all skin types?",
+            "answer": "Our product is safe, even for sensitive skin types.  #BR  #BR For sensitive skin: #BR  Spray once on each area and apply sparingly with cotton wool (make-up  remover pads are useful). #BR #BR In this way, areas of the face and other sensitive skin areas such as   the groin, and under the breasts, can be easily treated. You can use talc to absorb any excess product after application."
+          },
+          "5": {
+            "title": "Is it dangerous to prevent sweating?",
+            "answer": "Controlling perspiration in the 'hot spots' is not dangerous because your skin cools itself through other places on your body. #BR #BR The perspiration that cannot escape is simply passed through the bloodstream to other sweat channels or excreted through the kidneys."
+          },
+          "6": {
+            "title": "Is it safe to use this product all over the body?",
+            "answer": "Yes! #BR #BR   For sensitive skin: Spray once on each area and apply sparingly with cotton wool (make-up remover pads are useful). In this way, areas of the face and other sensitive skin areas such as the groin and under the breasts can be easily treated. You can use talc to absorb any  excess product after application."
+          }
+        }
+      },
+      "option_5": {
+        "title": "How it works",
+        "answers": {
+          "1": {
+            "title": "Can this product stain my clothes?",
+            "answer": "If you use the product as directed, it will never stain your clothes. To be sure, wash the treated skin in the morning."
+          }
+        }
+      },
+      "option_6": {
+        "title": "Safety",
+        "answers": {
+          "1": {
+            "title": "Why do I need to apply this product before bed?",
+            "answer": "Our product is effective because of the soluble salt dissolved in alcohol. The solution is absorbed into the skin at night and prevents sweat from reaching the skin surface. The salt naturally disappears after a few days, like the natural replacement of dead skin cells. That's why you only need to use Polar once in a few days."
+          },
+          "2": {
+            "title": "Can I use lotion or moisturisers in addition to this product?",
+            "answer": " Yes, if you apply the product as we prescribe, you can use any other product you want without side effects.#BR #BR  If you have any questions about this, you can send us a message on +31858088243."
+          },
+          "3": {
+            "title": "I think the product is not working for me",
+            "answer": " Don't be sad. Our experience tells us that our product really works for almost everyone.#BR #BR Send us a message to find out together what works for you: +31 858088243. #BR #BR Does it really not work for you? We will refund your money :)"
+          },
+          "4": {
+            "title": " Spraying twice a week is not enough for me. Can I use it more often?",
+            "answer": " Everyone is different and some people sweat more than others. Using our product twice a week is a point of reference that works for most users. Find out what is useful for you. If you need help, send us a  message: +31 858088243"
+          },
+          "5": {
+            "title": "How long can I use the bottle after opening?",
+            "answer": " Our products can be used up to 6 months after opening."
+          },
+          "6": {
+            "title": "How often do I use this product?",
+            "answer": "This depends on each person. We recommend using twice a week as a starting point. #BR #BR For example, use the product on Thursday and Sunday evenings to make sure you are sweat-free during the week and on weekends. If this is not enough, you can also use it more often during the week or try our Strong variant!"
+          }
+        }
+      },
+      "option_7": {
+        "title": "Body parts",
+        "answers": {
+          "1": {
+            "title": "What's the best way to apply this product under my armpits?",
+            "answer": "  Spray under your arm once or twice. If you feel more comfortable  applying the product with a cotton make-up remover pad, then this is possible too. #BR #BR  Before applying the product, it is important to thoroughly dry and clean your skin. Some people use a hair dryer to dry the skin before use because the product can be irritating when it comes into contact with moisture (sweat)."
+          },
+          "2": {
+            "title": "Can I use this product on my scalp?",
+            "answer": " You can spray the product directly on your scalp. Divide the hair as needed and then treat with fingertips. Prevent the liquid from running in your eyes."
+          },
+          "3": {
+            "title": "Can I use this product on my face?",
+            "answer": " Yes! The product can be used on any part of your skin. Keep in mind  not to spray in your eyes.  #BR #BR For sensitive skin: Spray only once on each area and apply sparingly with cotton wool (make-up remover pads are useful)."
+          },
+          "4": {
+            "title": "Will this product prevent sweating on my back?",
+            "answer": "Our product keeps the lower back dry, but some people will find that their back is still 'leaking'. In this case it is best to keep using the product twice a week and use a winged sanitary napkin. They are not visible and protect the undergarments."
+          },
+          "5": {
+            "title": "Does this product help against wetness on hands and feet?",
+            "answer": "Yes! Our product is made to prevent sweating on any part of your skin. Avoiding synthetic footwear made of non-breathable materials will also help your feet sweat less."
+          },
+          "6": {
+            "title": "Can I use this product on the pubic area?",
+            "answer": "  Yes, but you have to be extra careful because the skin is thinner and therefore more sensitive in this area. #BR #BR Make sure your skin is really dry (talc or a hair dryer can help) and  apply very the product sparingly via cotton wool as directed."
+          }
+        }
+      }
+    }
+  },
+  "howitworks": {
+    "title": "This is how it works!",
+    "image": "1619785329_blob.png",
+    "image1": "1619785254_blob.png",
+    "topics": {
+      "top1": {
+        "title": "Salt and Alcohol",
+        "content": " We use a special, secret formula that mixes salt and alcohol together. This is used in both our spray and roller products. We use salt as it acts as a key ingredient to temporarily shut off the sweat glands, while preventing bacteria from spreading to keep your skin hygienic.  "
+      },
+      "top2": {
+        "title": "Spray and Sleep",
+        "content": " Spray before bedtime and let Polar do its magic while you sleep. Before applying Polar, it is important to thoroughly dry and clean your skin. Spray 1 or 2 times under your armpit, or roll a thin layer with the roller, let it dry, then jump into bed. The formula we use will keep your sweat inside the skin, so you wake up cool, fresh, and confident to enjoy your day. It is really that simple:) ",
+        "image": ""
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find the answer to your question below!",
+      "options": {
+        "option_1": {
+          "title": "Delivery",
+          "answers": {
+            "1": {
+              "title": "I ordered the Extra Strong but received the Strong. How is this possible?",
+              "answer": "Recently, the bottles have a new look. The new bottles currently only have 'Strong' on them. However the Strong still contains the powerful formula as before!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Other questions",
+          "answers": {
+            "1": {
+              "title": "Why does the products contain alcohol?",
+              "answer": "Our product is based on alcohol and not water because the soluble salt must be activated in the skin and not on the surface."
+            }
+          }
+        },
+        "option_3": {
+          "title": "How it works",
+          "answers": {
+            "1": {
+              "title": "How does it work?",
+              "answer": "Our product is effective because of the soluble salt dissolved in alcohol. #BR #BR The solution is absorbed into the skin at night and prevents sweat from reaching the skin surface. #BR #BR The salt naturally disappears after a few days, like the natural replacement of dead skin cells. #BR #BR That's why you only need to use it once in a few days."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Usage",
+          "answers": {
+            "1": {
+              "title": "Why do I need to apply this product before bed?",
+              "answer": "Our product is effective because of the soluble salt dissolved in alcohol. #BR #BR The solution is absorbed into the skin at night and prevents sweat from reaching the skin surface. #BR #BR The salt naturally disappears after a few days, like the natural replacement of dead skin cells. #BR #BR That's why you only need to use it once in a few days."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product": {
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find the answer to your question below!",
+      "options": {
+        "option_1": {
+          "title": "Usage",
+          "answers": {
+            "1": {
+              "title": "What are the ingredients?",
+              "answer": "#B Strong Mist: #\/B  #BR Alcohol Denat., Aluminum Chloride, Water, Perfume"
+            },
+            "2": {
+              "title": "Why do I need to apply this product before bed?",
+              "answer": "  Our product is effective due to the soluble salt dissolved in alcohol. The solution is absorbed into the skin overnight and prevents allow sweat to reach the surface of the skin. the salt disappears   naturally after a few days, as a natural replacement of dead skin cells. That's why you only need to use the Polar once every few days."
+            }
+          }
+        },
+        "option_2": {
+          "title": "Other questions",
+          "answers": {
+            "1": {
+              "title": "How long does a bottle last?",
+              "answer": " It depends on your personal situation and how much you sweat. Ours users indicate the following: #BR #BR  Starter Kit: 2 to 3 weeks per sample. Spray\/Roller: 2 to 3 months"
+            },
+            "2": {
+              "title": " What is the delivery time for an order?",
+              "answer": " On average, orders are delivered within 2 to 3 days useful in the Netherlands. Sometimes it can also take a while more. #BR #BR If your order goes to Belgium, France, Germany or Spain, it takes 3 to 5 working days."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Delivery",
+          "answers": {
+            "1": {
+              "title": "Do I have to be at home for my order?",
+              "answer": "No! Your order will fit in the mailbox. This way you can make the most of your day."
+            },
+            "2": {
+              "title": "Why do the products contain alcohol?",
+              "answer": "Our product is based on alcohol and not water because salt soluble must be activated on the skin and not on the surface."
+            }
+          }
+        },
+        "option_4": {
+          "title": "How it works",
+          "answers": {
+            "1": {
+              "title": "How does it work?",
+              "answer": "Our product is effective because of the soluble salt dissolved in alcohol. #BR #BR The solution is absorbed into the skin at night and prevents sweat from reaching the skin surface. #BR #BR The salt naturally disappears after a few days, like the natural replacement of dead skin cells. #BR #BR That's why you only need to use it once in a few days."
+            }
+          }
+        }
+      }
+    }
+  },
+  "descover": {
+    "title": " Discover our #B Strong Mist Spray#\/B"
+  },
+  "menu": {
+    "shop": "Shop",
+    "about": "About us",
+    "how_it_works": "How it works",
+    "subscription": "Subscriptions",
+    "help_faq": "Help & FAQ",
+    "log_out": "Log out",
+    "log_in": "Log in",
+    "contact": "Contact",
+    "blog": "Blog",
+    "vacancies": "Vacancies",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "modal_1": {
+    "title": "Vemos que você está comprando de outro país. Deseja que alteraremos seu país e moeda?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "modal_subscrition": {
+    "title": "Subscribing? Great!",
+    "info_1": " #B Flexible frequency:#\/B #BR Not sure how often you need TP? No problemo! You can always adjust it in your portal.",
+    "info_2": "#B 3 day reminder:#\/B #BR We'll email you before each shipment. If you're not ready, you can delay your delivery. Don't worry, we'll only bill you when your order ships.",
+    "info_3": " #B Cancel and modify anytime:#\/B #BR You can easily cancel, make changes, add products and manage your delivery schedule via your online account.",
+    "button": "Aye aye, captain!",
+    "footer": "#B One time discount code#\/B available to #B new subscribers only.#\/B Recurring orders will be automatically debited at regular price. Offer can't be used together with any other discount codes."
+  },
+  "modal_variant": {
+    "title": "Please select a variant before adding to cart.",
+    "close": "Close"
+  },
+  "product_related": {
+    "title": "Other products you might like",
+    "button": "Go to the store."
+  },
+  "product_info": {
+    "amount": "Amount",
+    "more_select": "80% selected",
+    "delivery": " Expected delivery: Tue, March 14",
+    "added_to_cart": "Add to cart"
+  },
+  "collection_customer": {
+    "see_all": "See all products"
+  },
+  "collection_product": {
+    "polar": "Sweat-free or Money-back Guarantee",
+    "title": "The solution against sweat!",
+    "subtitle": "100% sweat &amp; odor free | Up to 7 days dry",
+    "subtitle_1": "Find out the best solution to tackle your sweat issues!"
+  },
+  "show_more": "Show more",
+  "footer": {
+    "title": "We are here to help you!",
+    "help_faq": "Help & FAQ",
+    "returns": "Returns",
+    "feedback": "Feedback",
+    "vacancies": "Vacancies",
+    "blog": "Blog",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "open-time": "Mon - Fri; 9:00 - 18:00",
+    "email": "Email us:",
+    "corpory": "© 2023 The Polar Company. All rights reserverd "
+  },
+  "search": {
+    "not_found": "No results found for:",
+    "results": "Results for:",
+    "home": "Home"
+  },
+  "gift_card": {
+    "title": "Here's your gift card!",
+    "title_1": "Here's your ",
+    "title_2": " gift card for",
+    "disabled": "Disabled",
+    "expired_on": "Expired on ",
+    "use_card": "Use this code at checkout to redeem your gift card.",
+    "start": "Start Shopping",
+    "print": "Print"
+  },
+  "product_template": {
+    "select_size": "Choose a size:",
+    "sold_off": "Sold off",
+    "added_to_cart": "Add to cart",
+    "composition": "Composition",
+    "description": "Description"
+  }
+}

@@ -1,0 +1,679 @@
+{
+  "404": {
+    "title": "404 pagina niet gevonden",
+    "subtext": "De pagina waarnaar u op zoek bent, bestaat niet.",
+    "link": "Terug naar huis"
+  },
+  "home": {
+    "hero": {
+      "title": "De oplossing tegen zweet!",
+      "subtitle": "100% droge oksels & 100% geen zweetgeur. Voor minimaal 3 dagen!",
+      "button": "Shop nu"
+    },
+    "banner-product": {
+      "title": "Sterke mist",
+      "discover": "Ontdek onze",
+      "discover-bold": "Strong Mist",
+      "image": "1655304522_mist-3839x1686px-nl.png-1200w.webp",
+      "button": "Bestel nu"
+    },
+    "banner-left": {
+      "title": "Probeer de Spray.",
+      "subtitle": "No Time To Sweat - Spray",
+      "description": "Je verdient het om elke dag fris te zijn. Gebruik onze spray, ga slapen en rise and shine de volgende dag!",
+      "button": "Shop nu"
+    },
+    "banner-right": {
+      "title": "Probeer de Roller.",
+      "subtitle": "No Time To Sweat - Roller",
+      "description": "Zeg gedag tegen een zweterig leven. Roll it, ga slapen en je bent fris en cool de komende 3 tot 7 dagen.",
+      "button": "Shop nu"
+    },
+    "howitworks": {
+      "title": "Wil je weten hoe het werkt?",
+      "description": "Onze spray en roller zijn gebaseerd op zout en alcohol. Het zout functioneert als een sleutel die de zweetklieren tijdelijk afsluit. Zo krijgen bacteriën geen kans om te verspreiden, wat zorgt voor een hygiënische huid",
+      "button": "Meer weten? "
+    },
+    "community-polar": {
+      "join-community": "Word lid van de community en ontvang € 5 korting op elke bestelling!",
+      "title": "Polarwise Community.",
+      "description": "Word lid van onze community en ontvang levenslang €5 korting. Wij bezorgen uw bestelling dan rechtstreeks in uw brievenbus. ",
+      "button": "Word lid van de gemeenschap"
+    },
+    "newsletter": {
+      "title": "Register to receive news",
+      "subtitle": "We will let you know about discounts and news",
+      "success": "thank you for registering",
+      "error": "Message error",
+      "placeholder": "E-mail address",
+      "submit": "subscription"
+    },
+    "trust": {
+      "title": "Frisse oksels gingen voor je!",
+      "review": "Lees meer reviews"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Jouw winkelwagen",
+      "note": "Voeg een opmerking toe aan uw bestelling",
+      "removed_item_html": "Verwijderd <span class = \"Cart__Removed-Product-Details\"> ({{kwantiteit}}) {{link}} <\/span> van uw kar.",
+      "remove": "Verwijderen",
+      "subtotal": "Subtotaal",
+      "savings": "Je bespaard",
+      "taxes_and_shipping_at_checkout": "Belastingen en verzending berekend bij het afrekenen",
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ {link} }\"> Verzending <\/a> Berekend bij het afrekenen",
+      "taxes_included_but_shipping_at_checkout": "Belasting inbegrepen en verzending berekend bij het afrekenen",
+      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{ {link }}\"> verzending <\/a> berekend bij het afrekenen.",
+      "update": "Update",
+      "checkout": "Afrekenen",
+      "empty": "Je winkelwagen is momenteel leeg.",
+      "cookies_required": "Schakel cookies in om het winkelwagentje te gebruiken",
+      "continue_shopping": "Doorgaan met winkelen",
+      "cart_error": "Er was een fout bij het bijwerken van uw winkelwagen. Probeer het opnieuw."
+    },
+    "label": {
+      "discounted_total": "Korting toaal",
+      "product": "Product",
+      "price": "Prijs",
+      "price_column": "Zie de prijskolom voor kortingsgegevens.",
+      "product_details": "Productdetails",
+      "quantity": "Hoeveelheid",
+      "qty": "Qty",
+      "regular_total": "Regelmatig totaal",
+      "remove": "Verwijder {{product}}",
+      "total": "Totaal",
+      "update": "Update"
+    },
+    "popup": {
+      "added_to_cart": "Net toegevoegd aan je winkelwagen",
+      "cart_count": {
+        "one": "{{count}} item",
+        "other": "{{count}} items"
+      },
+      "product_details": "Productdetails",
+      "quantity": "qty",
+      "quantity_label": "Kwantiteit: {{kwantity_count}}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Naam",
+      "email": "E -mail",
+      "phone": "Telefoonnummer",
+      "message": "Bericht",
+      "submit": "Versturen",
+      "post_success": "Bedankt dat je contact met ons opneemt. We nemen zo snel mogelijk contact met u op.",
+      "error_heading": "Pas het volgende aan:"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Mijn rekening",
+      "details": "Accountgegevens",
+      "view_addresses": "Bekijk adressen",
+      "return": "Keer terug naar accountgegevens",
+      "manage_subscriptions": "Beheer abonnementen"
+    },
+    "activate_account": {
+      "title": "Activeer account",
+      "subtext": "Maak uw wachtwoord om uw account te activeren.",
+      "password": "Wachtwoord",
+      "password_confirm": "bevestig wachtwoord",
+      "submit": "Activeer account",
+      "cancel": "Weigering uitnodiging"
+    },
+    "addresses": {
+      "title": "Uw adressen",
+      "default": "Standaard",
+      "add_new": "Voeg een nieuw adres toe",
+      "edit_address": "Verander adres",
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "company": "Bedrijf",
+      "address1": "Adres",
+      "address2": "Appartement, suite, etc.",
+      "city": "Stad",
+      "country": "Land\/regio",
+      "province": "Provincie",
+      "zip": "Postcode",
+      "phone": "Telefoon",
+      "set_default": "Stel als standaardadres in",
+      "add": "Voeg adres toe",
+      "update": "Update adres",
+      "cancel": "Annuleren",
+      "edit": "Bewerk",
+      "delete": "Verwijderen",
+      "delete_confirm": "Weet u zeker dat u dit adres wilt verwijderen?"
+    },
+    "login": {
+      "title": "Log in",
+      "account": "Jouw rekening",
+      "create_account": "Account aanmaken",
+      "email": "E-mailadres",
+      "password": "wachtwoord",
+      "forgot_password": "Je wachtwoord vergeten?",
+      "sign_in": "Aanmelden",
+      "log_in": "Inloggen",
+      "guest_title": "Ga door als gast",
+      "guest_continue": "Doorgaan"
+    },
+    "orders": {
+      "title": "Bestelgeschiedenis",
+      "order_number": "Volgorde",
+      "order_number_link": "Bestelnummer {{nummer}}",
+      "date": "Datum",
+      "payment_status": "Betalingsstatus",
+      "fulfillment_status": "Vervullingstatus",
+      "total": "Totaal",
+      "none": "Je hebt nog geen bestellingen geplaatst."
+    },
+    "order": {
+      "title": "Bestel {{name}}",
+      "date_html": "Geplaatst op {{datum}}",
+      "cancelled_html": "Bestelling geannuleerd op {{datum}}",
+      "cancelled_reason": "Reden: {{reden}}",
+      "billing_address": "Facturatie adres",
+      "payment_status": "Betalingsstatus",
+      "shipping_address": "Verzendingsadres",
+      "fulfillment_status": "Vervullingstatus",
+      "discount": "Korting",
+      "shipping": "Verzenden",
+      "tax": "Belasting",
+      "product": "Product",
+      "sku": "Sku",
+      "price": "prijs",
+      "quantity": "Hoeveelheid",
+      "total": "Totaal",
+      "fulfilled_at_html": "Vervuld {{datum}}",
+      "subtotal": "Subtotaal",
+      "track_shipment": "Volg verzending"
+    },
+    "recover_password": {
+      "title": "Stel je wachtwoord opnieuw in",
+      "email": "E-mail",
+      "submit": "Indienen",
+      "cancel": "Annuleren",
+      "subtext": "We sturen u een E-mail om uw wachtwoord te resetten.",
+      "success": "We hebben u een E-mail gestuurd met een link om uw wachtwoord bij te werken."
+    },
+    "reset_password": {
+      "title": "Reset account wachtwoord",
+      "subtext": "Voer een nieuw wachtwoord in voor {{email}}",
+      "password": "Wachtwoord",
+      "password_confirm": "Bevestig wachtwoord",
+      "submit": "Reset wachtwoord"
+    },
+    "register": {
+      "title": "Account aanmaken",
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "email": "E-mail",
+      "password": "Wachtwoord",
+      "submit": "Creëren"
+    }
+  },
+  "about": {
+    "title": "Hi! Wij zijn Martijn & Dennis",
+    "content": "Eén van ons had een serieus zweetprobleem en probeerde alle middelen die jij je maar kunt voorstellen.\n\nGeen van die producten hielp en zijn schaamte bleef. Met als gevolg: Grote zweetplekken na de minste inspanning. Zijn laatste redmiddel? Een T-shirt met ingebouwde inlegkruisjes voor onder je oksels. \n\nDe ander gebruikte dagelijks deodorant en vroeg zich af waarom hij elke dag iets opspoot wat niet effectief werkte. Op een warme zomerdag of na een spannende gebeurtenis loop je immers nog steeds rond met een zweetgeur. \n\nDit vonden wij onacceptabel. Daarom richtten wij samen de Polarwise op. \nWe keep you cool in every situation!\n\nMartijn & Dennis",
+    "join-community": {
+      "title": "Word lid van de Polarwise Community!",
+      "subtitle": "Word onderdeel van de meest verse gemeenschap! En krijg altijd € 5,- korting!",
+      "link": "Word lid van de gemeenschap"
+    }
+  },
+  "privacy": {
+    "title": "Privacy &amp; Cookie Statement The Polar Company",
+    "subtitle": "15 april 2021",
+    "content": ""
+  },
+  "jobs": {
+    "title": "Kom je ons helpen?",
+    "content": "#P Dus, je bent geïnteresseerd in werken met ons team! Geweldig. We horen graag meer over hoe u ons kleine bedrijf kunt helpen groeien.#BR#\/P#P#BR#\/P #P Stuur ons een E-mail naar #A #UHALLO@thepolarcompany.com#\/U #\/A en stel jezelf voor!#\/P",
+    "baseboard": "Er zijn momenteel geen vacatures beschikbaar."
+  },
+  "subscription": {
+    "title_1": "Waarom lid worden van de gemeenschap?",
+    "content_1": "Word lid van onze community en ontvang levenslang €5 korting. Wij bezorgen uw bestelling dan rechtstreeks in uw brievenbus. ",
+    "title_2": "Levenslang € 5 korting",
+    "content_2": "Als u opnieuw moet bestellen, zullen we het leveren. Uw korting van € 5 wordt automatisch toegepast.",
+    "title_3": "Gratis bezorging",
+    "content_3": "Onze verpakking wordt per post verstuurd en is zo ontworpen dat ze moeiteloos in uw brievenbus valt. ",
+    "title_4": "Verfrissend eenvoudige klantenservice",
+    "content_4": "U kunt kiezen waar, wanneer en hoeveel u nodig heeft. Er zijn geen kleine lettertjes. Of onzin. Alleen wij, in uw hoek, die u koel houden wanneer u ons nodig heeft. We laten je zelfs weten wanneer je bestelling onderweg is.  ",
+    "faq": {
+      "title": "Veel Gestelde Vragen",
+      "subtitle": "Zoek het antwoord op uw vraag hieronder!",
+      "options": {
+        "option_1": {
+          "title": "Levering",
+          "answers": {
+            "1": {
+              "title": "Ik bestelde de extra sterke maar ontving de sterke. Hoe is dit mogelijk?",
+              "answer": "Onlangs hebben de flessen een nieuwe look. De nieuwe flessen hebben er momenteel alleen 'sterk' op. De sterke variant bevat echter nog steeds de krachtige formule zoals voorheen!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Abonnement",
+          "answers": {
+            "1": {
+              "title": "Ik wil vaker een nieuwe fles ontvangen, kan ik dit veranderen?",
+              "answer": "| Wilt u de frequentie van uw abonnement wijzigen? || Dat is mogelijk, u kunt dit eenvoudig zelf in uw account aanpassen. Zit je vast? || Stuur ons een bericht via whatsapp of E-mail naar|hallo@thepolarcompany.com"
+            },
+            "2": {
+              "title": "Kan ik kiezen tussen de rol of de spray?",
+              "answer": "| Wil je schakelen tussen de rol of de spray? || Dat is mogelijk, u kunt kiezen uit de volgende opties: || - Roller (origineel of sterk). - Spray (origineel of sterk). || U kunt dit in uw account aanpassen!"
+            },
+            "3": {
+              "title": "Ik ben verhuis, kan ik mijn adres wijzigen?",
+              "answer": "U kunt uw adres in uw account wijzigen!"
+            }
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Hulp",
+    "content": "Neem gerust contact met ons op, maar voordat u dat doet, controleer dan onze veelgestelde vragen om te zien of uw aanvraag al is beantwoord.",
+    "open-time": "Mon - vr; 9:00 - 18:00",
+    "email": "Email ons:"
+  },
+  "faq": {
+    "title": "Veel Gestelde Vragen",
+    "subtitle": "Zoek het antwoord op uw vraag hieronder!",
+    "options": {
+      "option_1": {
+        "title": "Levering",
+        "answers": {
+          "1": {
+            "title": "Ik heb de Extra Strong besteld maar de Strong ontvangen. Hoe kan dit? ",
+            "answer": "Sinds kort hebben de flesjes een nieuw uiterlijk. Op de nieuwe flesjes staat op dit moment enkel 'Strong'. De Strong bevat nog steeds de krachtige formule als voorheen!"
+          },
+          "2": {
+            "title": "Ik wil mijn adres aanpassen, hoe moet ik dit doen?",
+            "answer": "Wil je het adres wijzigen van je bestelling. Dit is mogelijk indien je bestelling nog niet verzonden is.\n#BR #BR\nStuur een berichtje naar ons via WhatsApp of mail naar hallo@thepolarcompany.com\n#BR #BR\nWij zorgen dat dit correct aangepast wordt."
+          },
+          "3": {
+            "title": "Wat is de levertijd van een bestelling?",
+            "answer": "Gemiddeld worden bestellingen binnen 2 á 3 werkdagen in Nederland bezorgd. Soms kan dit ook iets langer duren. \n#BR #BR\nGaat je bestelling naar België, Frankrijk of Duitsland dan is dit 5 á 6 werkdagen. "
+          },
+          "4": {
+            "title": "Moet ik thuis zijn voor mijn bestelling?",
+            "answer": "Nee! Je bestelling past door de brievenbus. Zo kan jij optimaal van je dag genieten."
+          },
+          "5": {
+            "title": "Hoe lang duurt het voor ik mijn bestelling ontvang?",
+            "answer": "Als je voor 16:00 besteld hebt, ontvang je de bestelling binnen werkdagen 3 dagen! \n#BR #BR\nIs het erg druk bij PostNL? Dan kan je pakketje er ietsjes langer over doen. \n#BR #BR\nGelukkig hoef je er niet voor thuis te blijven, onze producten passen allemaal door de brievenbus. "
+          }
+        }
+      },
+      "option_2": {
+        "title": "Gebruik",
+        "answers": {
+          "1": {
+            "title": "Wat zijn de ingredienten?",
+            "answer": "Original: #BR alcohol, aqua, aluminium chlorohydrate, propylene glycol, denatonium benzoate, citrus aurantium bergamia fruit oil, MEK \n#BR #BR\nStrong: #BR alcohol, aluminium chloride hexahydrate, denatonium benzoate, citrus aurantium bergamia fruit oil, MEK"
+          },
+          "2": {
+            "title": "Ik heb mijn bestelling nog niet ontvangen na 3 (werk)dagen, wat nu?",
+            "answer": "Vervelend dat je bestelling nog niet ontvangen is. Met de aankomende kerstdrukte kunnen bestellingen langer onderweg zijn. Meestal wordt je bestelling binnen een week na verzenden bezorgd. \n#BR #BR\nDuurt het langer dan 7 dagen? Stuur een berichtje naar ons via WhatsApp of mail naar hallo@thepolarcompany.com. Controleer daarbij ook even het bezorgadres. \n#BR #BR\nVermeld hierbij je naam en ordernummer. Zo kunnen wij je bestelling in ons systeem erbij zoeken. "
+          },
+          "3": {
+            "title": "Ik wil vaker een nieuw flesje ontvangen, kan ik dit wijzigen?",
+            "answer": "Wil je de frequentie van je Abonnement wijzigen? \n#BR #BR\nDat is mogelijk, je kunt dit zelf makkelijk aanpassen in je account. Kom je er niet uit?\n#BR #BR\nStuur een berichtje naar ons via WhatsApp of mail naar hallo@thepolarcompany.com"
+          },
+          "4": {
+            "title": "Kan ik kiezen tussen de rol of de spray?",
+            "answer": "Wil je switchen naar de Roller of naar de Spray. \n#BR #BR\nDat is mogelijk, je kunt kiezen uit de volgende opties: #BR\n- Roller (Original of Strong). - Spray (Original of Strong). \n#BR #BR\nDit kun je aanpassen in je account!"
+          },
+          "5": {
+            "title": "Ik ga verhuizen, kan ik mijn adres aanpassen?",
+            "answer": "Dit kan je eenvoudig in je account aanpassen!"
+          },
+          "6": {
+            "title": "Kan ik naast dit product deodorant of parfum gebruiken?",
+            "answer": "Ja! Het gebruik van deodorant of parfum gedurende de dag heeft geen invloed op de werking van het product."
+          },
+          "7": {
+            "title": "Waarom bevatten de producten alcohol?",
+            "answer": "Ons product is gebaseerd op alcohol en niet op water omdat het oplosbare zout in de huid moet worden geactiveerd en niet op het oppervlak."
+          },
+          "8": {
+            "title": "Hoe werkt het?",
+            "answer": "Ons product is effectief vanwege zout wat is opgelost in alcohol. Het word opgenomen in de huid en voorkomt dat zweet het huidoppervlak bereikt. Het zout verdwijnt vanzelf, net zoals dode huidcellen die worden vervangen door nieuwe. Daarom hoef je het maar eens in de paar dagen te gebruiken."
+          }
+        }
+      },
+      "option_3": {
+        "title": "Abonnement",
+        "answers": {
+          "1": {
+            "title": "Wat als mijn betaling niet is gelukt?",
+            "answer": "Maak je geen zorgen, je kunt opnieuw proberen te betalen. We sturen je pas een product als de betaling is gelukt. \n#BR #BR\nLukt dit niet? Stuur ons even een berichtje!"
+          },
+          "2": {
+            "title": "Hoe zit het met garantie?",
+            "answer": "Voor alle artikelen die je bij ons koopt, geldt de wettelijke garantie. Wettelijke garantie wil zeggen dat een product datgene is of moet doen wat de consument er in alle redelijkheid van mag verwachten. \n#BR #BR\nHeb je een garantievraagstuk? Stuur ons een mailtje! hallo@thepolarcompany.com"
+          },
+          "3": {
+            "title": "Zijn alle genoemde prijzen inclusief btw?",
+            "answer": "Alle prijzen op onze website zijn btw."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Overige vragen",
+        "answers": {
+          "1": {
+            "title": "Wat moet ik doen in geval van klachten?",
+            "answer": "Bij klachten kunt u een E-mail sturen naar hallo@thepolarcompany.com. Wilt u liever bellen? Contacteer ons via +31 85 808 8243"
+          },
+          "2": {
+            "title": "Ik krijg af en toe een uitslag bij het gebruik van het product, wat kan ik doen?",
+            "answer": " Our product is specially formulated with protective silicones and the purest ingredients to prevent skin irritation  #BR  #BR Irritation\/rash does occur sometimes and can be caused by four  factors. We will list them below: #BR  #BR 1. Moist skin #BR 2. Too much product in one place#BR  3. Sensitive skin#BR 4. Allergic reaction. #BR  #BR To avoid irritation, follow these steps: #BR 1. 😴 Before going to sleep 2. 🚱  thinly 4. 💈 Do not shave 24 hours in advance 5. 🙆 Let it dry for a while 6. 🚿 Wash your skin briefly in the morning #BR #BR  Apply a thin layer, such as 1 spray or a minimal roll, on dry skin. Leave the skin to dry for a while and then go to bed. Make sure you have not shaved at least 24 hours in advance and wash your skin in the morning. #BR #BR The product can cause irritation when in contact with moisture, so make sure the skin is thoroughly dry. Do not apply to wounds. If this does not help, please contact us!"
+          },
+          "3": {
+            "title": "Is het veilig om dit product tijdens de zwangerschap te gebruiken?",
+            "answer": "Ja. Ons product werkt alleen op het huidoppervlak, er is absoluut geen opname in de bloedbaan, dus de baby kan geen schade oplopen tijdens de zwangerschap, ook niet wanneer de baby borstvoeding krijgt."
+          },
+          "4": {
+            "title": "Is dit product veilig voor alle huidtypes?",
+            "answer": "Ons product is veilig, ook voor de gevoelige huidtypen. \n\nVoor de gevoelige huid: \nGebruik slechts 1 spray voor elk huidgebied dat moet worden behandeld en breng het spaarzaam aan met watten (make-up remover pads zijn handig). Breng een dun laagje aan met de Roller. \n\nOp deze manier kunnen behandelingen van het gezicht en andere gevoelige huidgebieden zoals de lies en onder de borsten gemakkelijk worden behandeld. Je kan talk gebruiken om overtollig product na het aanbrengen te absorberen."
+          },
+          "5": {
+            "title": "Is het gevaarlijk om zweten te voorkomen?",
+            "answer": "Het onder controle houden van transpiratie op de \"hotspots\" is niet gevaarlijk omdat je huid zichzelf afkoelt via andere plekken op je lichaam. \n\nHet transpiratievocht dat niet kan ontsnappen, wordt eenvoudig via de bloedstroom naar andere zweetkanalen geleid of via de nieren uitgescheiden."
+          },
+          "6": {
+            "title": "Is het veilig om dit product over het hele lichaam te gebruiken?",
+            "answer": "Ja! \n#BR #BR\nVoor de gevoelige huid: Gebruik slechts 1 spray voor elk huidgebied dat moet worden behandeld en breng het spaarzaam aan met watten (make-up remover pads zijn handig). \n#BR #BR\nOp deze manier kunnen behandelingen van het gezicht en andere gevoelige huidgebieden zoals de lies en onder de borsten gemakkelijk worden behandeld. Je kan talk gebruiken om overtollig product na het aanbrengen te absorberen."
+          }
+        }
+      },
+      "option_5": {
+        "title": "Hoe het werkt",
+        "answers": {
+          "1": {
+            "title": "Kan dit product mijn kleren bevlekken?",
+            "answer": "Als je het product gebruikt zoals voorgeschreven, zal het nooit vlekken op je kleding veroorzaken. Was om zeker te zijn 's morgens de behandelde huid."
+          }
+        }
+      },
+      "option_6": {
+        "title": "Veiligheid",
+        "answers": {
+          "1": {
+            "title": "Waarom moet ik dit product voor het slapengaan toepassen?",
+            "answer": "Omdat je 's nachts niet actief transpireert. Het product wordt afgebroken door water, dus het is belangrijk om het alleen op een droge huid aan te brengen. Het is het meest effectief wanneer het wordt aangebracht voordat je gaat slapen. Overdag aanbrengen van het product kan huidirritatie en vlekken op kleding veroorzaken."
+          },
+          "2": {
+            "title": "Kan ik naast dit product lotion of vochtinbrengende crèmes gebruiken?",
+            "answer": "Ja, als je het product toepast zoals we voorschrijven, kun je elk ander product dat je wilt gebruiken zonder bijwerkingen. \n#BR #BR\nMocht je vragen hebben hierover kun je ons een berichtje sturen op +31 858088243."
+          },
+          "3": {
+            "title": "Ik denk dat het product niet voor mij werkt",
+            "answer": "Wees niet getreurd. Onze ervaring leert ons dat het product voor echt bijna iedereen werkt. In het begin moet je lichaam even wennen. Na het product 2-3 keer, gedurende de eerste twee weken aangebracht te hebben ga je het resultaat merken. Nog steeds niet het optimale resultaat? Stuur ons een bericht om samen uit te zoeken wat voor jou werkt: +31 858088243. \n#BR #BR\nWerkt het echt niet voor jou? Dan kijken we naar een gepaste oplossing!"
+          },
+          "4": {
+            "title": "Twee keer per week spuiten is niet genoeg voor mij. Mag ik het vaker gebruiken?",
+            "answer": "Iedereen is anders en sommige mensen zweten meer dan anderen. Twee keer per week is een referentiepunt dat voor de meeste gebruikers werkt. Probeer erachter te komen wat voor jou handig is. Als je hulp nodig hebt, stuur ons dan een bericht: +31 858088243"
+          },
+          "5": {
+            "title": "Hoe lang kan ik de fles na het openen gebruiken?",
+            "answer": "Onze producten kunnen tot 6 maanden na openen worden gebruikt."
+          },
+          "6": {
+            "title": "Hoe vaak gebruik ik dit product?",
+            "answer": "Dit is afhankelijk per persoon. We gebruiken tweemaal per week als referentiepunt. \n#BR #BR\nGebruik het product bijvoorbeeld op donderdag- en zondagavond om er zeker van te zijn dat je doordeweeks en in het weekend zweetvrij bent. Als dit niet genoeg blijkt kan je het ook vaker per week gebruiken of onze Strong variant proberen!"
+          }
+        }
+      },
+      "option_7": {
+        "title": "Lichaamsdelen",
+        "answers": {
+          "1": {
+            "title": "Wat is de beste manier om dit product onder mijn oksels toe te passen?",
+            "answer": "Spray een of twee keer onder je arm. Als jij je comfortabeler voelt om het product aan te brengen met een wattenmake-up remover pad, dan is dit ook mogelijk. \n#BR #BR\nSommige mensen gebruiken een föhn om de huid te drogen voor gebruik omdat het product kan irriteren wanneer het in aanraking komt met vocht (zweet)."
+          },
+          "2": {
+            "title": "Kan ik dit product op mijn hoofdhuid gebruiken?",
+            "answer": "Je kunt het product direct op je hoofdhuid spuiten. Verdeel het haar indien nodig en behandel het vervolgens met de vingertoppen. Houd er rekening mee dat de vloeistof niet in je ogen kan komen."
+          },
+          "3": {
+            "title": "Kan ik dit product op mijn gezicht gebruiken?",
+            "answer": "Ja! Het product kan op elk deel van je huid worden gebruikt. Let op dat u niet in uw ogen spuit. \n#BR #BR\nVoor de gevoelige huid: Gebruik slechts 1 spray voor elk huidgebied dat moet worden behandeld en breng het spaarzaam aan met watten (make-up remover pads zijn handig)."
+          },
+          "4": {
+            "title": "Zal dit product voorkomen dat zweten op mijn rug?",
+            "answer": "Het product houdt de onderrug droog, maar sommige mensen zullen merken dat hun achterkant nog steeds \"lekt\". In dit geval kunt je het product het beste twee keer per week blijven gebruiken en een gevleugeld maandverband gebruiken. Ze zijn niet zichtbaar en beschermen de onderkleding."
+          },
+          "5": {
+            "title": "Helpt dit product tegen natheid op handen en voeten?",
+            "answer": "Ja! Ons product wordt gemaakt om te voorkomen dat zweten op elk deel van uw huid. Het vermijden van synthetisch schoeisel gemaakt van niet-adembare materialen helpt je voeten ook minder te zweten."
+          },
+          "6": {
+            "title": "Kan het product gebruiken op de schaamstreek?",
+            "answer": "Ja, maar je moet extra voorzichtig zijn omdat de huid dunner en daardoor gevoeliger is in dit gebied. \n#BR #BR\nZorg ervoor dat je huid echt droog is (talk of een föhn kan helpen) en breng het product heel spaarzaam aan via watten, zoals aangegeven."
+          }
+        }
+      }
+    }
+  },
+  "howitworks": {
+    "title": "Dit is hoe het werkt!",
+    "image": "1619786053_blob.png-1900w.webp",
+    "topics": {
+      "top1": {
+        "title": "Zout en alcohol",
+        "content": "Onze spray en roller zijn gebaseerd op zout en alcohol. Het zout fungeert als een sleutel die de zweetklieren tijdelijk afsluit. Ook krijgen bacteriën zo geen kans om te verspreiden, wat zorgt voor een hygiënische huid. "
+      },
+      "top2": {
+        "title": "Spray en slaap",
+        "content": "Wanneer jij lekker slaapt, doet Polar al het werk! De kracht van de formule is om zweet tegen te houden in de huid. Belangrijk is daarom je huid eerst goed droog en schoon te maken. Spuit 1 à 2 keer onder je oksel of rol een dun laagje met de roller, laat het even drogen en duik je bed in. De volgende dag word je fris en fruitig wakker en ben je klaar voor de week! Zo simpel kan het zijn. ",
+        "image": ""
+      }
+    },
+    "faq": {
+      "title": "Veel Gestelde Vragen",
+      "subtitle": "Zoek het antwoord op uw vraag hieronder!",
+      "options": {
+        "option_1": {
+          "title": "Levering",
+          "answers": {
+            "1": {
+              "title": "Ik heb de Extra Strong besteld maar de Strong ontvangen. Hoe kan dit? ",
+              "answer": "Sinds kort hebben de flesjes een nieuw uiterlijk. Op de nieuwe flesjes staat op dit moment enkel 'Strong'. De Strong bevat nog steeds de krachtige formule als voorheen!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Overige vragen",
+          "answers": {
+            "1": {
+              "title": "Waarom bevatten de producten alcohol?",
+              "answer": "Ons product is gebaseerd op alcohol en niet op water omdat het oplosbare zout in de huid moet worden geactiveerd en niet op het oppervlak."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Hoe het werkt",
+          "answers": {
+            "1": {
+              "title": "Hoe werkt het?",
+              "answer": "Ons product is effectief vanwege zout wat is opgelost in alcohol. Het word opgenomen in de huid en voorkomt dat zweet het huidoppervlak bereikt.Het zout verdwijnt vanzelf, net zoals dode huidcellen die worden vervangen door nieuwe. Daarom hoef je het maar eens in de paar dagen te gebruiken."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Gebruik",
+          "answers": {
+            "1": {
+              "title": "Waarom moet ik het aanbrengen voordat ik ga slapen?",
+              "answer": "Omdat je 's nachts niet actief transpireert. Het product wordt afgebroken door water, dus het is belangrijk om het alleen op een droge huid aan te brengen. Het is het meest effectief wanneer het wordt aangebracht voordat je gaat slapen. Overdag aanbrengen van het product kan huidirritatie en vlekken op kleding veroorzaken."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product": {
+    "faq": {
+      "title": "Veel Gestelde Vragen",
+      "subtitle": "Zoek het antwoord op uw vraag hieronder!",
+      "options": {
+        "option_1": {
+          "title": "Gebruik",
+          "answers": {
+            "1": {
+              "title": "Wat zijn de ingredienten?",
+              "answer": "#B Strong Mist: #\/B #BR Alcohol Denat., Aluminium chloride, water, parfum"
+            },
+            "2": {
+              "title": "Waarom moet ik dit product voor het slapengaan toepassen?",
+              "answer": "Ons product is effectief vanwege het oplosbare zout opgelost in alcohol. De oplossing wordt 's nachts in de huid geabsorbeerd en voorkomt dat zweet het oppervlak van de huid kan bereiken. Het zout verdwijnt op natuurlijke wijze na een paar dagen, als een natuurlijke vervanging van dode huidcellen. Daarom hoeft u de Polar slechts per paar dagen te gebruiken."
+            }
+          }
+        },
+        "option_2": {
+          "title": "overige vragen",
+          "answers": {
+            "1": {
+              "title": "Hoe lang duurt een fles?",
+              "answer": "Het hangt af van uw persoonlijke situatie en hoeveel u zweet. Onze gebruikers geven het volgende aan: #BR #BR Starter Kit: 2 tot 3 weken per voorbeeld. Spray\/Roller: 2 tot 3 maanden"
+            },
+            "2": {
+              "title": "Wat is de levertijd voor een bestelling?",
+              "answer": "Gemiddeld worden bestellingen binnen 2 tot 3 dagen nuttig in Nederland geleverd. Soms kan het ook nog een tijdje duren. #BR #BR Als uw bestelling naar België, Frankrijk, Duitsland of Spanje gaat, duurt het 3 tot 5 werkdagen."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Levering",
+          "answers": {
+            "1": {
+              "title": "Moet ik thuis zijn voor mijn bestelling?",
+              "answer": "Nee! Uw bestelling past in de mailbox. Op deze manier kunt u het meeste uit uw dag halen."
+            },
+            "2": {
+              "title": "Waarom bevatten de producten alcohol?",
+              "answer": "Ons product is gebaseerd op alcohol en niet op water omdat oplosbaar in zout op de huid moet worden geactiveerd en niet op het oppervlak."
+            }
+          }
+        },
+        "option_4": {
+          "title": "hoe het werkt",
+          "answers": {
+            "1": {
+              "title": "Hoe werkt het?",
+              "answer": "Ons product is effectief vanwege het oplosbare zout opgelost in alcohol. #BR #BR De oplossing wordt 's nachts in de huid geabsorbeerd en voorkomt dat zweet het huidoppervlak bereikt. #BR #BR Het zout verdwijnt natuurlijk na een paar dagen, zoals de natuurlijke vervanging van dode huidcellen. #BR #BR daarom hoeft u het maar één keer in een paar dagen te gebruiken."
+            }
+          }
+        }
+      }
+    }
+  },
+  "descover": {
+    "title": "Ontdek onze #B Strong Mist Spray #\/B"
+  },
+  "menu": {
+    "shop": "Shop",
+    "about": "Over ons",
+    "how_it_works": "Hoe het werkt",
+    "subscription": "Abonnementen",
+    "help_faq": "Help & FAQ",
+    "log_out": "Uitloggen",
+    "log_in": "Inloggen",
+    "contact": "Contact",
+    "blog": "Blog",
+    "vacancies": "Vacatures",
+    "terms": "Algemene voorwaarden",
+    "privacy": "Privacybeleid"
+  },
+  "modal_1": {
+    "title": "Vemos que você está comprando de outro país. Deseja que alterAremos seu país e Moeda?",
+    "yes": "Ja",
+    "no": "Nee"
+  },
+  "modal_subscrition": {
+    "title": "Abonneren? Geweldig!",
+    "info_1": "#B Flexibele frequentie: #\/B #BR niet zeker hoe vaak u moet? Geen probleem! U kunt het altijd in uw portal aanpassen.",
+    "info_2": "#B 3 Day Herinnering: #\/B #BR We E-mailen u voor elke verzending. Als u niet klaar bent, kunt u uw levering uitstellen. Maak je geen zorgen, we zullen je alleen maar factureren als je bestelling wordt verzonden.",
+    "info_3": "#B Annuleren en wijzigen op elk moment: #\/B #BR U kunt eenvoudig annuleren, wijzigingen aanbrengen, producten toevoegen en uw leveringsschema beheren via uw online account.",
+    "button": "Aye Aye kapitein!",
+    "footer": "#B One Time kortingscode#\/B Beschikbaar voor #B alleen nieuwe abonnees.#\/B terugkerende bestellingen worden automatisch gedebiteerd tegen een reguliere prijs. Aanbieding kan niet samen met andere kortingscodes worden gebruikt."
+  },
+  "modal_variant": {
+    "title": "Selecteer een variant voordat u toevoegt aan CART.",
+    "close": "Dichtbij"
+  },
+  "product_related": {
+    "title": "Andere producten die je misschien leuk vindt",
+    "button": "Ga naar de shop."
+  },
+  "product_info": {
+    "amount": "Hoeveelheid",
+    "more_select": "80% gekozen",
+    "delivery": "Verwachte levering: di, 14 maart",
+    "added_to_cart": "Toevoegen aan winkelwagen"
+  },
+  "collection_customer": {
+    "see_all": "Zie alle producten"
+  },
+  "collection_product": {
+    "polar": "Zweetvrij of geld-terug-garantie",
+    "title": "De oplossing tegen zweet!",
+    "subtitle": "100% zweet &amp; geurvrij | Tot 7 dagen droog",
+    "subtitle_1": "100% zweet &amp; geurvrij | Tot 7 dagen droog"
+  },
+  "show_more": "Show more",
+  "footer": {
+    "title": "Wij zijn hier om u te helpen!",
+    "help_faq": "Help en veelgestelde vragen",
+    "returns": "Geeft terug",
+    "feedback": "Feedback",
+    "vacancies": "Vacatures",
+    "blog": "Blog",
+    "terms": "Algemene voorwaarden",
+    "privacy": "Privacybeleid",
+    "open-time": "Mon - vr; 9:00 - 18:00",
+    "email": "Email ons:",
+    "corpory": "© 2023 The Polar Company. Alle rechten voorbehouden"
+  },
+  "search": {
+    "not_found": "Geen resultaten gevonden voor:",
+    "results": "Resultaten voor:",
+    "home": "Thuis"
+  },
+  "gift_card": {
+    "title": "Hier is je cadeaubon!",
+    "title_1": "Hier is je",
+    "title_2": "cadeaubon voor",
+    "disabled": "Gehandicapt",
+    "expired_on": "Over de datum op",
+    "use_card": "Gebruik deze code bij het afrekenen om uw cadeaubon in te wisselen.",
+    "start": "Begin met winkelen",
+    "print": "Afdrukken"
+  },
+  "product_template": {
+    "select_size": "Kies een maat:",
+    "sold_off": "Uitverkocht",
+    "added_to_cart": "Voeg toe aan winkelmand",
+    "composition": "Samenstelling",
+    "description": "Beschrijving"
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "continue_to_payment_method": "Ga naar afrekenen"
+      }
+    }
+  },
+  "customer_accounts": {
+    "navigation_and_structure": {
+      "document_title": "{{sectieNaam}} - {{wineklNaam}} - account",
+      "generic_accessibility_label": "{{label}}: {{waarden}}"
+    }
+  }
+}

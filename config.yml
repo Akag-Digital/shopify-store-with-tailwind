@@ -1,0 +1,21 @@
+development:
+  password: ""
+  theme_id: ""
+  store: 
+
+MissingTemplate:
+  enabled: true
+  ignore_missing: []
+
+ValidSchema:
+  enabled: true
+
+LiquidTag:
+  enabled: true
+  min_consecutive_statements: 5
+
+DeprecateLazysizes:
+  enabled: true
+
+RemoteAsset:
+  enabled: true

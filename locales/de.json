@@ -1,0 +1,666 @@
+{
+  "404": {
+    "title": "404 Seite nicht gefunden",
+    "subtext": "Die von Ihnen gesuchte Seite existiert nicht.",
+    "link": "Zurück nach Hause"
+  },
+  "home": {
+    "hero": {
+      "title": "Es funktioniert tatsächlich!",
+      "subtitle": "Genießen Sie 100% trockene, geruchsfreie Achselhöhlen für mindestens 3 Tage!",
+      "button": "Jetzt kaufen"
+    },
+    "banner-product": {
+      "title": "Strong Mist",
+      "discover": "Entdecken Sie unser ",
+      "discover-bold": "Strong Mist",
+      "image": "1655814752_mist-3839x1686px-de.png-1200w.webp",
+      "button": "Jetzt bestellen"
+    },
+    "banner-left": {
+      "title": "Er ist frisch.",
+      "subtitle": "Keine Zeit zum Schwitzen - Spray",
+      "description": "Sie verdienen es, jeden Tag frisch zu sein. Einmal sprühen, ins Bett gehen, dann aufstehen und am nächsten Tag glänzen ",
+      "button": "Jetzt bestellen"
+    },
+    "banner-right": {
+      "title": "Versuchen Sie den Polar Roller.",
+      "subtitle": "Keine Zeit zum Schwitzen - Roller",
+      "description": "Sagen Sie verschwitzten Achselhöhlen gute Nacht! Rollen Sie sich vor dem Schlafengehen ein, und Sie werden sich kühl und erfrischt fühlen. Genießen Sie einen schweiß- und geruchsfreien Lebensstil für die nächsten 3-7 Tage.",
+      "button": "Jetzt bestellen"
+    },
+    "howitworks": {
+      "title": "Sie wollen wissen, wie das funktioniert?",
+      "description": "Unsere geheime Formel mischt ein wenig Salz und Alkohol in einem kleinen Roller zusammen. Vor dem Schlafengehen auftragen und schon wird sich Ihr verschwitztes Leben zum Besseren wenden!",
+      "button": "Lesen Sie wie"
+    },
+    "community-polar": {
+      "join-community": "Werden Sie Mitglied der Community und erhalten Sie 5 € Rabatt auf jede Bestellung!",
+      "title": "Die Polar Company Gemeinschaft. ",
+      "description": "Werden Sie Mitglied unserer Gemeinschaft und erhalten Sie lebenslang 5 € Rabatt. Wir liefern Ihre Bestellung dann direkt in Ihren Briefkasten. ",
+      "button": "Werden Sie Mitglied der Gemeinschaft"
+    },
+    "newsletter": {
+      "title": "register to receive news",
+      "subtitle": "We will let you know about discounts and news",
+      "success": "thank you for registering",
+      "error": "Message error",
+      "placeholder": "E-mail address",
+      "submit": "subscription"
+    },
+    "trust": {
+      "title": "Frische Achselhöhlen gingen vor dir!",
+      "review": "Review leason"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Ihr Warenkorb",
+      "note": "Fügen Sie eine Notiz zu Ihrer Bestellung hinzu",
+      "removed_item_html": "Entfernt <span class=\"cart__removed-product-details\">({{ quantity }}) {{ link }}<\/span> aus Ihrem Warenkorb.",
+      "remove": "entfernen",
+      "subtotal": "Zwischensumme",
+      "savings": "Du sparst",
+      "taxes_and_shipping_at_checkout": "Steuern und Versandkosten werden an der Kasse berechnet",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden an der Kasse berechnet",
+      "taxes_included_but_shipping_at_checkout": "Inklusive Steuern und Versandkosten, die an der Kasse berechnet werden.",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
+      "update": "Update",
+      "checkout": "Überprüfen Sie",
+      "empty": "Ihr Warenkorb ist derzeit leer.",
+      "cookies_required": "Aktivieren Sie Cookies, um den Einkaufswagen zu benutzen",
+      "continue_shopping": "Weiter einkaufen",
+      "cart_error": "Beim Aktualisieren Ihres Warenkorbs ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "label": {
+      "discounted_total": "Ermäßigter Gesamtbetrag",
+      "product": "Produkt",
+      "price": "Preis",
+      "price_column": "Einzelheiten zu den Rabatten finden Sie in der Spalte Preis.",
+      "product_details": "Einzelheiten zum Produkt",
+      "quantity": "quantity",
+      "qty": "quantity",
+      "regular_total": "Reguläre Summe",
+      "remove": "Entfernen {{ product }}",
+      "total": "Insgesamt",
+      "update": "Update"
+    },
+    "popup": {
+      "added_to_cart": "Soeben in den Warenkorb gelegt",
+      "cart_count": {
+        "one": "{Artikel }}",
+        "other": "{{ count }} items"
+      },
+      "product_details": "Einzelheiten zum Produkt",
+      "quantity": "quantity",
+      "quantity_label": "quantity: {{ quantity_count }}"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Rufnummer",
+      "message": "Nachricht",
+      "submit": "Send",
+      "post_success": "Vielen Dank für Ihre Kontaktaufnahme. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "error_heading": "Bitte stellen Sie das Folgende ein:"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Mein Konto",
+      "details": "Konto Details",
+      "view_addresses": "Adressen anzeigen",
+      "return": "Zurück zu den Kontodetails",
+      "manage_subscriptions": "Abonnements verwalten"
+    },
+    "activate_account": {
+      "title": "Konto freischalten",
+      "subtext": "Erstellen Sie Ihr Passwort, um Ihr Konto zu aktivieren.",
+      "password": "Passwort",
+      "password_confirm": "Bestätigen Sie Ihr Passwort",
+      "submit": "Konto freischalten",
+      "cancel": "Einladung ablehnen"
+    },
+    "addresses": {
+      "title": "Ihre Adressen",
+      "default": "Standard",
+      "add_new": "Eine neue Adresse hinzufügen",
+      "edit_address": "Adresse bearbeiten",
+      "first_name": "Vorname",
+      "last_name": "Last Name",
+      "company": "Unternehmen",
+      "address1": "Adresse",
+      "address2": "Wohnung, Appartement, usw.",
+      "city": "Stadt",
+      "country": "Land\/Region",
+      "province": "Provinz",
+      "zip": "Post-\/Postleitzahl",
+      "phone": "Telefon",
+      "set_default": "Als Standardadresse festlegen",
+      "add": "Adresse hinzufügen",
+      "update": "Adresse aktualisieren",
+      "cancel": "Abbrechen",
+      "edit": "bearbeiten",
+      "delete": "Löschen",
+      "delete_confirm": "Sind Sie sicher, dass Sie diese Adresse löschen möchten?"
+    },
+    "login": {
+      "title": "Einloggen",
+      "account": "Ihr Konto",
+      "create_account": "Ein Konto erstellen",
+      "email": "E-Mail Adresse",
+      "password": "Passwort",
+      "forgot_password": "Haben Sie Ihr Passwort vergessen?",
+      "sign_in": "Eintragen",
+      "log_in": "Einloggen",
+      "guest_title": "Weiter als Gast",
+      "guest_continue": "Weiter"
+    },
+    "orders": {
+      "title": "Order History",
+      "order_number": "Bestellung",
+      "order_number_link": "Bestellnummer {{ number }}",
+      "date": "Date",
+      "payment_status": "Zahlungsstatus",
+      "fulfillment_status": "Erfüllungsstatus",
+      "total": "Insgesamt",
+      "none": "Sie haben noch keine Bestellungen aufgegeben."
+    },
+    "order": {
+      "title": "Bestellung {{ name }}",
+      "date_html": "Eingestellt am {{ date }}",
+      "cancelled_html": "Bestellung storniert am {{ date }}",
+      "cancelled_reason": "Grund: {{ reason }}",
+      "billing_address": "Rechnungsadresse",
+      "payment_status": "Zahlungsstatus",
+      "shipping_address": "Lieferadresse",
+      "fulfillment_status": "Erfüllungsstatus",
+      "discount": "Rabatt",
+      "shipping": "Versand",
+      "tax": "Steuer",
+      "product": "Produkt",
+      "sku": "SKU",
+      "price": "Preis",
+      "quantity": "quantity",
+      "total": "Insgesamt",
+      "fulfilled_at_html": "Erfüllt {{ date }}",
+      "subtotal": "Zwischensumme",
+      "track_shipment": "Sendung verfolgen"
+    },
+    "recover_password": {
+      "title": "Ihr Passwort zurücksetzen",
+      "email": "E-Mail",
+      "submit": "Einreichen",
+      "cancel": "Abbrechen",
+      "subtext": "Wir werden Ihnen eine E-Mail schicken, um Ihr Passwort zurückzusetzen.",
+      "success": "Wir haben Ihnen eine E-Mail mit einem Link zur Aktualisierung Ihres Passworts geschickt."
+    },
+    "reset_password": {
+      "title": "Kontopasswort zurücksetzen",
+      "subtext": "Geben Sie ein neues Passwort für {{ email }}",
+      "password": "Passwort",
+      "password_confirm": "Bestätigen Sie Ihr Passwort",
+      "submit": "Passwort zurücksetzen"
+    },
+    "register": {
+      "title": "Konto erstellen",
+      "first_name": "Vorname",
+      "last_name": "Last Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "submit": "erstellen."
+    }
+  },
+  "about": {
+    "title": "Hallo! Wir sind Brian, Max, Martjin und Dennis. Danke fürs Vorbeischauen,",
+    "content": "#Wie alle guten Innovationen mussten wir ein Problem lösen, das uns sehr am Herzen lag.  Einer von uns schwitzte nämlich sehr stark. #\/Er hatte alle erdenklichen Mittelchen ausprobiert und war frustriert, weil keines von ihnen funktionierte. Bei der kleinsten Anstrengung bildeten sich große Schweißflecken.&nbsp; #\/P #P T-Shirts mit integrierten Slipeinlagen für die Achselhöhlen wurden ausprobiert. Deodorants wurden mehr in der Hoffnung als in der Erwartung aufgesprüht, oft um den Geruch zu überdecken, anstatt das Schwitzen zu verhindern.#\/P #PThe final straw was a hot summer's day. Wir wussten, dass wir handeln mussten.#\/P #P Also gründeten wir gemeinsam The Polar Company. Unser Ziel ist es, uns und Sie in jeder Situation kühl zu halten! #\/P #PMartijn &amp; Dennis#\/P",
+    "join-community": {
+      "title": "Werden Sie Mitglied der Polar Company Community!",
+      "subtitle": "Werden Sie Teil der frischesten Community! Und erhalten Sie immer €5,- Rabatt! ",
+      "link": "Werden Sie Mitglied der Gemeinschaft"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutz &amp; Cookie-Erklärung The Polar Company",
+    "subtitle": "15. April 2021",
+    "content": ""
+  },
+  "jobs": {
+    "title": "Kommst du und hilfst uns? ",
+    "content": "#Sie sind also daran interessiert, in unserem Team zu arbeiten! Großartig! Wir würden gerne mehr darüber hören, wie Sie unserem kleinen Unternehmen helfen können zu wachsen.#BR#\/P #P#BR#\/P #P Bitte senden Sie uns eine E-Mail an #A #Uhallo@thepolarcompany.com#\/U#\/A und stellen Sie sich vor!#\/P",
+    "baseboard": "Derzeit sind keine freien Stellen verfügbar.    "
+  },
+  "subscription": {
+    "title_1": "Warum sollten Sie der Gemeinschaft beitreten?",
+    "content_1": "Werden Sie Mitglied unserer Gemeinschaft und erhalten Sie lebenslang 5 € Rabatt. Wir liefern Ihre Bestellung dann direkt in Ihren Briefkasten. ",
+    "title_2": "Lebenslang 5 € Rabatt",
+    "content_2": "Wenn Sie nachbestellen müssen, liefern wir. Ihr Rabatt von 5 € wird automatisch angewendet. ",
+    "title_3": "Kostenlose Lieferung",
+    "content_3": "Unsere Verpackungen werden per Post verschickt und sind so konzipiert, dass sie mühelos in Ihren Briefkasten passen. ",
+    "title_4": "Erfrischend einfache Kundenbetreuung",
+    "content_4": "Sie können wählen, wo, wann und wie viel Sie brauchen. Es gibt kein Kleingedrucktes. Oder Schwachsinn. Nur uns, die wir in Ihrer Ecke stehen und Ihnen einen kühlen Kopf bewahren, wenn Sie uns brauchen. Wir sagen dir sogar Bescheid, wenn deine Bestellung unterwegs ist.  ",
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Finden Sie die Antwort auf Ihre Frage unten!",
+      "options": {
+        "option_1": {
+          "title": "Lieferung",
+          "answers": {
+            "1": {
+              "title": "Ich habe die Extra Strong bestellt, aber die Strong erhalten. Wie ist das möglich?",
+              "answer": "Seit kurzem haben die Flaschen ein neues Aussehen. Auf den neuen Flaschen steht jetzt nur noch \"Strong\". Allerdings enthält die Strong immer noch die leistungsstarke Formel wie zuvor!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Abonnement",
+          "answers": {
+            "1": {
+              "title": "Ich möchte öfter eine neue Flasche erhalten, kann ich das ändern?",
+              "answer": "|Möchten Sie die Häufigkeit Ihres Abonnements ändern? || Das ist möglich, Sie können dies ganz einfach selbst in Ihrem Konto einstellen. Sie kommen nicht weiter? Schicken Sie uns eine Nachricht per WhatsApp oder Mail an hallo@thepolarcompany.com"
+            },
+            "2": {
+              "title": "Kann ich zwischen dem Roller oder dem Spray wählen?",
+              "answer": "|Möchten Sie zwischen dem Roller oder dem Spray wechseln? ||Das ist möglich, Sie können zwischen den folgenden Optionen wählen:|| - Roller (Original oder Strong). - Spray (Original oder Strong). Sie können dies in Ihrem Konto einstellen!"
+            },
+            "3": {
+              "title": "Ich ziehe um, kann ich meine Adresse ändern?",
+              "answer": "Sie können Ihre Adresse in Ihrem Konto ändern!"
+            }
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Hilfe",
+    "content": "Sie können sich jederzeit mit uns in Verbindung setzen, aber bevor Sie das tun, sehen Sie bitte in unseren häufig gestellten Fragen nach, ob Ihre Frage bereits beantwortet wurde.",
+    "open-time": "Mo - Fr; 9:00 - 18:00",
+    "email": "Mailen Sie uns:"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Finden Sie die Antwort auf Ihre Frage unten!",
+    "options": {
+      "option_1": {
+        "title": "Lieferung",
+        "answers": {
+          "1": {
+            "title": "Ich habe die Extra Strong bestellt, aber die Strong erhalten. Wie ist das möglich?",
+            "answer": "Seit kurzem haben die Flaschen ein neues Aussehen. Auf den neuen Flaschen steht jetzt nur noch \"Strong\". Allerdings enthält die Strong immer noch die leistungsstarke Formel wie zuvor!"
+          },
+          "2": {
+            "title": "Ich möchte meine Adresse ändern; wie mache ich das?",
+            "answer": "Wenn Ihre Bestellung noch nicht versandt wurde, können Sie Ihre Adresse ändern, indem Sie uns eine Nachricht per WhatsApp oder E-Mail an hallo@thepolarcompany.com schicken. Wir werden dann sicherstellen, dass Ihre Adresse aktualisiert wird."
+          },
+          "3": {
+            "title": "Wie lange ist die Lieferzeit für eine Bestellung?",
+            "answer": "Im Durchschnitt werden Bestellungen innerhalb von 2 bis 3 Werktagen in die Niederlande geliefert. Manchmal kann dies auch ein wenig länger dauern.#BR #BR Wenn Ihre Bestellung nach Belgien, Frankreich, Deutschland oder Spanien geht, wird dies 3 bis 5 Werktage dauern."
+          },
+          "4": {
+            "title": "Muss ich für meine Bestellung zu Hause sein?",
+            "answer": "Nein! Ihre Bestellung passt durch den Briefkasten. Auf diese Weise können Sie Ihren Tag in vollen Zügen genießen."
+          },
+          "5": {
+            "title": "Wie lange wird es dauern, bis ich meine Bestellung erhalte?",
+            "answer": "Wenn Sie vor 16:00 Uhr bestellt haben, erhalten Sie die Bestellung innerhalb von 3 Tagen! Ist es bei PostNL sehr voll? Dann kann Ihr Paket ein wenig länger dauern. #BR #BR Zum Glück müssen Sie nicht zu Hause bleiben, unsere Produkte passen alle durch den Briefkasten."
+          }
+        }
+      },
+      "option_2": {
+        "title": "Verwendung",
+        "answers": {
+          "1": {
+            "title": "Was sind die Inhaltsstoffe?",
+            "answer": "#B Stark: #\/B #BR Alkohol, Aluminiumchloridhexahydrat, Denatoniumbenzoat, Citrus aurantium bergamia Fruchtöl, MEK #BR #BR #B Original: #\/B #BR Alkohol, Aqua, Aluminiumchlorhydrat, Propylenglykol, Denatoniumbenzoat, Citrus aurantium bergamia Fruchtöl, MEK"
+          },
+          "2": {
+            "title": " Ich habe meine Bestellung nach 3 (Geschäfts-)Tagen noch nicht erhalten, was nun?",
+            "answer": "Wie ärgerlich! Wenn beim Zusteller viel los ist, kann es etwas länger dauern, bis Ihr Paket ankommt. #BR #BR Schicken Sie uns eine Nachricht per WhatsApp oder Mail an hallo@thepolarcompany.com. Bitte geben Sie Ihren Namen und Ihre Bestellnummer an. #BR #BR So können wir in unserem System nach Ihrer Bestellung suchen."
+          },
+          "3": {
+            "title": " Ich möchte öfter eine neue Flasche erhalten, kann ich das ändern?",
+            "answer": "Möchten Sie die Häufigkeit Ihres Abonnements ändern? #BR #BR Das ist möglich, Sie können dies leicht selbst in Ihrem Konto einstellen. #BR #BR Sie kommen nicht weiter? Schicken Sie uns eine Nachricht per WhatsApp oder Mail an hallo@thepolarcompany.com"
+          },
+          "4": {
+            "title": " Kann ich zwischen dem Roller oder dem Spray wählen?",
+            "answer": "Möchten Sie zwischen dem Roller oder dem Spray wechseln? #BR #BR Das ist möglich, Sie können zwischen den folgenden Optionen wählen: #BR - Roller (Original oder Strong). - Spray (Original oder Strong). #BR #BR Sie können dies in Ihrem Konto einstellen!"
+          },
+          "5": {
+            "title": "Ich ziehe um, kann ich meine Adresse ändern?",
+            "answer": "Sie können Ihre Adresse in Ihrem Konto ändern!"
+          },
+          "6": {
+            "title": "Kann ich zusätzlich zu diesem Produkt ein Deodorant oder Parfüm verwenden?",
+            "answer": "Ja! Die Verwendung von Deodorant oder Parfüm während des Tages beeinträchtigt die Wirkung dieses Produkts nicht."
+          },
+          "7": {
+            "title": "Warum enthalten die Produkte Alkohol?",
+            "answer": "Unser Produkt basiert auf Alkohol und nicht auf Wasser, da das lösliche Salz in der Haut und nicht an der Oberfläche aktiviert werden muss."
+          },
+          "8": {
+            "title": "Wie funktioniert das?",
+            "answer": "Unser Produkt ist aufgrund des in Alkohol aufgelösten Salzes wirksam. #BR Die Lösung zieht nachts in die Haut ein und verhindert, dass Schweiß an die Hautoberfläche gelangt. #BR #BR Das Salz verschwindet auf natürliche Weise nach ein paar Tagen, wie der natürliche Ersatz von abgestorbenen Hautzellen. #BR #BR Deshalb brauchen Sie es nur einmal in ein paar Tagen zu verwenden."
+          }
+        }
+      },
+      "option_3": {
+        "title": "Abonnement",
+        "answers": {
+          "1": {
+            "title": "Was passiert, wenn meine Zahlung nicht erfolgreich ist?",
+            "answer": " Machen Sie sich keine Sorgen, Sie können versuchen, erneut zu bezahlen. Wir werden Ihnen kein Produkt schicken, bis die Zahlung erfolgreich war. #BR #BR Ist Ihre Zahlung immer noch erfolglos? Senden Sie uns eine Nachricht!"
+          },
+          "2": {
+            "title": "Wie sieht es mit der Garantie aus?",
+            "answer": "Die gesetzliche Gewährleistung gilt für alle Artikel, die Sie bei uns kaufen. Gesetzliche Garantie bedeutet, dass ein Produkt das ist oder tun muss, was der Verbraucher vernünftigerweise von ihm erwarten kann. #BR #BR Haben Sie ein Garantieproblem? Schicken Sie uns eine E-Mail! hello@thepolarcompany.com"
+          },
+          "3": {
+            "title": "Sind alle genannten Preise inklusive Mehrwertsteuer?",
+            "answer": " Alle Preise auf unserer Website enthalten die Mehrwertsteuer."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Andere Fragen",
+        "answers": {
+          "1": {
+            "title": "Was soll ich im Falle von Beschwerden tun?",
+            "answer": "Im Falle von Beschwerden können Sie eine E-Mail an hallo@thepolarcompany.com senden. Möchten Sie lieber anrufen? Kontaktieren Sie uns unter +31 85 808 8243"
+          },
+          "2": {
+            "title": "Ich bekomme gelegentlich einen Ausschlag, wenn ich das Produkt verwende, was kann ich tun?",
+            "answer": "Unser Produkt mit schützenden Silikonen und reinen Inhaltsstoffen vermeidet Hautreizungen. Reizungen und Ausschläge können durch feuchte Haut, zu viel Produkt, empfindliche Haut und Allergien verursacht werden. Um Reizungen zu vermeiden, tragen Sie dünn auf, lassen es trocknen, waschen die Haut kurz und rasieren nicht vorher. Nicht auf offene Wunden auftragen und bei Kontakt mit Feuchtigkeit darauf achten, dass die Haut vollständig trocken ist. Bei Problemen kontaktieren Sie uns bitte."
+          },
+          "3": {
+            "title": "Ist es sicher, dieses Produkt während der Schwangerschaft zu verwenden?",
+            "answer": "Ja. Unser Produkt wirkt nur auf der Hautoberfläche, es wird absolut nicht in den Blutkreislauf aufgenommen, so dass das Baby während der Schwangerschaft nicht geschädigt werden kann, auch wenn es gestillt wird."
+          },
+          "4": {
+            "title": "Ist dieses Produkt für alle Hauttypen geeignet?",
+            "answer": "Unser Produkt ist sicher, auch für empfindliche Hauttypen.  #BR #BR Für empfindliche Haut: #BR Sprühen Sie einmal auf jede Stelle und tragen Sie es sparsam mit Watte auf (Make-up-Entfernerpads sind hilfreich). #BR #BR Auf diese Weise lassen sich Gesichtspartien und andere empfindliche Hautbereiche wie die Leistengegend und unter den Brüsten leicht behandeln. Sie können Talkum verwenden, um überschüssiges Produkt nach dem Auftragen aufzusaugen."
+          },
+          "5": {
+            "title": "Ist es gefährlich, das Schwitzen zu verhindern?",
+            "answer": "Die Kontrolle des Schwitzens an den \"heißen Stellen\" ist nicht gefährlich, da sich die Haut an anderen Stellen des Körpers abkühlt. #BR Der Schweiß, der nicht entweichen kann, wird einfach über den Blutkreislauf an andere Schweißkanäle weitergeleitet oder über die Nieren ausgeschieden."
+          },
+          "6": {
+            "title": "Ist es sicher, dieses Produkt am ganzen Körper zu verwenden?",
+            "answer": "Ja! #BR #BR Für empfindliche Haut: Einmal auf jede Stelle sprühen und sparsam mit Watte auftragen (Make-up-Entfernerpads sind hilfreich). Auf diese Weise lassen sich Gesichtspartien und andere empfindliche Hautbereiche wie die Leistengegend und der Brustbereich leicht behandeln. Nach dem Auftragen können Sie überschüssiges Produkt mit Talkum aufsaugen."
+          }
+        }
+      },
+      "option_5": {
+        "title": "Wie es funktioniert",
+        "answers": {
+          "1": {
+            "title": "Kann dieses Produkt auf meine Kleidung abfärben?",
+            "answer": "Wenn Sie das Produkt wie vorgeschrieben verwenden, wird es keine Flecken auf Ihrer Kleidung hinterlassen. Um sicher zu gehen, waschen Sie die behandelte Haut morgens."
+          }
+        }
+      },
+      "option_6": {
+        "title": "Sicherheit",
+        "answers": {
+          "1": {
+            "title": "Warum muss ich dieses Produkt vor dem Schlafengehen auftragen?",
+            "answer": "Unser Produkt ist aufgrund des in Alkohol aufgelösten Salzes wirksam. Die Lösung zieht nachts in die Haut ein und verhindert, dass Schweiß an die Hautoberfläche gelangt. Das Salz verschwindet auf natürliche Weise nach ein paar Tagen, wie der natürliche Ersatz abgestorbener Hautzellen. Deshalb müssen Sie Polar nur einmal in ein paar Tagen anwenden."
+          },
+          "2": {
+            "title": "Kann ich zusätzlich zu diesem Produkt eine Lotion oder Feuchtigkeitspflege verwenden?",
+            "answer": " Ja, wenn Sie das Produkt so anwenden, wie wir es Ihnen vorschreiben, können Sie jedes andere Produkt, das Sie wollen, ohne Nebenwirkungen verwenden.#BR #BR Wenn Sie Fragen dazu haben, können Sie uns eine Nachricht an +31858088243 schicken."
+          },
+          "3": {
+            "title": "Ich glaube, das Produkt funktioniert bei mir nicht.",
+            "answer": " Seien Sie nicht traurig. Unsere Erfahrung sagt uns, dass unser Produkt wirklich für fast jeden funktioniert.#BR #BR Senden Sie uns eine Nachricht, um gemeinsam herauszufinden, was für Sie funktioniert: +31 858088243. #BR #BR Funktioniert es wirklich nicht für Sie? Wir erstatten Ihnen Ihr Geld zurück :)"
+          },
+          "4": {
+            "title": " Zweimal pro Woche zu sprühen, reicht mir nicht aus. Kann ich es auch öfter anwenden?",
+            "answer": " Jeder Mensch ist anders, und manche Menschen schwitzen mehr als andere. Unser Produkt zweimal pro Woche zu verwenden, ist ein Anhaltspunkt, der für die meisten Anwender funktioniert. Finden Sie heraus, was für Sie nützlich ist. Wenn Sie Hilfe brauchen, schicken Sie uns eine Nachricht: +31 858088243"
+          },
+          "5": {
+            "title": "Wie lange kann ich die Flasche nach dem Öffnen verwenden?",
+            "answer": " Unsere Produkte können bis zu 6 Monate nach dem Öffnen verwendet werden."
+          },
+          "6": {
+            "title": "Wie oft sollte ich dieses Produkt verwenden?",
+            "answer": "Das hängt von der jeweiligen Person ab. Wir empfehlen als Ausgangspunkt eine zweimalige Anwendung pro Woche. #BR Verwenden Sie das Produkt zum Beispiel am Donnerstag- und Sonntagabend, um sicherzustellen, dass Sie unter der Woche und am Wochenende nicht schwitzen. Wenn das nicht ausreicht, können Sie es auch öfter unter der Woche anwenden oder unsere Strong-Variante ausprobieren!"
+          }
+        }
+      },
+      "option_7": {
+        "title": "Körperteile",
+        "answers": {
+          "1": {
+            "title": "Wie trage ich das Produkt am besten unter den Achseln auf?",
+            "answer": "  Sprühen Sie sich ein- oder zweimal unter den Arm. Wenn Sie sich wohler fühlen, wenn Sie das Produkt mit einem Wattepad zum Abschminken auftragen, ist auch das möglich. #BR evor Sie das Produkt auftragen, müssen Sie Ihre Haut gründlich trocknen und reinigen. Manche Menschen verwenden einen Haartrockner, um die Haut vor der Anwendung zu trocknen, da das Produkt bei Kontakt mit Feuchtigkeit (Schweiß) reizend wirken kann."
+          },
+          "2": {
+            "title": "Kann ich dieses Produkt auf meiner Kopfhaut verwenden?",
+            "answer": " Sie können das Produkt direkt auf Ihre Kopfhaut sprühen. Teilen Sie das Haar nach Bedarf auf und behandeln Sie es dann mit den Fingerspitzen. Vermeiden Sie, dass die Flüssigkeit in Ihre Augen läuft."
+          },
+          "3": {
+            "title": "Kann ich dieses Produkt für mein Gesicht verwenden?",
+            "answer": " Ja! Das Produkt kann auf jeder Hautpartie verwendet werden. Achten Sie darauf, nicht in Ihre Augen zu sprühen.  #BR #BR Für empfindliche Haut: Nur einmal auf jede Stelle sprühen und sparsam mit Watte auftragen (Make-up-Entfernerpads sind hilfreich)."
+          },
+          "4": {
+            "title": "Kann dieses Produkt das Schwitzen auf dem Rücken verhindern?",
+            "answer": "Unser Produkt hält den unteren Rücken trocken, aber manche Menschen werden feststellen, dass ihr Rücken immer noch \"undicht\" ist. In diesem Fall ist es am besten, das Produkt weiterhin zweimal pro Woche zu verwenden und eine geflügelte Binde zu benutzen. Sie sind nicht sichtbar und schützen die Unterwäsche."
+          },
+          "5": {
+            "title": "Hilft dieses Produkt gegen Nässe an Händen und Füßen?",
+            "answer": "Ja! Unser Produkt ist so konzipiert, dass es das Schwitzen an jeder Stelle der Haut verhindert. Wenn Sie auf synthetische Schuhe aus nicht atmungsaktiven Materialien verzichten, schwitzen Ihre Füße auch weniger."
+          },
+          "6": {
+            "title": "Kann ich dieses Produkt auch im Schambereich verwenden?",
+            "answer": "  Ja, aber Sie müssen besonders vorsichtig sein, weil die Haut in diesem Bereich dünner und damit empfindlicher ist. #BR Stellen Sie sicher, dass Ihre Haut wirklich trocken ist (Talkum oder ein Fön können dabei helfen) und tragen Sie das Produkt sehr sparsam über Watte auf, wie angegeben."
+          }
+        }
+      }
+    }
+  },
+  "howitworks": {
+    "title": "So funktioniert es!",
+    "image": "1619794496_blob.png-1900w.webp",
+    "topics": {
+      "top1": {
+        "title": "Salz und Alkohol",
+        "content": " Wir verwenden eine spezielle, geheime Formel, die Salz und Alkohol miteinander vermischt. Diese wird sowohl in unseren Spray- als auch in unseren Rollerprodukten verwendet. Wir verwenden Salz, weil es als wichtiger Bestandteil die Schweißdrüsen vorübergehend stilllegt und gleichzeitig die Ausbreitung von Bakterien verhindert, damit Ihre Haut hygienisch bleibt.  "
+      },
+      "top2": {
+        "title": "Sprühen und Schlafen",
+        "content": " Sprühen Sie es vor dem Schlafengehen auf und lassen Sie Polar seine Wirkung entfalten, während Sie schlafen. Bevor Sie Polar auftragen, ist es wichtig, dass Sie Ihre Haut gründlich trocknen und reinigen. Sprühen Sie 1 bis 2 Mal unter die Achselhöhle oder rollen Sie eine dünne Schicht mit dem Roller auf, lassen Sie es trocknen und gehen Sie dann ins Bett. Die von uns verwendete Formel hält den Schweiß in der Haut, so dass Sie kühl, frisch und zuversichtlich aufwachen und Ihren Tag genießen können. Es ist wirklich so einfach:) ",
+        "image": ""
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Finden Sie die Antwort auf Ihre Frage unten!",
+      "options": {
+        "option_1": {
+          "title": "Lieferung",
+          "answers": {
+            "1": {
+              "title": "Ich habe die Extra Strong bestellt, aber die Strong erhalten. Wie ist das möglich?",
+              "answer": "Seit kurzem haben die Flaschen ein neues Aussehen. Auf den neuen Flaschen steht jetzt nur noch \"Strong\". Allerdings enthält die Strong immer noch die leistungsstarke Formel wie zuvor!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Andere Fragen",
+          "answers": {
+            "1": {
+              "title": "Warum enthalten die Produkte Alkohol?",
+              "answer": "Unser Produkt basiert auf Alkohol und nicht auf Wasser, da das lösliche Salz in der Haut und nicht an der Oberfläche aktiviert werden muss."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Wie es funktioniert",
+          "answers": {
+            "1": {
+              "title": "Wie funktioniert das?",
+              "answer": "Unser Produkt ist aufgrund des in Alkohol aufgelösten Salzes wirksam. #BR Die Lösung zieht nachts in die Haut ein und verhindert, dass Schweiß an die Hautoberfläche gelangt. #BR #BR Das Salz verschwindet natürlich nach ein paar Tagen, wie der natürliche Ersatz von abgestorbenen Hautzellen. #BR #BR Deshalb brauchen Sie es nur einmal in ein paar Tagen zu verwenden."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Verwendung",
+          "answers": {
+            "1": {
+              "title": "Warum muss ich dieses Produkt vor dem Schlafengehen auftragen?",
+              "answer": "Unser Produkt ist aufgrund des in Alkohol aufgelösten Salzes wirksam. #BR Die Lösung zieht nachts in die Haut ein und verhindert, dass Schweiß an die Hautoberfläche gelangt. #BR #BR Das Salz verschwindet auf natürliche Weise nach ein paar Tagen, wie der natürliche Ersatz von abgestorbenen Hautzellen. #BR #BR Deshalb brauchen Sie es nur einmal in ein paar Tagen zu verwenden."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product": {
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Finden Sie die Antwort auf Ihre Frage unten!",
+      "options": {
+        "option_1": {
+          "title": "Verwendung",
+          "answers": {
+            "1": {
+              "title": "Was sind die Inhaltsstoffe?",
+              "answer": "#B Strong Mist: #\/B #BR Alkohol Denat, Aluminiumchlorid, Wasser, Parfüm"
+            },
+            "2": {
+              "title": "Warum muss ich dieses Produkt vor dem Schlafengehen auftragen?",
+              "answer": "  Unser Produkt ist wirksam aufgrund der löslichen Salz in Alkohol gelöst. Die Lösung zieht über Nacht in die Haut ein und verhindert, dass Schweiß an die Hautoberfläche gelangt. Das Salz verschwindet auf natürliche Weise nach ein paar Tagen, als natürlicher Ersatz für abgestorbene Hautzellen. Deshalb brauchen Sie den Polar nur einmal alle paar Tage anzuwenden."
+            }
+          }
+        },
+        "option_2": {
+          "title": "Andere Fragen",
+          "answers": {
+            "1": {
+              "title": "Wie lange ist eine Flasche haltbar?",
+              "answer": " Das hängt von Ihrer persönlichen Situation ab und davon, wie sehr Sie schwitzen. Unsere Nutzer geben Folgendes an: #BR #BR Starter Kit: 2 bis 3 Wochen pro Probe. Spray\/Roller: 2 bis 3 Monate"
+            },
+            "2": {
+              "title": " Wie lange ist die Lieferzeit für eine Bestellung?",
+              "answer": " Im Durchschnitt werden Bestellungen innerhalb von 2 bis 3 Tagen in die Niederlande geliefert. Manchmal kann es auch eine Weile mehr dauern. #BR #BR Wenn Ihre Bestellung nach Belgien, Frankreich, Deutschland oder Spanien geht, dauert es 3 bis 5 Arbeitstage."
+            }
+          }
+        },
+        "option_3": {
+          "title": "Lieferung",
+          "answers": {
+            "1": {
+              "title": "Muss ich für meine Bestellung zu Hause sein?",
+              "answer": "Nein! Ihre Bestellung wird in den Briefkasten passen. So können Sie das Beste aus Ihrem Tag machen."
+            },
+            "2": {
+              "title": "Warum enthalten die Produkte Alkohol?",
+              "answer": "Unser Produkt basiert auf Alkohol und nicht auf Wasser, da salzlösliche Stoffe auf der Haut und nicht an der Oberfläche aktiviert werden müssen."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Wie es funktioniert",
+          "answers": {
+            "1": {
+              "title": "Wie funktioniert das?",
+              "answer": "Unser Produkt ist aufgrund des in Alkohol aufgelösten Salzes wirksam. #BR Die Lösung zieht nachts in die Haut ein und verhindert, dass Schweiß an die Hautoberfläche gelangt. #BR #BR Das Salz verschwindet auf natürliche Weise nach ein paar Tagen, wie der natürliche Ersatz von abgestorbenen Hautzellen. #BR #BR Deshalb müssen Sie es nur einmal in ein paar Tagen anwenden."
+            }
+          }
+        }
+      }
+    }
+  },
+  "descover": {
+    "title": " Entdecken Sie unser #B Strong Mist Spray#\/B"
+  },
+  "menu": {
+    "shop": "Shop",
+    "about": "Über uns",
+    "how_it_works": "Wie es funktioniert",
+    "subscription": "Abonnements",
+    "help_faq": "Hilfe & FAQ",
+    "log_out": "Abmelden",
+    "log_in": "Einloggen",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "vacancies": "Offene Stellen",
+    "terms": "Bedingungen und Konditionen",
+    "privacy": "Datenschutzbestimmungen"
+  },
+  "modal_1": {
+    "title": "Wir sehen, dass Sie aus einem anderen Land kaufen. Möchten Sie, dass wir Ihr Land und Ihre Währung ändern?",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "modal_subscrition": {
+    "title": "Sie haben ein Abonnement? Großartig!",
+    "info_1": " #B Flexible Häufigkeit:#\/B #BR Sie wissen nicht, wie oft Sie TP benötigen? Kein Problem! Sie können es in Ihrem Portal jederzeit anpassen.",
+    "info_2": "#B 3-Tage-Erinnerung:#\/B #BR Wir werden Sie vor jeder Sendung per E-Mail benachrichtigen. Wenn Sie nicht bereit sind, können Sie Ihre Lieferung verzögern. Keine Sorge, wir stellen Ihnen die Kosten erst in Rechnung, wenn Ihre Bestellung versandt wird.",
+    "info_3": " #B Jederzeit kündigen und ändern:#\/B #BR Über Ihr Online-Konto können Sie ganz einfach kündigen, Änderungen vornehmen, Produkte hinzufügen und Ihren Lieferplan verwalten.",
+    "button": "Aye aye, Kapitän!",
+    "footer": "#B Einmaliger Rabattcode#\/B nur für #B neue Abonnenten verfügbar.#\/B Wiederkehrende Bestellungen werden automatisch zum regulären Preis abgebucht. Das Angebot kann nicht zusammen mit anderen Rabattcodes verwendet werden."
+  },
+  "modal_variant": {
+    "title": "Bitte wählen Sie eine Variante, bevor Sie sie in den Warenkorb legen.",
+    "close": "Schließen Sie"
+  },
+  "product_related": {
+    "title": "Andere Produkte, die Sie interessieren könnten",
+    "button": "Gehen Sie in den Laden."
+  },
+  "product_info": {
+    "amount": "Betrag",
+    "more_select": "80% escolhido",
+    "delivery": " Voraussichtliche Lieferung: Di, 14. März",
+    "added_to_cart": "In den Warenkorb legen"
+  },
+  "collection_customer": {
+    "see_all": "Alle Produkte anzeigen"
+  },
+  "collection_product": {
+    "polar": "Schweißfrei oder Geld-zurück-Garantie",
+    "title": "Die Lösung gegen Schweiß!",
+    "subtitle": "100 % schweiß- und geruchsfrei | Bis zu 7 Tage trocken",
+    "subtitle_1": "Finden Sie die beste Lösung, um Ihre Schweißprobleme in den Griff zu bekommen!"
+  },
+  "show_more": "Mehr anzeigen",
+  "footer": {
+    "title": "Wir sind hier, um Ihnen zu helfen!",
+    "help_faq": "Hilfe & FAQ",
+    "returns": "Rückgabe",
+    "feedback": "Rückmeldung",
+    "vacancies": "Offene Stellen",
+    "blog": "Blog",
+    "terms": "Bedingungen und Konditionen",
+    "privacy": "Datenschutzbestimmungen",
+    "open-time": "Mo - Fr; 9:00 - 18:00",
+    "email": "Mailen Sie uns:",
+    "corpory": "© 2023 Das Unternehmen Polar. Alle Rechte vorbehalten "
+  },
+  "search": {
+    "not_found": "Keine Ergebnisse gefunden für:",
+    "results": "Ergebnisse für:",
+    "home": "Startseite"
+  },
+  "gift_card": {
+    "title": "Hier ist Ihr Geschenkgutschein!",
+    "title_1": "Hier ist Ihr ",
+    "title_2": " Geschenkkarte für",
+    "disabled": "Behinderte",
+    "expired_on": "Abgelaufen am ",
+    "use_card": "Verwenden Sie diesen Code an der Kasse, um Ihre Geschenkkarte einzulösen.",
+    "start": "Einkaufen beginnen",
+    "print": "Drucken"
+  },
+  "product_template": {
+    "select_size": "Wählen Sie eine Größe:",
+    "sold_off": "Ausverkauft",
+    "added_to_cart": "In den Warenkorb legen",
+    "composition": "Zusammensetzung",
+    "description": "Beschreibung"
+  }
+}

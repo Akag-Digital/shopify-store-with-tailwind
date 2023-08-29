@@ -1,0 +1,660 @@
+{
+  "about": {
+    "content": "Som alla bra innovationer behövde vi lösa ett problem nära hemmet. En av oss brukade nämligen svettas mycket.\t\t\t\t\t\t\t\nHan hade provat alla tänkbara medel, men förblev frustrerad eftersom inget av dem fungerade. Vid minsta ansträngning uppstår stora svettfläckar.\t\t\t\t\t\t\t\nT-shirts med inbyggda trosskydd för armhålorna provades. Deodoranter sprayades mer i hopp än i förväntan, ofta för att maskera lukten snarare än för att förhindra svettningar.\t\t\t\t\t\t\t\nDet sista droppen var en varm sommardag. Vi visste att vi var tvungna att agera.\t\t\t\t\t\t\t\nSå vi grundade The Polar Company tillsammans. Vårt uppdrag är att hålla oss, och dig, lugna i alla situationer!\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nMartijn & Dennis\t\t\t\t\t\t\t",
+    "title": "Hej! Vi är Martjin och Dennis. Tack för att du tittade förbi,\t\t",
+    "join-community": {
+      "title": "Gå med i Polar Company-communityn!",
+      "subtitle": "Bli en del av den nyaste communityn! Och få alltid 15% rabatt!",
+      "link": "Gå med i communityn"
+    }
+  },
+  "404": {
+    "title": "404 Sidan hittades inte",
+    "subtext": "Sidan du letar efter finns inte",
+    "link": "Tillbaka till startsidan"
+  },
+  "cart": {
+    "general": {
+      "title": "Din kundvagn",
+      "note": "Lägg till en anteckning till din beställning",
+      "removed_item_html": "<meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">Tog bort ({{quantity}}) {{link}} från din kundvagn<\/span>",
+      "remove": "Ta bort",
+      "subtotal": "Delsumma",
+      "savings": "Du sparar",
+      "taxes_and_shipping_at_checkout": "Momser och frakt beräknas vid utcheckning",
+      "taxes_and_shipping_policy_at_checkout_html": "<meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">Moms och frakt beräknas vid utcheckning<\/span>",
+      "taxes_included_but_shipping_at_checkout": "Moms inkluderad och frakt beräknas vid utcheckning",
+      "taxes_included_and_shipping_policy_html": "<meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">Moms inkluderad. Frakt beräknas vid utcheckning<\/span>",
+      "update": "Uppdatera",
+      "checkout": "Gå till kassan",
+      "empty": "Din kundvagn är för närvarande tom",
+      "cookies_required": "Aktivera cookies för att kunna använda kundvagnen",
+      "continue_shopping": "Fortsätt shoppa",
+      "cart_error": "Det uppstod ett fel vid uppdateringen av din kundvagn. Vänligen försök igen."
+    },
+    "label": {
+      "discounted_total": "Rabatterad total",
+      "product": "Produkt",
+      "price": "Pris",
+      "price_column": "Se pris-kolumnen för rabattinformation",
+      "product_details": "Produktinformation",
+      "quantity": "Antal",
+      "qty": "Antal",
+      "regular_total": "Ordinarie total",
+      "remove": "Ta bort {{produkt}}",
+      "total": "Total",
+      "update": "Uppdatera"
+    },
+    "popup": {
+      "added_to_cart": "Nyss tillagd i din kundvagn",
+      "cart_count": {
+        "one": "{{count}} vara",
+        "other": "{{count}} varor"
+      },
+      "product_details": "Produktinformation",
+      "quantity": "Antal",
+      "quantity_label": "Antal: {{quantity_count}}"
+    }
+  },
+  "collection_customer": {
+    "see_all": "Se alla produkter"
+  },
+  "collection_product": {
+    "polar": "Svettfri eller pengarna tillbaka-garanti",
+    "title": "Lösningen mot svett!",
+    "subtitle": "100 % svett &amp; luktfri | Upp till 7 dagar torr",
+    "subtitle_1": "Ta reda på den bästa lösningen för att lösa dina svettproblem!"
+  },
+  "contact": {
+    "form": {
+      "name": "Namn",
+      "email": "E-post",
+      "phone": "Telefonnummer",
+      "message": "Meddelande",
+      "submit": "Skicka",
+      "post_success": "Tack för att du kontaktar oss. Vi återkommer till dig så snart som möjligt.",
+      "error_heading": "Vänligen justera följande:"
+    }
+  },
+  "descover": {
+    "title": " Upptäck vår #B Strong Mist Spray#\/B"
+  },
+  "customer": {
+    "account": {
+      "title": "Mitt konto",
+      "details": "Kontouppgifter",
+      "view_addresses": "Visa adresser",
+      "return": "Tillbaka till kontouppgifter",
+      "manage_subscriptions": "Hantera prenumerationer"
+    },
+    "activate_account": {
+      "title": "Aktivera konto",
+      "subtext": "Skapa ditt lösenord för att aktivera ditt konto",
+      "password": "Lösenord",
+      "password_confirm": "Bekräfta lösenordet",
+      "submit": "Aktivera konto",
+      "cancel": "Avböja inbjudan"
+    },
+    "addresses": {
+      "title": "Dina adresser",
+      "default": "Standard",
+      "add_new": "Lägg till en ny adress",
+      "edit_address": "Redigera adress",
+      "first_name": "Förnamn",
+      "last_name": "Efternamn",
+      "company": "Företag",
+      "address1": "Adress",
+      "address2": "Lägenhet, svit etc.",
+      "city": "Staden",
+      "country": "Land\/Region",
+      "province": "Provins",
+      "zip": "Postnummer",
+      "phone": "Telefon",
+      "set_default": "Ställ in som standardadress",
+      "add": "Lägg till adress",
+      "update": "Uppdatera adress",
+      "cancel": "Avbryt",
+      "edit": "Redigera",
+      "delete": "Ta bort",
+      "delete_confirm": "Är du säker på att du vill radera den här adressen?"
+    },
+    "login": {
+      "title": "Logga in",
+      "account": "Ditt konto",
+      "create_account": "Skapa ett konto",
+      "email": "E-postadress",
+      "password": "Lösenord",
+      "forgot_password": "Har du glömt ditt lösenord?",
+      "sign_in": "Logga in",
+      "log_in": "Logga in",
+      "guest_title": "Fortsätt som gäst",
+      "guest_continue": "Fortsätt"
+    },
+    "orders": {
+      "title": "Beställningshistorik",
+      "order_number": "Beställ",
+      "order_number_link": "Beställningsnummer {{ nummer }}",
+      "date": "Datum",
+      "payment_status": "Betalningsstatus",
+      "fulfillment_status": "Status för uppfyllande",
+      "total": "Totalt",
+      "none": "Du har inte gjort några beställningar ännu"
+    },
+    "order": {
+      "title": "Beställning {{ namn }}",
+      "date_html": "Placerad den {{ datum }}",
+      "cancelled_html": "Beställningen avbröts den {{ datum }}",
+      "cancelled_reason": "Motivering: {{ motivering }}",
+      "billing_address": "Faktureringsadress",
+      "payment_status": "Betalningsstatus",
+      "shipping_address": "Leveransadress",
+      "fulfillment_status": "Status för uppfyllande",
+      "discount": "Rabatt",
+      "shipping": "Försändelse",
+      "tax": "Skatt",
+      "product": "Produkt",
+      "sku": "SKU",
+      "price": "Pris",
+      "quantity": "Antal",
+      "total": "Totalt",
+      "fulfilled_at_html": "Uppfyllt {{ date }}",
+      "subtotal": "Delsumma",
+      "track_shipment": "Spåra försändelsen"
+    },
+    "recover_password": {
+      "title": "Återställ ditt lösenord",
+      "email": "E-post",
+      "submit": "Skicka in",
+      "cancel": "Avbryt",
+      "subtext": "Vi skickar ett e-postmeddelande till dig för att återställa ditt lösenord.",
+      "success": "Vi har skickat dig ett e-postmeddelande med en länk för att uppdatera ditt lösenord."
+    },
+    "reset_password": {
+      "title": "Återställ kontolösenordet",
+      "subtext": "Ange ett nytt lösenord för {{ email }}",
+      "password": "Lösenord",
+      "password_confirm": "Bekräfta lösenordet",
+      "submit": "Återställ lösenordet"
+    },
+    "register": {
+      "title": "Skapa ett konto",
+      "first_name": "Förnamn",
+      "last_name": "Efternamn",
+      "email": "E-post",
+      "password": "Lösenord",
+      "submit": "Skapa"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Lösningen mot svett!",
+      "subtitle": "Lär känna våra långvariga svettskyddslösningar och håll dig 100 % svett- och luktfri i upp till 7 dagar!",
+      "button": "Köp nu"
+    },
+    "banner-product": {
+      "title": "Strong Mist",
+      "discover": "Upptäck vår ",
+      "discover-bold": "Strong Mist",
+      "button": "Beställ nu"
+    },
+    "banner-left": {
+      "title": "Beställ nu",
+      "subtitle": "Nej svett, ingen lukt - Spray",
+      "description": "Du förtjänar att vara fräsch varje dag. Spraya en gång, gå och lägg dig och stå upp och glänsa nästa dag. ",
+      "button": "Beställ nu"
+    },
+    "banner-right": {
+      "title": "Prova rullarna.",
+      "subtitle": "Ingen tid att svettas - Roller",
+      "description": "Säg god natt till svettiga armhålor! Rulla innan du går och lägger dig så kommer du att vakna upp och känna dig sval och fräsch. Njut av en svett- och luktfri livsstil de kommande 3-7 dagarna.",
+      "button": "Beställ nu"
+    },
+    "howitworks": {
+      "title": "Vill du veta hur det här fungerar?",
+      "description": "Vår hemliga formel blandar lite salt och alkohol i en liten rulle. Applicera före sänggåendet och hey presto, ditt svettiga liv kommer att förändras till det bättre!",
+      "button": "Läs hur"
+    },
+    "community-polar": {
+      "join-community": "Gå med i gemenskapen och få 15 % rabatt på varje beställning!",
+      "title": "Polar Company Gemenskapen. ",
+      "description": "Gå med i vår gemenskap och få 15 % rabatt hela livet. Vi levererar sedan din beställning direkt till din brevlåda. ",
+      "button": "Gå med i gemenskapen"
+    },
+    "newsletter": {
+      "title": "Registrera dig för att få nyheter",
+      "subtitle": "Vi meddelar dig om rabatter och nyheter",
+      "success": "Tack för att du registrerar dig",
+      "error": "Fel i meddelandet",
+      "placeholder": "E-postadress",
+      "submit": "prenumeration"
+    },
+    "trust": {
+      "title": "Färska armhålor gick före dig!",
+      "review": "Fler recensioner"
+    }
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Hitta svaret på din fråga nedan!",
+    "options": {
+      "option_1": {
+        "title": "Leverans",
+        "answers": {
+          "1": {
+            "title": "Jag beställde Extra Strong men fick Strong. Hur är detta möjligt?",
+            "answer": "Flaskorna har nyligen fått ett nytt utseende. På de nya flaskorna står det för närvarande bara \"\"Strong\"\". Strong innehåller dock fortfarande den kraftfulla formeln som tidigare!\n\n"
+          },
+          "2": {
+            "title": "Jag vill ändra min adress, hur gör jag det?",
+            "answer": "Om din beställning inte har skickats kan du ändra din adress genom att skicka ett meddelande till oss via WhatsApp eller hallo@thepolarcompany.com. Vi kommer sedan att se till att din adress uppdateras."
+          },
+          "3": {
+            "title": "Vad är leveranstiden för en beställning?",
+            "answer": "I genomsnitt levereras beställningar inom 2 till 3 arbetsdagar i Nederländerna. Ibland kan det också ta lite längre tid. \n\nOm din beställning skickas till Belgien, Frankrike, Tyskland eller Spanien tar det 3 till 5 arbetsdagar."
+          },
+          "4": {
+            "title": "Måste jag vara hemma för att ta emot min beställning?",
+            "answer": "Nej! Din beställning kommer att passa genom brevlådan. På så sätt kan du njuta av dagen till fullo."
+          },
+          "5": {
+            "title": "Hur lång tid tar det att få min beställning?",
+            "answer": "Om du beställer före 16:00 kommer du att få din beställning inom 3 dagar! Är det mycket folk på PostNL? Då kan paketet ta lite längre tid. \n\nSom tur är behöver du inte stanna hemma, eftersom alla våra produkter passar in i brevlådan.\""
+          }
+        }
+      },
+      "option_2": {
+        "answers": {
+          "2": {
+            "title": "Jag har inte fått min beställning efter 3 (arbets)dagar, vad händer nu?",
+            "answer": "Så irriterande! Om det är fullt upp på transportföretaget kan det ta lite längre tid för ditt paket att komma fram. \n\nSkicka ett meddelande till oss via WhatsApp eller skicka ett mail till hallo@thepolarcompany.com Ange ditt namn och beställningsnummer. \n\nPå så sätt kan vi söka efter din beställning i vårt system.\n"
+          },
+          "1": {
+            "title": "Vilka är ingredienserna?",
+            "answer": "Stark: \nalkohol, aluminiumklorid hexahydrat, denatoniumbenzoat, citrus aurantium bergamia fruktolja, MEK \n\nOriginal: \nalkohol, vatten, aluminiumklorhydrat, propylenglykol, denatoniumbenzoat, citrus aurantium bergamia fruktolja, MEK.       \n\n"
+          },
+          "4": {
+            "title": "Vill du växla mellan Roller och Spray?",
+            "answer": "Det är möjligt, du kan välja mellan följande alternativ:\n- Rulle (original eller stark). - Spray (original eller stark).\n\nDu kan justera detta på ditt konto!"
+          },
+          "5": {
+            "title": "Jag flyttar, kan jag ändra min adress?   ",
+            "answer": "Du kan ändra din adress på ditt konto!"
+          },
+          "6": {
+            "title": "Kan jag använda deodorant eller parfym utöver denna produkt?",
+            "answer": "Ja! Att använda deodorant eller parfym under dagen påverkar inte effekten av denna produkt.\n\n\n\n"
+          },
+          "7": {
+            "title": "Varför innehåller produkterna alkohol?",
+            "answer": "Vår produkt är baserad på alkohol och inte vatten eftersom det lösliga saltet måste aktiveras i huden och inte på ytan."
+          },
+          "8": {
+            "title": "Hur fungerar det?",
+            "answer": "Vår produkt är effektiv på grund av det lösliga saltet som lösts upp i alkohol. Lösningen absorberas i huden på natten och förhindrar att svett når hudytan. Saltet försvinner naturligt efter några dagar, som den naturliga ersättningen av döda hudceller. Det är därför du bara behöver använda den en gång var några dagar."
+          },
+          "3": {
+            "title": "Jag vill få en ny flaska oftare, kan jag ändra detta?\n",
+            "answer": "Vill du ändra frekvensen på din prenumeration?\n\nDet är möjligt, du kan enkelt justera detta själv på ditt konto.\n\nHar du fastnat? Skicka ett meddelande till oss via WhatsApp eller e-post till hallo@thepolarcompany.com\n\nKan jag välja mellan Roller och Spray?\n"
+          }
+        },
+        "title": "Användning"
+      },
+      "option_3": {
+        "answers": {
+          "1": {
+            "title": "Vad händer om min betalning misslyckas?",
+            "answer": "Oroa dig inte, du kan försöka betala igen. Vi skickar ingen produkt till dig förrän betalningen är godkänd. \n\nHar du fortfarande inte lyckats med din betalning? Skicka ett meddelande till oss!"
+          },
+          "2": {
+            "title": "Hur är det med garantin?",
+            "answer": "Den lagstadgade garantin gäller för alla varor som du köper av oss. Rättslig garanti innebär att en produkt är eller måste göra det som konsumenten rimligen kan förvänta sig av den. \n\nHar du ett garantiärende? Skicka ett mejl till oss! hello@thepolarcompany.com"
+          },
+          "3": {
+            "title": "Är alla angivna priser inklusive moms? ",
+            "answer": "Alla priser på vår webbplats inkluderar moms."
+          }
+        }
+      },
+      "option_4": {
+        "title": "Andra frågor",
+        "answers": {
+          "1": {
+            "title": "Vad ska jag göra vid klagomål?",
+            "answer": "Vid klagomål kan du skicka ett e-postmeddelande till hallo@thepolarcompany.com. Vill du hellre ringa? Kontakta oss på +31 85 808 8243\""
+          },
+          "2": {
+            "title": "\"Jag får ibland utslag när jag använder produkten, vad kan jag göra?\n",
+            "answer": "Irritation\/utslag förekommer ibland och kan orsakas av fyra faktorer. Vi listar dem nedan: \n1. Fuktig hud \n2. För mycket produkter på ett och samma ställe\n3. Känslig hud\n4. Allergisk reaktion. \nFör att undvika irritation bör du följa de här stegen: \n1. 😴 Innan du somnar 2. 🚱 På torr hud 3. 💦 Roller: Applicera tunt 4. 💈 Raka dig inte 24 timmar i förväg 5. 🙆 Låt det torka en stund 6. 🚿 Tvätta huden kort på morgonen \nApplicera ett tunt lager, t.ex. 1 spray eller en minimal rulle, på torr hud. Låt huden torka en stund och gå sedan till sängs. Se till att du inte har rakat dig minst 24 timmar i förväg och tvätta huden på morgonen. \n\n"
+          },
+          "3": {
+            "title": "Är det säkert att använda denna produkt under graviditet?  ",
+            "answer": "Ja. Vår produkt fungerar endast på hudens yta, det finns absolut inget upptag i blodomloppet, så barnet kan inte skadas under graviditeten, även när barnet ammas."
+          },
+          "4": {
+            "title": "Är denna produkt säker för alla hudtyper?",
+            "answer": "Vår produkt är säker, även för känsliga hudtyper. \n\nFör känslig hud: \nSpraya en gång på varje område och applicera sparsamt med bomullsrondell (sminkborttagningspads är användbara). \n\nPå så sätt kan områden i ansiktet och andra känsliga hudområden, t.ex. i ljumskarna och under brösten, enkelt behandlas. Du kan använda talk för att absorbera överflödig produkt efter applicering."
+          },
+          "5": {
+            "title": "Är det farligt att förhindra svettning?",
+            "answer": "Det är inte farligt att kontrollera svettningen på de \"\"heta platserna\"\" eftersom huden svalkar sig själv på andra ställen på kroppen. \n\nDen svett som inte kan komma ut leds helt enkelt genom blodomloppet till andra svettkanaler eller utsöndras via njurarna."
+          },
+          "6": {
+            "title": "Är det säkert att använda denna produkt över hela kroppen?",
+            "answer": "Ja! \n\nFör känslig hud: Spraya en gång på varje område och applicera sparsamt med bomullsväv (sminkborttagningsdynor är användbara). På så sätt kan områden i ansiktet och andra känsliga hudområden, t.ex. i ljumskarna och under brösten, enkelt behandlas. Du kan använda talk för att absorbera överflödig produkt efter applicering."
+          }
+        }
+      },
+      "option_6": {
+        "answers": {
+          "4": {
+            "title": "Att spraya två gånger i veckan är inte tillräckligt för mig. Kan jag använda den oftare?",
+            "answer": "Alla är olika och vissa svettas mer än andra. Att använda vår produkt två gånger i veckan är en referenspunkt som fungerar för de flesta användare. Ta reda på vad som är användbart för dig. Om du behöver hjälp kan du skicka ett meddelande till oss: +31 858088243"
+          },
+          "1": {
+            "answer": " Varför måste jag använda denna produkt innan jag lägger mig?\n\nVår produkt är effektiv på grund av det lösliga saltet som löses upp i alkohol. Lösningen absorberas i huden på natten och förhindrar att svett når hudytan. Saltet försvinner naturligt efter några dagar, precis som den naturliga ersättningen av döda hudceller. Därför behöver du bara använda Polar en gång om dagen.\n"
+          },
+          "2": {
+            "title": "Kan jag använda lotion eller fuktighetskräm utöver denna produkt?",
+            "answer": "Ja, om du applicerar produkten enligt vår föreskrift kan du använda vilken annan produkt du vill utan biverkningar. \n\nOm du har några frågor om detta kan du skicka ett meddelande till oss på +31 858088243.\n"
+          },
+          "3": {
+            "title": "Jag tror att produkten inte fungerar för mig",
+            "answer": "Var inte ledsen. Vår erfarenhet säger oss att vår produkt verkligen fungerar för nästan alla. \n\nSkicka ett meddelande till oss för att tillsammans ta reda på vad som fungerar för dig: +31 858088243. \n\nFungerar det verkligen inte för dig? Vi kommer att återbetala dina pengar :)"
+          },
+          "5": {
+            "title": "Hur länge kan jag använda flaskan efter öppnandet?",
+            "answer": "Våra produkter kan användas upp till 6 månader efter öppnandet."
+          },
+          "6": {
+            "title": " Hur ofta ska jag använda den här produkten?",
+            "answer": "Det beror på varje person. Vi rekommenderar att du börjar med att använda den två gånger i veckan. \n\nAnvänd produkten till exempel på torsdags- och söndagskvällar för att se till att du är svettfri under veckan och helgerna. Om det inte räcker kan du också använda den oftare under veckan eller prova vår Strong-variant! "
+          }
+        },
+        "title": "Säkerhet"
+      },
+      "option_5": {
+        "answers": {
+          "1": {
+            "title": "Kan den här produkten ge fläckar på mina kläder?",
+            "answer": "Om du använder produkten enligt anvisningarna kommer den aldrig att fläcka dina kläder. För att vara säker, tvätta den behandlade huden på morgonen.\""
+          }
+        },
+        "title": "Hur det fungerar"
+      },
+      "option_7": {
+        "title": "Kroppsdelar",
+        "answers": {
+          "1": {
+            "title": "Hur applicerar jag bäst denna produkt under armhålorna?\n",
+            "answer": "Spraya under armen en eller två gånger. Om du känner dig mer bekväm med att applicera produkten med en bomullspad för att ta bort smink, är det också möjligt. \n\nInnan du applicerar produkten är det viktigt att du torkar och rengör huden ordentligt. Vissa använder en hårtork för att torka huden före användning eftersom produkten kan vara irriterande när den kommer i kontakt med fukt (svett).\n\n\n\n\n\n"
+          },
+          "2": {
+            "title": "Kan jag använda denna produkt i hårbotten?",
+            "answer": "Du kan spraya produkten direkt på hårbotten. Dela upp håret efter behov och behandla sedan med fingertopparna. Förhindra att vätskan rinner i ögonen."
+          },
+          "3": {
+            "title": "Kan jag använda denna produkt i ansiktet?",
+            "answer": "Ja! Produkten kan användas på alla delar av huden. Tänk på att inte spraya i ögonen. \n\nFör känslig hud: Spraya endast en gång på varje område och applicera sparsamt med bomullsväv (sminkborttagningsdynor är användbara)."
+          },
+          "4": {
+            "title": "Kommer denna produkt att förhindra svettning på ryggen?",
+            "answer": "Vår produkt håller ryggraden torr, men vissa personer upplever att ryggen fortfarande \"\"läcker\"\". I det här fallet är det bäst att fortsätta använda produkten två gånger i veckan och använda en vingad bindväv. De är inte synliga och skyddar underkläderna."
+          },
+          "5": {
+            "title": "Hjälper denna produkt mot fukt på händer och fötter?\n",
+            "answer": "Ja! Vår produkt är framtagen för att förhindra svettning på alla delar av huden. Om du undviker syntetiska skor som är tillverkade av material som inte andas hjälper du också dina fötter att svettas mindre."
+          },
+          "6": {
+            "title": "Kan jag använda den här produkten på pubishögen?",
+            "answer": "Ja, men du måste vara extra försiktig eftersom huden är tunnare och därför känsligare i detta område. \n\nSe till att din hud är riktigt torr (talk eller en hårtork kan hjälpa) och applicera produkten sparsamt med hjälp av en bomullstuss enligt anvisningarna."
+          }
+        }
+      }
+    }
+  },
+  "faq-help": {
+    "title": "Hjälp",
+    "content": "Du är välkommen att kontakta oss när som helst, men innan du gör det kan du kolla våra vanliga frågor [FAQ] för att se om din fråga redan har besvarats.",
+    "open-time": "Mån - fre; 9:00 - 18:00",
+    "email": "Skicka e-post till oss:"
+  },
+  "footer": {
+    "title": "Vi är här för att hjälpa dig!",
+    "help_faq": "Hjälp och FAQ",
+    "returns": "Returnerar",
+    "feedback": "Återkoppling",
+    "vacancies": "Lediga tjänster",
+    "blog": "Blogg",
+    "terms": "Villkor och bestämmelser",
+    "privacy": "Integritetspolicy",
+    "open-time": "Mån - fre; 9:00 - 18:00",
+    "email": "Skicka e-post till oss:",
+    "corpory": "© 2023 The Polar Company. Alla rättigheter förbehålls"
+  },
+  "gift_card": {
+    "title": "Här är ditt presentkort!",
+    "title_1": "Här är din ",
+    "title_2": " presentkort för",
+    "disabled": "Inaktiverad",
+    "expired_on": "Utgått den ",
+    "use_card": "Använd den här koden i kassan för att lösa in ditt presentkort.",
+    "start": "Börja handla",
+    "print": "Skriv ut"
+  },
+  "howitworks": {
+    "title": "Så här fungerar det!",
+    "topics": {
+      "top1": {
+        "title": "Salt och alkohol",
+        "content": "Vi använder en speciell, hemlig formel som blandar salt och alkohol tillsammans. Den används i både våra spray- och rullprodukter. Vi använder salt eftersom det är en viktig ingrediens som tillfälligt stänger av svettkörtlarna och förhindrar att bakterier sprids för att hålla huden hygienisk."
+      },
+      "top2": {
+        "title": "Spraya och sova",
+        "content": "Spraya före sänggåendet och låt Polar göra sin magi medan du sover. Innan du applicerar Polar är det viktigt att du torkar och rengör huden ordentligt. Spraya en eller två gånger under armhålan eller rulla ett tunt lager med rullen, låt det torka och hoppa sedan i säng. Formulan vi använder håller svetten inne i huden, så att du vaknar upp sval, fräsch och säker på att kunna njuta av dagen. Det är verkligen så enkelt:)"
+      }
+    },
+    "faq": {
+      "title": "Ofta ställda frågor",
+      "subtitle": "Hitta svaret på din fråga nedan!",
+      "options": {
+        "option_1": {
+          "title": "Leverans",
+          "answers": {
+            "1": {
+              "title": "Jag beställde Extra Strong men fick Strong. Hur är detta möjligt?",
+              "answer": "Flaskorna har nyligen fått ett nytt utseende. På de nya flaskorna står det för närvarande bara \"\"Strong\"\". Strong innehåller dock fortfarande den kraftfulla formeln som tidigare!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Andra frågor",
+          "answers": {
+            "1": {
+              "title": "Varför innehåller produkterna alkohol?",
+              "answer": "Vår produkt är baserad på alkohol och inte vatten eftersom det lösliga saltet måste aktiveras i huden och inte på ytan.\n"
+            }
+          }
+        },
+        "option_3": {
+          "title": "Hur det fungerar",
+          "answers": {
+            "1": {
+              "title": "Hur fungerar det?",
+              "answer": "Vår produkt är effektiv på grund av det lösliga saltet som löses upp i alkohol. #BR #BR Lösningen absorberas i huden på natten och förhindrar att svett når hudytan. #BR #BR Saltet försvinner naturligt efter några dagar, liksom den naturliga ersättningen av döda hudceller. #BR #BR Därför behöver du bara använda den en gång på några dagar."
+            }
+          }
+        },
+        "option_4": {
+          "title": "Användning",
+          "answers": {
+            "1": {
+              "title": "Varför måste jag använda denna produkt innan jag lägger mig?",
+              "answer": "Vår produkt är effektiv på grund av det lösliga saltet som löses upp i alkohol. Lösningen absorberas i huden på natten och förhindrar att svett når hudytan. Saltet försvinner naturligt efter några dagar, precis som den naturliga ersättningen av döda hudceller. Därför behöver du bara använda Polar en gång om dagen.\n"
+            }
+          }
+        }
+      }
+    }
+  },
+  "jobs": {
+    "title": "Kommer du och hjälper oss? ",
+    "content": "#P Du är alltså intresserad av att arbeta med vårt team! Bra. Vi vill gärna höra mer om hur du kan hjälpa vårt lilla företag att växa.#BR#\/P #P#BR#\/P #P Skicka ett e-postmeddelande till #A #Uhallo@thepolarcompany.com#\/U#\/A och presentera dig!#\/P",
+    "baseboard": "Det finns för närvarande inga lediga tjänster.   "
+  },
+  "menu": {
+    "shop": "Butik ",
+    "about": "Om oss",
+    "how_it_works": "Hur det fungerar",
+    "subscription": "Abonnemang",
+    "help_faq": "Hjälp och FAQ",
+    "log_out": "Logga ut",
+    "log_in": "Logga in",
+    "contact": "Kontakta",
+    "blog": "Blogg",
+    "vacancies": "Lediga tjänster",
+    "terms": "Villkor och bestämmelser",
+    "privacy": "Integritetspolicy"
+  },
+  "show_more": "Visa mer",
+  "modal_1": {
+    "title": "Vi ser att du köper från ett annat land. Vill du att vi ändrar ditt land och din valuta?",
+    "yes": "Ja",
+    "no": "Nej"
+  },
+  "modal_subscrition": {
+    "title": "Prenumererar du? Fantastiskt!",
+    "info_1": "#B Flexibel frekvens:#\/B #BR Inte säker på hur ofta du behöver TP? Inga problem! Du kan alltid justera det i ditt portal.",
+    "info_2": "#B Påminnelse 3 dagar innan:#\/B #BR Vi skickar ett e-postmeddelande till dig innan varje leverans. Om du inte är redo kan du skjuta upp leveransen. Oroa dig inte, vi kommer bara fakturera dig när din order har skickats.",
+    "info_3": "#B Avbryt och ändra när som helst:#\/B #BR Du kan enkelt avbryta, göra ändringar, lägga till produkter och hantera din leveransschema via ditt online-konto.",
+    "button": "Aye aye, kapten!",
+    "footer": "#B Engångsrabattkod#\/B tillgänglig för #Bnya prenumeranter endast.#\/B Återkommande beställningar kommer att debiteras automatiskt till ordinarie pris. Erbjudandet kan inte användas tillsammans med andra rabattkoder."
+  },
+  "modal_variant": {
+    "title": "Var god välj en variant innan du lägger till i varukorgen.",
+    "close": "Stäng"
+  },
+  "privacy": {
+    "title": "Integritets- och cookiepolicy för The Polar Company",
+    "subtitle": "15 april 2021"
+  },
+  "product": {
+    "faq": {
+      "title": "Vanliga frågor",
+      "subtitle": "Hitta svaret på din fråga nedan!",
+      "options": {
+        "option_1": {
+          "title": "Användning",
+          "answers": {
+            "1": {
+              "answer": "Stark: \nalkohol, aluminiumklorid hexahydrat, denatoniumbenzoat, citrus aurantium bergamia fruktolja, MEK \n\nOriginal: \nalkohol, vatten, aluminiumklorhydrat, propylenglykol, denatoniumbenzoat, citrus aurantium bergamia fruktolja, MEK.       Varför måste jag använda denna produkt innan jag lägger mig?\n",
+              "title": "Vilka är ingredienserna?"
+            },
+            "2": {
+              "title": "Varför måste jag använda denna produkt innan jag lägger mig?",
+              "answer": "Vår produkt är effektiv på grund av det lösliga saltet som löses upp i alkohol. Lösningen absorberas i huden på natten och förhindrar att svett når hudytan. Saltet försvinner naturligt efter några dagar, precis som den naturliga ersättningen av döda hudceller. Därför behöver du bara använda Polar en gång om dagen.\n"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Andra frågor",
+          "answers": {
+            "1": {
+              "title": "Hur länge kan jag använda flaskan efter öppnandet?",
+              "answer": "Våra produkter kan användas upp till 6 månader efter öppnandet.\n"
+            },
+            "2": {
+              "title": "Vad är leveranstiden för en beställning?",
+              "answer": "I genomsnitt levereras beställningar inom 2 till 3 arbetsdagar i Nederländerna. Ibland kan det också ta lite längre tid. \n\nOm din beställning skickas till Belgien, Frankrike, Tyskland eller Spanien tar det 3 till 5 arbetsdagar.\n"
+            }
+          }
+        },
+        "option_3": {
+          "title": "Leverans",
+          "answers": {
+            "1": {
+              "title": "Måste jag vara hemma för att ta emot min beställning?",
+              "answer": "Nej! Din beställning kommer att passa genom brevlådan. På så sätt kan du njuta av dagen till fullo.\n"
+            },
+            "2": {
+              "title": "Varför innehåller produkterna alkohol?",
+              "answer": "Vår produkt är baserad på alkohol och inte vatten eftersom det lösliga saltet måste aktiveras i huden och inte på ytan.\n"
+            }
+          }
+        },
+        "option_4": {
+          "title": "Hur det fungerar",
+          "answers": {
+            "1": {
+              "title": "Hur fungerar det?",
+              "answer": "Vår produkt är effektiv på grund av den lösliga salt som lösts upp i alkohol. #BR #BR Lösningen absorberas av huden på natten och hindrar svett från att nå hudytan. #BR #BR Saltet försvinner naturligt efter några dagar, som en naturlig ersättning av döda hudceller. #BR #BR Därför behöver du bara använda det en gång på några dagar."
+            }
+          }
+        }
+      }
+    }
+  },
+  "product_info": {
+    "amount": "Belopp",
+    "more_select": "80% vald",
+    "delivery": "Förväntad leverans: tis, 14 mars",
+    "added_to_cart": "Lägg till i varukorgen"
+  },
+  "product_related": {
+    "title": "Andra produkter du kanske gillar",
+    "button": "Gå till butiken."
+  },
+  "product_template": {
+    "select_size": "Välj en storlek:",
+    "sold_off": "Utsåld",
+    "added_to_cart": "Lägg till i varukorgen",
+    "composition": "Sammansättning",
+    "description": "Beskrivning"
+  },
+  "search": {
+    "not_found": "Ingen träff för:",
+    "results": "Resultat för:",
+    "home": "Hem"
+  },
+  "subscription": {
+    "title_1": "Varför gå med i gemenskapen?",
+    "content_1": "Gå med i vår gemenskap och få 5 € rabatt för hela livet. Vi levererar sedan din beställning direkt till din brevlåda.",
+    "title_2": "Livstidsrabatt på 5 euro",
+    "content_2": "När du behöver beställa på nytt levererar vi. Din rabatt på 5 euro tillämpas automatiskt.",
+    "title_3": "Fri leverans",
+    "content_3": "Våra förpackningar skickas via post och har utformats så att de enkelt kan glida in i brevlådan.",
+    "title_4": "Uppfriskande enkel kundservice",
+    "content_4": "Du kan välja var, när och hur mycket du behöver. Det finns inget finstilt. Eller skitsnack. Bara vi, i ditt hörn, för att hålla dig lugn när du behöver oss. Vi meddelar dig även när din beställning är på väg.",
+    "faq": {
+      "title": "Vanliga frågor och svar",
+      "subtitle": "Hitta svaret på din fråga nedan!",
+      "options": {
+        "option_1": {
+          "title": "Leverans",
+          "answers": {
+            "1": {
+              "title": "Jag beställde Extra Strong men fick Strong. Hur är detta möjligt?\n",
+              "answer": "Flaskorna har nyligen fått ett nytt utseende. På de nya flaskorna står det för närvarande bara \"\"Strong\"\". Strong innehåller dock fortfarande den kraftfulla formeln som tidigare!"
+            }
+          }
+        },
+        "option_2": {
+          "title": "Prenumeration",
+          "answers": {
+            "1": {
+              "title": "Jag vill få en ny flaska oftare, kan jag ändra detta?\n",
+              "answer": "Vill du ändra frekvensen på din prenumeration?\n\nDet är möjligt, du kan enkelt justera detta själv på ditt konto.\n\nHar du fastnat? Skicka ett meddelande till oss via WhatsApp eller e-post till hallo@thepolarcompany.com\n\nKan jag välja mellan Roller och Spray?\n"
+            },
+            "2": {
+              "title": "Vill du växla mellan Roller och Spray?",
+              "answer": "Det är möjligt, du kan välja mellan följande alternativ:\n- Rulle (original eller stark). - Spray (original eller stark).\n\nDu kan justera detta på ditt konto!"
+            },
+            "3": {
+              "title": "Jag vill ändra min adress, hur gör jag det?  ",
+              "answer": "Om din beställning inte har skickats kan du ändra din adress genom att skicka ett meddelande till oss via WhatsApp eller hallo@thepolarcompany.com. Vi kommer sedan att se till att din adress uppdateras."
+            }
+          }
+        }
+      }
+    }
+  }
+}
