@@ -1,0 +1,41 @@
+FROM node:18-bullseye-slim
+
+RUN echo 'root:akag' | chpasswd
+
+# Update the package lists and install essential tools
+RUN apt-get update && apt-get install -y \
+    curl \
+    build-essential \
+    libssl-dev \
+    git \
+    libreadline-dev \
+    zlib1g-dev \
+    libffi-dev \
+    libgdbm-dev \
+    libyaml-dev \
+    libncurses5-dev \
+    git gpg gnupg gpg-agent socat \
+    ca-certificates \ 
+    wget \
+    fonts-powerline \
+    procps \
+    bash \
+    bison \
+    autoconf \
+    curl gcc g++ make
+
+
+
+RUN curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
+
+RUN echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+
+RUN echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+
+
+RUN mkdir -p /home/node/app
+
+WORKDIR /home/node/app
+
+CMD [ ".docker/start.sh" ]
+#CMD [ "tail", "-f", "/dev/null" ]

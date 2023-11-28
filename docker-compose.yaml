@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - 3456:3456
+      - 9292:9292
+      - 8081:8081
+    volumes:
+      - .:/home/node/app    
